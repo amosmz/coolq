@@ -1,0 +1,1007 @@
+精确匹配	ABRA|abra|Abra|Abra	 PM:Abra,Bellsprout\n 地点:Route 5 区域:Land 时间:M/D 等级:17 是否会员:No\n PM:Abra,Meowth\n 地点:Route 5 区域:Land 时间:N 等级:17 是否会员:No
+精确匹配	BELLSPROUT|bellsprout|Bellsprout|Bellsprout	 PM:Abra,Bellsprout\n 地点:Route 5 区域:Land 时间:M/D 等级:17 是否会员:No
+精确匹配	MEOWTH|meowth|Meowth|Meowth	 PM:Abra,Meowth\n 地点:Route 5 区域:Land 时间:N 等级:17 是否会员:No\n PM:Magnemite,Meowth,Pineco\n 地点:Route 6 区域:Land 时间:N 等级:17 是否会员:No
+精确匹配	AIPOM|aipom|Aipom|Aipom	 PM:Aipom\n 地点:Route 44 区域:Land 时间:M/D/N 等级:21-26 是否会员:No\n PM:Aipom,Heracross\n 地点:Route 33 区域:Land 时间:M/D/N 等级:12-14 是否会员:No/Yes\n PM:Aipom,Miltank,Spinarak\n 地点:Hoenn Safari Zone Area 6 区域:Land 时间:N 等级:33-37 是否会员:No
+精确匹配	HERACROSS|heracross|Heracross|Heracross	 PM:Aipom,Heracross\n 地点:Route 33 区域:Land 时间:M/D/N 等级:12-14 是否会员:No/Yes\n PM:Ekans,Heracross\n 地点:Route 42 区域:Land 时间:M/D 等级:19 是否会员:No/Yes\n PM:Heracross\n 地点:Pattern Bush 区域:Land 时间:M/D/N 等级:16-30 是否会员:No\n PM:Heracross\n 地点:Route 28 区域:Land 时间:M/D 等级:44 是否会员:Yes\n PM:Heracross\n 地点:Route 28 区域:Land 时间:N 等级:43-44 是否会员:Yes
+精确匹配	MILTANK|miltank|Miltank|Miltank	 PM:Aipom,Miltank,Spinarak\n 地点:Hoenn Safari Zone Area 6 区域:Land 时间:N 等级:33-37 是否会员:No\n PM:Burmy,Miltank,Tauros\n 地点:Route 38 区域:Land 时间:M/D 等级:19-22 是否会员:Yes/No/No
+精确匹配	SPINARAK|spinarak|Spinarak|Spinarak	 PM:Aipom,Miltank,Spinarak\n 地点:Hoenn Safari Zone Area 6 区域:Land 时间:N 等级:33-37 是否会员:No\n PM:Hoothoot,Snubbull,Spinarak\n 地点:Route 30 区域:Land 时间:N 等级:5 是否会员:No
+精确匹配	ALOMOMOLA|alomomola|Alomomola|Alomomola	 PM:Alomomola\n 地点:Route 134 区域:Surf 时间:M/D/N 等级:37-40 是否会员:Yes
+精确匹配	ALTARIA|altaria|Altaria|Altaria	 PM:Altaria,Dusclops,Golbat\n 地点:Sky Pillar 5F 区域:Land 时间:M/D 等级:49-51 是否会员:No
+精确匹配	DUSCLOPS|dusclops|Dusclops|Dusclops	 PM:Altaria,Dusclops,Golbat\n 地点:Sky Pillar 5F 区域:Land 时间:M/D 等级:49-51 是否会员:No\n PM:Ariados,Dusclops,Golbat\n 地点:Sky Pillar 5F 区域:Land 时间:N 等级:49-51 是否会员:No
+精确匹配	GOLBAT|golbat|Golbat|Golbat	 PM:Altaria,Dusclops,Golbat\n 地点:Sky Pillar 5F 区域:Land 时间:M/D 等级:49-51 是否会员:No\n PM:Ariados,Claydol,Golbat\n 地点:Sky Pillar 3F 区域:Land 时间:M/D 等级:49-51 是否会员:No\n PM:Ariados,Dusclops,Golbat\n 地点:Sky Pillar 5F 区域:Land 时间:N 等级:49-51 是否会员:No\n PM:Ariados,Golbat,Mawile\n 地点:Sky Pillar 3F 区域:Land 时间:N 等级:49-51 是否会员:No\n PM:Ariados,Golbat,Sableye\n 地点:Sky Pillar 1F 区域:Land 时间:M/D/N 等级:49-51 是否会员:No\n PM:Gligar,Golbat,Wooper\n 地点:Dragons Den Entrance 区域:Land 时间:M/D/N 等级:49 是否会员:No
+精确匹配	ARIADOS|ariados|Ariados|Ariados	 PM:Ariados,Claydol,Golbat\n 地点:Sky Pillar 3F 区域:Land 时间:M/D 等级:49-51 是否会员:No\n PM:Ariados,Dusclops,Golbat\n 地点:Sky Pillar 5F 区域:Land 时间:N 等级:49-51 是否会员:No\n PM:Ariados,Golbat,Mawile\n 地点:Sky Pillar 3F 区域:Land 时间:N 等级:49-51 是否会员:No\n PM:Ariados,Golbat,Sableye\n 地点:Sky Pillar 1F 区域:Land 时间:M/D/N 等级:49-51 是否会员:No
+精确匹配	CLAYDOL|claydol|Claydol|Claydol	 PM:Ariados,Claydol,Golbat\n 地点:Sky Pillar 3F 区域:Land 时间:M/D 等级:49-51 是否会员:No
+精确匹配	MAWILE|mawile|Mawile|Mawile	 PM:Ariados,Golbat,Mawile\n 地点:Sky Pillar 3F 区域:Land 时间:N 等级:49-51 是否会员:No\n PM:Mawile\n 地点:Victory Road Hoenn B1F 区域:Land 时间:M/D/N 等级:49-52 是否会员:Yes
+精确匹配	SABLEYE|sableye|Sableye|Sableye	 PM:Ariados,Golbat,Sableye\n 地点:Sky Pillar 1F 区域:Land 时间:M/D/N 等级:49-51 是否会员:No\n PM:Sableye\n 地点:Jura Cave 区域:Land 时间:M/D 等级:27-30 是否会员:No
+精确匹配	AXEW|axew|Axew|Axew	 PM:Axew\n 地点:Granite Cave B1F 区域:Land 时间:M/N 等级:16-17 是否会员:Yes
+精确匹配	AZUMARILL|azumarill|Azumarill|Azumarill	 PM:Azumarill\n 地点:Route 111 South 区域:Surf 时间:M/D/N 等级:24 是否会员:No
+精确匹配	BAGON|bagon|Bagon|Bagon	 PM:Bagon,Clefairy,Lunatone\n 地点:Meteor Falls B1F 2R 区域:Land 时间:N 等级:21-26 是否会员:No\n PM:Bagon,Clefairy,Solrock\n 地点:Meteor Falls B1F 2R 区域:Land 时间:M/D 等级:21-26 是否会员:No
+精确匹配	CLEFAIRY|clefairy|Clefairy|Clefairy	 PM:Bagon,Clefairy,Lunatone\n 地点:Meteor Falls B1F 2R 区域:Land 时间:N 等级:21-26 是否会员:No\n PM:Bagon,Clefairy,Solrock\n 地点:Meteor Falls B1F 2R 区域:Land 时间:M/D 等级:21-26 是否会员:No\n PM:Clefairy,Deino,Solrock\n 地点:Meteor Falls B1F 1R 区域:Land 时间:M/D 等级:21-26 是否会员:No/Yes/No\n PM:Clefairy,Gligar,Slugma\n 地点:Dragons Den B1F 区域:Land 时间:M 等级:56-57 是否会员:No\n PM:Clefairy,Goomy,Slugma\n 地点:Dragons Den B1F 区域:Land 时间:N 等级:56-57 是否会员:No\n PM:Clefairy,Lunatone\n 地点:Meteor Falls B1F 1R 区域:Land 时间:N 等级:21-26 是否会员:No
+精确匹配	LUNATONE|lunatone|Lunatone|Lunatone	 PM:Bagon,Clefairy,Lunatone\n 地点:Meteor Falls B1F 2R 区域:Land 时间:N 等级:21-26 是否会员:No\n PM:Clefable,Lunatone,Solrock\n 地点:Moon 区域:Land 时间:M/D/N 等级:24-28 是否会员:No\n PM:Clefairy,Lunatone\n 地点:Meteor Falls B1F 1R 区域:Land 时间:N 等级:21-26 是否会员:No
+精确匹配	SOLROCK|solrock|Solrock|Solrock	 PM:Bagon,Clefairy,Solrock\n 地点:Meteor Falls B1F 2R 区域:Land 时间:M/D 等级:21-26 是否会员:No\n PM:Clefable,Lunatone,Solrock\n 地点:Moon 区域:Land 时间:M/D/N 等级:24-28 是否会员:No\n PM:Clefairy,Deino,Solrock\n 地点:Meteor Falls B1F 1R 区域:Land 时间:M/D 等级:21-26 是否会员:No/Yes/No
+精确匹配	BARBOACH|barboach|Barboach|Barboach	 PM:Barboach\n 地点:Route 120 区域:Surf 时间:M/D/N 等级:32 是否会员:No
+精确匹配	BASCULIN|basculin|Basculin|Basculin	 PM:Basculin,Slowbro,Slowpoke\n 地点:Secret Nap Area 区域:Surf 时间:M/D 等级:49-50 是否会员:Yes/No/No
+精确匹配	SLOWBRO|slowbro|Slowbro|Slowbro	 PM:Basculin,Slowbro,Slowpoke\n 地点:Secret Nap Area 区域:Surf 时间:M/D 等级:49-50 是否会员:Yes/No/No\n PM:Donphan,Golduck,Slowbro\n 地点:Unknown Place 区域:Land 时间:D 等级:49-59 是否会员:No\n PM:Donphan,Phanpy,Slowbro\n 地点:Unknown Place 区域:Land 时间:M 等级:49-59 是否会员:No\n PM:Gligar,Slowbro,Slugma\n 地点:Dragons Den B1F 区域:Land 时间:D 等级:56-57 是否会员:No\n PM:Lapras,Seadra,Slowbro\n 地点:Dragons Shrine 区域:Surf 时间:M/D/N 等级:63-64 是否会员:No
+精确匹配	SLOWPOKE|slowpoke|Slowpoke|Slowpoke	 PM:Basculin,Slowbro,Slowpoke\n 地点:Secret Nap Area 区域:Surf 时间:M/D 等级:49-50 是否会员:Yes/No/No\n PM:Buizel,Poliwag,Slowpoke\n 地点:Route 4 区域:Surf 时间:M/N 等级:11-15 是否会员:Yes/No/No\n PM:Poliwag,Slowpoke\n 地点:Route 4 区域:Surf 时间:D 等级:11-15 是否会员:No
+精确匹配	BELDUM|beldum|Beldum|Beldum	 PM:Beldum\n 地点:Hoenn Safari Zone Area 2 区域:Land 时间:M/D/N 等级:33-36 是否会员:No
+精确匹配	BRONZONG|bronzong|Bronzong|Bronzong	 PM:Bronzong\n 地点:Valley Of Steel Eastern Peak 区域:Land 时间:M/D 等级:38-41 是否会员:No\n PM:Bronzong\n 地点:Valley Of Steel Eastern Peak 区域:Land 时间:N 等级:37-41 是否会员:No
+精确匹配	BUDEW|budew|Budew|Budew	 PM:Budew\n 地点:Viridian Forest 区域:Land 时间:M/D 等级:9-12 是否会员:No
+精确匹配	BUIZEL|buizel|Buizel|Buizel	 PM:Buizel,Kingler\n 地点:Route 45 区域:Surf 时间:M 等级:35 是否会员:Yes/No\n PM:Buizel,Poliwag,Slowpoke\n 地点:Route 4 区域:Surf 时间:M/N 等级:11-15 是否会员:Yes/No/No
+精确匹配	KINGLER|kingler|Kingler|Kingler	 PM:Buizel,Kingler\n 地点:Route 45 区域:Surf 时间:M 等级:35 是否会员:Yes/No
+精确匹配	POLIWAG|poliwag|Poliwag|Poliwag	 PM:Buizel,Poliwag,Slowpoke\n 地点:Route 4 区域:Surf 时间:M/N 等级:11-15 是否会员:Yes/No/No\n PM:Horsea,Poliwag\n 地点:Route 42 区域:Surf 时间:N 等级:16-20 是否会员:No\n PM:Krabby,Poliwag,Psyduck\n 地点:Safari Area 3 区域:Surf 时间:M 等级:25 是否会员:No\n PM:Politoed,Poliwag,Psyduck\n 地点:Safari Area 3 区域:Surf 时间:N 等级:25 是否会员:No\n PM:Poliwag\n 地点:Route 22 区域:Land 时间:N 等级:8-9 是否会员:No\n PM:Poliwag\n 地点:Vermilion City 区域:Surf 时间:N 等级:19 是否会员:No\n PM:Poliwag,Slowpoke\n 地点:Route 4 区域:Surf 时间:D 等级:11-15 是否会员:No
+精确匹配	BURMY|burmy|Burmy|Burmy	 PM:Burmy,Miltank,Tauros\n 地点:Route 38 区域:Land 时间:M/D 等级:19-22 是否会员:Yes/No/No\n PM:Burmy,Raticate\n 地点:Route 38 区域:Land 时间:N 等级:19-22 是否会员:Yes/No
+精确匹配	TAUROS|tauros|Tauros|Tauros	 PM:Burmy,Miltank,Tauros\n 地点:Route 38 区域:Land 时间:M/D 等级:19-22 是否会员:Yes/No/No
+精确匹配	RATICATE|raticate|Raticate|Raticate	 PM:Burmy,Raticate\n 地点:Route 38 区域:Land 时间:N 等级:19-22 是否会员:Yes/No\n PM:Grimer,Raticate,Slugma\n 地点:Route 16 区域:Land 时间:N 等级:26 是否会员:No
+精确匹配	CHANSEY|chansey|Chansey|Chansey	 PM:Chansey\n 地点:Safari Entrance 区域:Land 时间:N 等级:26 是否会员:No\n PM:Chansey,Nidorino\n 地点:Safari Entrance 区域:Land 时间:M/D 等级:26 是否会员:No
+精确匹配	NIDORINO|nidorino|Nidorino|Nidorino	 PM:Chansey,Nidorino\n 地点:Safari Entrance 区域:Land 时间:M/D 等级:26 是否会员:No\n PM:Nidorina,Nidorino,Primeape\n 地点:Route 9 区域:Land 时间:M 等级:17-19 是否会员:Yes/No/Yes
+精确匹配	CHIKORITA|chikorita|Chikorita|Chikorita	 PM:Chikorita,Foongus,Scatterbug\n 地点:Safari Johto Grass And Swamp Zone 区域:Land 时间:M/N 等级:22-25 是否会员:No/Yes/No\n PM:Chikorita,Scatterbug\n 地点:Safari Johto Grass And Swamp Zone 区域:Land 时间:D 等级:22-25 是否会员:No
+精确匹配	FOONGUS|foongus|Foongus|Foongus	 PM:Chikorita,Foongus,Scatterbug\n 地点:Safari Johto Grass And Swamp Zone 区域:Land 时间:M/N 等级:22-25 是否会员:No/Yes/No
+精确匹配	SCATTERBUG|scatterbug|Scatterbug|Scatterbug	 PM:Chikorita,Foongus,Scatterbug\n 地点:Safari Johto Grass And Swamp Zone 区域:Land 时间:M/N 等级:22-25 是否会员:No/Yes/No\n PM:Chikorita,Scatterbug\n 地点:Safari Johto Grass And Swamp Zone 区域:Land 时间:D 等级:22-25 是否会员:No
+精确匹配	CHINCHOU|chinchou|Chinchou|Chinchou	 PM:Chinchou\n 地点:Route 26 区域:Surf 时间:N 等级:29 是否会员:No\n PM:Chinchou,Tentacruel\n 地点:Route 20 区域:Surf 时间:N 等级:30 是否会员:No
+精确匹配	TENTACRUEL|tentacruel|Tentacruel|Tentacruel	 PM:Chinchou,Tentacruel\n 地点:Route 20 区域:Surf 时间:N 等级:30 是否会员:No\n PM:Gyarados,Lanturn,Tentacruel\n 地点:Nap Shore 区域:Surf 时间:M/D/N 等级:46-47 是否会员:No\n PM:Qwilfish,Tentacruel\n 地点:Route 13 区域:Surf 时间:N 等级:31-33 是否会员:Yes/No\n PM:Sharpedo,Tentacruel\n 地点:Mossdeep City 区域:Surf 时间:M/D/N 等级:40 是否会员:No\n PM:Sharpedo,Tentacruel\n 地点:Route 126 区域:Surf 时间:M/D/N 等级:40 是否会员:No
+精确匹配	CHINGLING|chingling|Chingling|Chingling	 PM:Chingling,Crobat,Makuhita\n 地点:Whirl Islands B1F 区域:Land 时间:M/D/N 等级:28 是否会员:No
+精确匹配	CROBAT|crobat|Crobat|Crobat	 PM:Chingling,Crobat,Makuhita\n 地点:Whirl Islands B1F 区域:Land 时间:M/D/N 等级:28 是否会员:No
+精确匹配	MAKUHITA|makuhita|Makuhita|Makuhita	 PM:Chingling,Crobat,Makuhita\n 地点:Whirl Islands B1F 区域:Land 时间:M/D/N 等级:28 是否会员:No
+精确匹配	CLAUNCHER|clauncher|Clauncher|Clauncher	 PM:Clauncher\n 地点:Route 109 区域:Surf 时间:M/D/N 等级:35 是否会员:Yes
+精确匹配	CLEFABLE|clefable|Clefable|Clefable	 PM:Clefable,Lunatone,Solrock\n 地点:Moon 区域:Land 时间:M/D/N 等级:24-28 是否会员:No
+精确匹配	DEINO|deino|Deino|Deino	 PM:Clefairy,Deino,Solrock\n 地点:Meteor Falls B1F 1R 区域:Land 时间:M/D 等级:21-26 是否会员:No/Yes/No
+精确匹配	c03|C03|thor|漩涡岛boss|漩涡岛|Thor|THOR|索尔|雷神boss|雷神索尔|雷神索尔boss|雷神索尔Boss|雷神Boss|索尔boss|索尔Boss|索尔BOSS	Thor 索尔\n地点：漩涡岛B4F Whirl Island B4F\n条件：6只100级\n精灵：快龙，甲贺忍蛙，梦幻，班吉拉，象牙猪，XD001（暗黑洛基亚）\n奖励：剩饭，3x气息腰带，3x神奇糖果，由基拉，呱呱泡蛙，迷你龙\n三连胜可选奖励：迷你龙，由基拉，呱呱泡蛙
+精确匹配	c04|C04|sage|和尚	SAGE\n地点：喇叭芽塔3F Bellsrout Tower 3F -桔梗市 violet city\n条件：队伍里只有100级精灵，201小时\n精灵：雷精灵，仙子精灵，月精灵，太阳精灵，叶精灵，冰精灵[\n奖励：伊布（有可能自带各种进化石）\n三连胜奖励：伊布
+精确匹配	c05|C05|bugsy	BUGSY\n地点：成都会员岛，亚马逊森林 Olivine City > Dock Island > Amazon Forest \n条件：队伍里只有100级精灵，150小时(不允许携带火系)\n精灵：巨钳螳螂，盖诺赛克特，铁面忍者，坚果哑铃，大甲，Mega赫拉克罗斯\n奖励：银粉，闪光毛毛虫，闪光独角虫，TM蜻蜓回转，飞天螳螂，大甲，种子铁球\n三连胜可选奖励：藤藤蛇，飞天螳螂，大甲，赫拉克罗斯，土居忍士
+精确匹配	c06|C06|bruno|席巴	BRUNO席巴\n地点：擂钵山山洞 Mt.Mortar Lower Cave \n条件：6只100级\n精灵：铁掌力士，头巾混混，恰雷姆，投射鬼，打击鬼，Mega大纲蛇\n奖励：TM地震，气息腰带，投射鬼，打击鬼，玛沙那，滑滑小子\n三连胜可选奖励：投射鬼，打击鬼，玛沙那，滑滑小子
+精确匹配	觉醒奇奇奇奇奇奇|觉醒111111	{@} 恶系觉醒
+精确匹配	觉醒奇偶偶偶偶奇|觉醒偶偶偶偶偶奇|觉醒奇偶偶偶偶偶|觉醒偶奇偶偶偶偶|觉醒偶偶偶偶偶偶|觉醒100001|觉醒000001|觉醒100000|觉醒010000|觉醒000000	{@} 格斗系觉醒
+精确匹配	觉醒奇偶奇奇偶奇|觉醒偶奇奇奇偶奇|觉醒奇偶奇奇偶偶|觉醒偶奇奇奇偶偶|觉醒101101|觉醒011101|觉醒101100|觉醒011100	{@} 幽灵系觉醒
+精确匹配	觉醒奇奇奇偶奇奇|觉醒偶偶偶奇奇奇|觉醒奇偶偶奇奇偶|觉醒偶偶偶奇奇偶|觉醒111011|觉醒000111|觉醒100110|觉醒000110	{@} 电系觉醒
+精确匹配	觉醒奇奇偶偶偶奇|觉醒偶奇偶偶偶奇|觉醒奇奇偶偶偶偶|觉醒偶偶奇偶偶偶|觉醒110001|觉醒010001|觉醒110000|觉醒001000	{@} 飞行系觉醒
+精确匹配	觉醒奇奇奇奇偶奇|觉醒偶偶偶偶奇奇|觉醒奇奇奇奇偶偶|觉醒偶偶偶偶奇偶|觉醒111101|觉醒000011|觉醒111100|觉醒000010	{@}钢系觉醒
+精确匹配	觉醒奇偶偶奇奇奇|觉醒偶奇偶奇奇奇|觉醒奇奇偶奇奇偶|觉醒偶奇偶奇奇偶|觉醒100111|觉醒010111|觉醒110110|觉醒010110	{@}超能系觉醒
+精确匹配	觉醒奇偶奇偶偶奇|觉醒偶偶奇偶偶奇|觉醒奇偶奇偶偶偶|觉醒偶奇奇偶偶偶|觉醒101001|觉醒001001|觉醒101000|觉醒011000	{@}毒系觉醒
+精确匹配	觉醒奇偶偶偶奇奇|觉醒偶奇偶偶奇奇|觉醒奇偶偶偶奇偶|觉醒偶奇偶偶奇偶|觉醒100011|觉醒010011|觉醒100010|觉醒010010	{@}火系觉醒
+精确匹配	觉醒奇奇偶奇奇奇|觉醒偶偶奇奇奇奇|觉醒奇偶奇奇奇偶|觉醒偶偶奇奇奇偶|觉醒110111|觉醒001111|觉醒101110|觉醒001110	{@}冰系觉醒
+精确匹配	觉醒奇奇奇偶偶奇|觉醒偶奇奇偶偶奇|觉醒奇奇奇偶偶偶|觉醒偶偶偶奇偶偶|觉醒111001|觉醒011001|觉醒111000|觉醒000100	{@}地系觉醒
+精确匹配	觉醒奇奇偶偶奇奇|觉醒偶偶奇偶奇奇|觉醒奇奇偶偶奇偶|觉醒偶偶奇偶奇偶|觉醒110011|觉醒001011|觉醒110010|觉醒001010	{@}水系觉醒
+精确匹配	萌萌私聊我|私聊我	{/@} 我来啦,如无反应，请加好友 [CQ:shake]
+精确匹配	a03|A03|技能列表|move list|Move List|Move list	{/@}【技能列表】[CQ:shake]\n编号    列表类型\ng01      TM 技能机列表\ng02      Move Tutor \n            技能教学列表\ng03      TM Tutor \n            技能机教学npc列表
+精确匹配	g01|TM列表|tm列表|Tm列表|技能机列表	{/@}【TM 技能机列表】\n【TM 技能机列表】\nTM16
+精确匹配	g02|Move Tutor|move tutor|Move tutor|MOVE TUTOR|技能教学列表	{/@}【Move Tutor 技能教学列表】\n技能名    名字\nFire Punch
+精确匹配	g03|TM Tutor|tm tutor|技能机教学npc列表|技能机教学|技能机npc	{/@}【TM Tutor 技能机教学npc列表】\n技能名          名字\nSky Attack
+精确匹配	[CQ:at,qq=2408238683]在吗	{@} 姐姐大人现在不在，有事请发私聊
+精确匹配	粉红岛攻略	粉红岛攻略\n地点：Vermilion City 中间 Officer Jenny(备好药物，要对战两次)\n按照群文件"粉红岛攻略"获得入岛机会，入岛后球会暂时给寄托到其他地方，背包无球正常，然后按照路线找到隐藏的NPC对打后，一路打到火箭队BOSS。\n\n第一次\n  Trainer:尼多王、尼多后、壶壶、波士可多拉、铁甲贝、还有一只忘了\n打败后跟"独角犀牛"对话\n选项:1 set free 多次点击直到成功火箭队BOSS出来\n第二次、打完后会自动退出该岛\n  Trainer:猫老大、班吉拉、龙头地鼠、超甲狂犀、尼多王、mega袋鼠\n\n进岛地点（费用2w）:Vermilion City 码头的Pinkan Lsland Sailor\n打完后二次进岛需要条件：90级电击兽、90级螳螂(不能进化，而且要亲密度满)
+精确匹配	在什么服|你们都在什么服|你们是什么服	群里大部分红服red、蓝服加群：568122862
+精确匹配	大家晚上好|大家早上好|大家好|早上好|晚上好	emmm，我不好，要发广告赶紧发，要不然没机会了，有事你就问呀，我就是那么任性
+精确匹配	nicochan	你不够权限查询该BOSS
+精确匹配	神奥条件	条件:方圆冠军，完成连环任务\n连环任务提示:在三个区域内在一个S开头的城市找一个S开头的npc\n神奥攻略记录by zwc(打输CD 140分钟)\n1.去黄金市saffron city右侧找一个s开头的npc 给他看一只ot的宝石海星（starmie）（成都港口可拾取） 进入对战\n阵容:雷精灵 喷火龙 妙蛙花 水箭龟 耿鬼 流氓鳄（80级左右很好打）\n2.去成都森林寻找一个i开头的npc 给他看ot甜甜萤(illumise)（捕捉地：爱岛撞树or117路全天） 进入对战 阵容：大力鳄 火爆兽 大菊花 菊石兽 皮可西 点击魔兽（90级左右）\n3.去方圆电厂寻找n开头的npc 查看ot尼多王（nidoking） 进入对战 阵容:蜥蜴王 巨沼怪 火焰鸡 牛蛙君 刺龙王 快龙（100级左右）\n4.去成都自然公园找n开头npc ot尼多后（Nidoqueen）进入对战 阵容：化石翼龙 胡地 仙子精灵 姆克鹰 暴飞龙 水精灵（100左右）\n5.成都港口浅黄市（olivine）o开头npc,位置在pc旁边的房子 ot大岩蛇（onix） 进入对战 阵容：班吉拉 龙头地鼠 巨钳螳螂 宝石海星 雷电兽 mega喷火驼（110左右？）\n6.方圆联盟右边 h开头红名 ot裂斑鱼（huntail）（珍珠贝进化 爱岛有珍珠贝可以捕捉 带深海之牙进化）进入对战 阵容：黑鲁加 怪力 烈箭鹰 mega巨金怪 火神虫 mega巨齿鲨（红名 120级）\n找grandma进入神奥
+精确匹配	c11|C11|terminator|白银山BOSS|白银山boss	TERMINATOR\n地点：Mt silver 白银山进入左边攀瀑上去\n条件：400小时游戏时间&&神奥冠军\n精灵：火焰鸟、多边兽Z、护城龙（盾甲龙）、Mega 波士可多拉、帝王拿波、钢铁超梦\n奖励：气腰*5, 盾甲龙 , Upgrade(怪异补丁) , 可可多拉
+精确匹配	b05|B05|神奥boss|神奥BOSS列表|神奥boss列表	【神奥boss】\n编号  名字\ns01   玛丽贝拉Maribela\ns02   Link\ns03   Letrix\ns04   Rowan\ns05   Saphirr\ns06   Ash Westbrook\n输入boss的编号以显示该boss的情报。\n例子：e01
+精确匹配	b06|BO6|Nikola|nikola	Nikola\n地点：Unknown Place - Trainer valley （峡谷） 冷却21天\n条件：神兽没有捕获标志，可以重新重置再次捕获\n精灵：超梦、Mega 喷火龙X、盖欧卡、代欧奇希斯、阿尔宙斯、快龙
+精确匹配	d14|D14|George|GEORGE	GEORGE(需要拥有3狗才能打)\n地点：Pewter Jail 监狱\n条件：完成前置任务,查看哪q01\n精灵：风速狗、长毛狗、多丽米亚、Mega 黑鲁加、雷电兽、路卡利欧\n奖励：35+ 、毒珠*2、火珠*2、命玉*2、小约克\n三连胜可选奖励：多丽米亚、卢卡、雷电兽、卡蒂狗\ntip:前置任务请打 q01
+精确匹配	s02|SO2|LINK|Link|link	LINK\n地点：Twinleaf Town 双叶镇(右上房间)\n条件：神奥冠军？\n精灵：顽皮雷弹、烈焰马、坚盾剑怪、青铜钟、战舞郎、Mega 阿勃梭鲁\n奖励：闪雷电球、20k(rupees kkk)、鬼剑、5气腰 5复活草药 10巨大根茎\n
+精确匹配	d07|D07|小刚boss|brock|小刚	BROCK\n地点：地鼠洞 diglett cave\n条件：150小时，最少1只100级\n精灵：大纲蛇，镰刀盔，隆隆岩，太古盔甲，超铁暴龙，雷吉洛克\n奖励：大金珠，大珍珠，神奇糖果，PPup，化石（claw,helix,dome,root）\n三次可选奖励：化石飞龙，化石盔，菊石兽，触手百合，太古羽虫
+精确匹配	d08|D08|koichi	KOICHI\n地点：金黄市练功场（超能道馆隔壁）saffron dojo\n条件：201小时，只有100级精灵在队里面\n]队伍1： 路卡里欧，柯波郎，赫拉克罗斯，蚊香泳士，怪力，勾帕路翁\n队伍2：路卡里欧，柯波郎，超能斗士，，蚊香泳士，流氓熊猫，代拉基翁\n队伍3：铁掌力士，柯波郎，超能斗士，打击鬼，修缮老头，毕力吉翁\n随机奖励：气息腰带，达人带子，利欧路，顽皮熊猫，柯波郎，艾比利，沙瓦郎\n三连胜可选奖励：利欧路，顽皮熊猫，柯波郎，艾比利，沙瓦郎
+精确匹配	d09|D09|shamac|监狱boss	SHAMAC\n地点：尼比市 pewter city监狱\n条件：队里全部100级，200小时\n精灵：拉提亚斯，乘龙，黏美露龙，Mega巨沼泽怪，奇诺栗鼠，Mega比雕 (3种不同的队形组合)\n随机奖励：气腰，糖果，闪光波波，水跃鱼，黏黏宝，乘龙，泡沫栗鼠\n三连胜可选奖励：乘龙，水跃鱼，黏黏宝，泡沫栗鼠
+精确匹配	d10|D10|南瓜王boss|南瓜王	THE PUMPKIN KING南瓜王\n地点：6号路\n条件：最少一只100级\n精灵：壶壶，乐天河童，小拉哒，梅卡阳玛，罗丝雷朵，劈斩司令\n奖励：壶壶，驹刀小兵，莲叶童子，光之石，满金市花店卖树果\n三连胜可选奖励：壶壶，驹刀小兵，莲叶童子
+精确匹配	d12|D12|boss|BOSS|Boss	Boss\n地点：关东会员岛-2号岛（15天冷却）\n条件：200小时+会员\n精灵：\nMega 超梦X：近身战，自我暗示，精神利刃，自我再生\n原始固拉多：雷电拳，喷射火焰，地震，剑舞\nXD001（暗黑洛基亚）：气旋攻击，宇宙力量，？，？\n原始盖欧卡：打雷，冲浪，冰光，冥想\nMega拉帝欧斯：辅助力量，冥想，龙波动，？\nMega裂空座：神速，逆鳞，？ ，？\n奖励：（50高级球，10糖果，10PPup，10气腰，进化辉石，突击背心），（圆陆鲨，铁哑铃，黏黏宝，宝贝龙），大量金币，六分之一概率出霏欧纳\n三连胜可选奖励：迷你龙，由基拉，宝贝龙，铁哑铃，黏黏宝，圆陆鲨+15天会员\n
+精确匹配	d13|D13|君沙小姐	Officer Jenny君沙小姐\n地点：粉红岛灯塔Pinkan island light house\n条件：，芳缘联盟冠军，完成粉红岛任务，400小时\n精灵：风速狗，阿利多斯，伦琴猫，雷电兽，心蝙蝠，鋼炮臂蝦\n随机奖励：各种石头，upgrade\n三连胜可选奖励：小猫怪，落雷兽，铁臂枪虾
+精确匹配	d11|D11|炎帝守护者|entei guardian|Entei Guardian	炎帝守护者Guardian\n地点：25号路山洞\n条件：750小时，雪拉比任务道具GS ball，三狗的图鉴（雪拉比任务战斗），岩浆铃铛lava bell\n精灵：Mega喷火龙Y，烈箭鹰，炎武王，炎帝，妙蛙花，怪力\n奖励：0-80k，专爱围巾，大晴天，火焰放射，过热，带着lava bell的玩家有概率可以跟炎帝战斗捕抓（一次性）\n四连胜奖励：小火龙，妙蛙种子，小箭雀，暖暖猪
+精确匹配	c01|C01|elm|空木|空木博士	ELM空木博士\n地点：阿露福遗迹Ruins of Alph\n条件：队里只有100级精灵\n精灵：珊瑚，波克基斯，火暴兽，大菊花，大力鳄，班吉拉\n奖励：成都御三家，波克比，奇迹种子，神秘水滴，煤炭\n三连胜可选奖励：成都御三家，波克比
+精确匹配	c02|C02|lorelei|科拿	LORELEI科拿\n地点：成都冰洞2F Ice Path 2F\n条件：6只100级\n精灵：乘龙，象牙猪，铁甲贝，玛狃拉，急冻鸟，Mega冰鬼护\n奖励：冬天套装，TM暴风雪，TM急冻光线，乘龙，雪童子，大舌贝，狃拉\n三连胜可选奖励：扭啦，雪童子，乘龙，大舌贝
+精确匹配	SLUGMA|slugma|Slugma|Slugma	 PM:Clefairy,Gligar,Slugma\n 地点:Dragons Den B1F 区域:Land 时间:M 等级:56-57 是否会员:No\n PM:Clefairy,Goomy,Slugma\n 地点:Dragons Den B1F 区域:Land 时间:N 等级:56-57 是否会员:No\n PM:Gligar,Slowbro,Slugma\n 地点:Dragons Den B1F 区域:Land 时间:D 等级:56-57 是否会员:No\n PM:Graveler,Slugma\n 地点:Mt. Ember Ruby Path B5F 区域:Land 时间:M/D/N 等级:34-40 是否会员:No\n PM:Grimer,Raticate,Slugma\n 地点:Route 16 区域:Land 时间:N 等级:26 是否会员:No\n PM:Muk,Slugma\n 地点:Route 18 区域:Land 时间:N 等级:30 是否会员:No\n PM:Muk,Slugma,Spearow\n 地点:Route 18 区域:Land 时间:M/D 等级:30 是否会员:No
+精确匹配	GOOMY|goomy|Goomy|Goomy	 PM:Clefairy,Goomy,Slugma\n 地点:Dragons Den B1F 区域:Land 时间:N 等级:56-57 是否会员:No
+精确匹配	CORPHISH|corphish|Corphish|Corphish	 PM:Corphish\n 地点:Nap Town 区域:Surf 时间:M/D 等级:46-47 是否会员:Yes
+精确匹配	CORSOLA|corsola|Corsola|Corsola	 PM:Corsola\n 地点:Route 20 区域:Surf 时间:M/D 等级:31 是否会员:No
+精确匹配	COTTONEE|cottonee|Cottonee|Cottonee	 PM:Cottonee\n 地点:Petalburg Woods 区域:Land 时间:M/D/N 等级:12-14 是否会员:Yes
+精确匹配	CRAWDAUNT|crawdaunt|Crawdaunt|Crawdaunt	 PM:Crawdaunt\n 地点:Route 123 区域:Surf 时间:M/D/N 等级:36-37 是否会员:No
+精确匹配	CUBCHOO|cubchoo|Cubchoo|Cubchoo	 PM:Cubchoo\n 地点:Route 216 区域:Land 时间:M/D/N 等级:38-39 是否会员:No
+精确匹配	CUBONE|cubone|Cubone|Cubone	 PM:Cubone,Kangaskhan,Teddiursa\n 地点:Rock Tunnel 1 区域:Land 时间:M/D 等级:26 是否会员:No/Yes/No\n PM:Cubone,Teddiursa\n 地点:Rock Tunnel 1 区域:Land 时间:N 等级:25-26 是否会员:No
+精确匹配	KANGASKHAN|kangaskhan|Kangaskhan|Kangaskhan	 PM:Cubone,Kangaskhan,Teddiursa\n 地点:Rock Tunnel 1 区域:Land 时间:M/D 等级:26 是否会员:No/Yes/No
+精确匹配	TEDDIURSA|teddiursa|Teddiursa|Teddiursa	 PM:Cubone,Kangaskhan,Teddiursa\n 地点:Rock Tunnel 1 区域:Land 时间:M/D 等级:26 是否会员:No/Yes/No\n PM:Cubone,Teddiursa\n 地点:Rock Tunnel 1 区域:Land 时间:N 等级:25-26 是否会员:No
+精确匹配	CYNDAQUIL|cyndaquil|Cyndaquil|Cyndaquil	 PM:Cyndaquil\n 地点:Mt. Ember 区域:Land 时间:M 等级:39-45 是否会员:No\n PM:Cyndaquil,Darumaka,Magneton\n 地点:Safari Johto Mountain Zone 区域:Land 时间:N 等级:22-25 是否会员:No/Yes/No\n PM:Cyndaquil,Magneton\n 地点:Safari Johto Mountain Zone 区域:Land 时间:M/D 等级:22-25 是否会员:No
+精确匹配	DARUMAKA|darumaka|Darumaka|Darumaka	 PM:Cyndaquil,Darumaka,Magneton\n 地点:Safari Johto Mountain Zone 区域:Land 时间:N 等级:22-25 是否会员:No/Yes/No
+精确匹配	MAGNETON|magneton|Magneton|Magneton	 PM:Cyndaquil,Darumaka,Magneton\n 地点:Safari Johto Mountain Zone 区域:Land 时间:N 等级:22-25 是否会员:No/Yes/No\n PM:Cyndaquil,Magneton\n 地点:Safari Johto Mountain Zone 区域:Land 时间:M/D 等级:22-25 是否会员:No\n PM:Magneton,Torkoal\n 地点:Valley Of Steel Western Peak 区域:Land 时间:D 等级:27 是否会员:No
+精确匹配	c07|C07|龙之祠|dragon shrine|渡	LANCE渡\n地点：龙洞-龙之祠\n条件：龙之祠需要150进化数，和给门卫看100级龙\n精灵：怪颚龙，爆音蝠，三头龙，快龙，捷克罗姆，mega暴飞龙\n随机奖励：气腰x5,弱点保险x5,糖果x5,牙牙，垃垃藻，青绵鸟\n三连胜可选奖励：牙牙，垃垃藻，青绵鸟，迷你龙
+精确匹配	c08|C08|水君守护者|suicune guardian|Suicune Guardian	水君守护者Guardian\n地点：Lake of Rage 怒之湖上方--> Secluded Lake\n条件：750小时，雪拉比任务道具GS ball，三狗的图鉴（雪拉比任务战斗），水之铃铛water bell\n精灵：Mega暴雪王，象牙猪，帝牙海狮，水君，大剑鬼，雪妖女\n奖励：0-80k，专爱眼镜，冰雹，沸水，冥想，带着water bell的玩家有概率可以跟水君战斗捕抓（一次性）\n四连胜奖励：跟水君战斗的机会（未打过的），海豹球，雪笠怪，雪童子，水水獭
+精确匹配	c09|C09|greinjack|龙洞外的	GREINJACK (已移除)\n地点：Blackthron City龙洞外面\n条件：380游戏时间，2格斗，2水，2恶，全部100级\n精灵：帕路奇亚，修缮老头，伊裴尔塔尔（Y神），刺龙王，三头龙，Mega路卡\n随机奖励：糖果x10,墨镜，命玉，潮湿石头，达人腰带，树果\n三连胜可选奖励：摔跤鹰，索罗亚，不良蛙，钳尾蝎，龟脚脚，铁臂枪虾
+精确匹配	c10|C10|小霞|小霞boss|misty	MISTY\n地点：route 41(41号路)\n条件：未知\n精灵：美纳斯，Mega暴鲤龙，刺龙王，波克基斯，吼鲸王，海兔兽\n奖励：大珍珠，祈雨，星之碎片，泡沫光线，无壳海兔，吼吼鲸，丑丑鱼\n三次可选奖励：未知
+精确匹配	e01|E01|矿区boss	GINGERY JONES\n地点：火焰小经矿区 Feral Site (Fiery Path) \n条件：只有100级精灵在队里，2400探索率\n精灵：秃鹰娜，钢砲臂虾，修缮老头，齿轮怪，流氓熊猫，泥偶巨人\n奖励：剩饭，卡洛斯化石，神奇糖果，野生小灰怪/火红不倒翁 在你身后出现并进入战斗\n三次可选奖励：禿鷹丫頭，寶寶暴龍，冰雪龙，搬运小匠
+精确匹配	e02|E02|电厂boss|馬志士	LT.SURGE馬志士\n地点：新紫堇（芳缘发电厂）New Mauville\n条件：一只电系精灵，250+小时\n精灵：雷丘，幽浮磁怪，顽皮弹，电击魔兽，闪电鸟，Mega电龙\n奖励：剩饭，磁铁，落雷兽，皮卡丘（电珠），电击怪（持有进化道具），TM打雷\n三连胜可选奖励:皮卡丘，电击怪，落雷兽，小磁怪，泥巴鱼
+精确匹配	e03|E03|morty|小松	MORTY小松\n地点：送火山4F Mt.Pyre 4F\n条件：没有低于100级的精灵在队伍,201小时，给他看幽灵系精灵\n精灵：耿鬼，夜黑魔人，雪妖女，梦妖魔，Mega勾魂眼，达克莱伊\n奖励：南瓜精，诅咒护身符，勾魂眼，气息腰带，夜骷颅，TM影爪\n三连胜可选奖励：洛托姆，勾魂眼，南瓜精，夜骷颅
+精确匹配	e05|E05|ravine|鬼剑boss	RAVINE(已移除)\n地点：送火山山顶（右边）Mt.Pyre Summit\n条件：6只100级，最少250小时以上\n精灵：帕路奇牙，路卡利欧，黏美龙，波克基斯，双剑鞘，乌鸦头头\n奖励：10x超级球，TM精神干扰，独剑鞘，大嘴娃，3xMax repel，神奇糖果，铃铛，淤泥\n三连胜可选奖励：黑暗鸦，独剑鞘，大嘴娃，黏黏宝
+精确匹配	e04|E04|老太婆|old lady janice	OLD LADY JANICE(已移除)\n地点：水静市旅店2F Lilycove Motel 2F\n条件：第一次（100+总个体的喷嚏熊cubchoo)\n精灵：罗丝雷朵，太阳精灵，毽子草，玛丽露丽，电龙，Mega七夕青鸟\n奖励：第一次（喷嚏熊帽子），含羞苞，玛丽露，伊布，光之石\n三连胜可选奖励：含羞苞，玛丽露，伊布，毽子草
+精确匹配	e06|E06|大吾|steven	STEVEN大吾\n地点：钢之谷地下\n条件：完成钢之谷剧情任务，251小时，一个会铁壁的精灵和一个钢系精灵\n精灵：太古盔甲，劈斩司令，大嘴蛙，波士可多拉，齿轮怪，Mega巨金怪\n奖励：铁哑铃，大嘴蛙，可可多啦，駒刀小兵，不变石，金属膜\n三连胜奖励：齿轮儿
+精确匹配	e07|E07|鬼船|toothless	TOOTHLESS\n地点：108号路的废弃船Abandoned Ship B1F Room 1 - Route 108\n条件：只有100级精灵，301小时\n精灵：烈咬陆鲨，大奶罐，宝石海星，蒂安希，巨金怪，沼王\n奖励：大奶罐，海星星，铁哑铃，PP MAX, TM影爪，TM沸水\n三连胜可选奖励：大奶罐，海星星，铁哑铃，圆陆鲨
+精确匹配	e08|E08|雷公守护者|Raikou guardian|Raikou Guardian	雷公守护者Guardian\n地点： Route 110 （110号路冲浪）--> Secret Base Alpha（湖中某树洞）\n条件：750小时，雪拉比任务道具GS ball，三狗的图鉴（雪拉比任务战斗），雷之铃铛zap bell\n精灵：牛蛙君，Mega雷电兽，乐天河童，雷公，雷電斑馬，麻麻鳗鱼王\n奖励：0-80k，潮湿石头，PPup，打雷，祈雨，带着zap bell的玩家有概率可以跟雷公战斗捕抓（一次性）\n四连胜奖励：莲叶童子，落雷兽，麻麻小鱼，斑斑马
+精确匹配	b01|B01|关东boss|关东BOSS列表|关东boss列表|关东Boss列表	【关东boss】\n编号  名字\nd01   爱岛 Keres&Sgath\nd02   火箭队武藏/小次郎 Jessie/James\nd03   阿四 Chuck\nd04   莉佳 Erika\nd05   大木 Oak\nd06   超梦洞 Naero\nd07   小刚 Brock\nd08   信彥 Koichi\nd09   监狱 Shamac\nd10   南瓜王The pumpkin king\nd11   炎帝守护者 Guardian\nd12   关东会员岛 Boss\nd13   君沙小姐 Officer Jenny\nd14   George(需要拥有3狗)\n输入boss的编号以显示该boss的情报。\n例子：d01
+精确匹配	b02|B02|成都boss|成都BOSS列表|成都boss列表	【成都boss】\n编号  名字\nc01   空木博士Elm\nc02   科拿Lorelei\nc03   漩涡岛Thor 索尔\nc04   和尚Sage\nc05   成都会员岛虫系Bugsy\nc06   席巴Bruno\nc07   渡Lance\nc08   水君守护者Guardian\nc09   龙洞外的Greinjack(已移除)\nc10   小霞Misty\nc11   TERMINATOR\nc12   游戏厅-Gamer Pewdie&&Gamer Diepy\nc13   Neroli\n输入boss的编号以显示该boss的情报。\n例子：c01
+精确匹配	b03|B03|芳缘boss|芳缘BOSS列表|芳缘boss列表	【芳缘boss】\n编号  名字\ne01     矿区 Gingery Jones\ne02     馬志士 Lt.Surge\ne03     小松 Morty\ne04     老太婆 Old Lady Janice(已移除)\ne05     鬼剑 Ravine(已移除)\ne06     大吾 Steven\ne07     鬼船 Tooothless\ne08     雷公守护者 Guardian\ne09     小田卷博士 Birch\ne10     迪达拉 Kagawa\n输入boss的编号以显示该boss的情报。\n例子：e01
+精确匹配	q01|监狱任务	Step1：\n  三狗get后，去找你捕获的三狗红名BOSS（要仔细看是否让你去给科学家看）\n  tip:如果进入没有出现对话，将三狗放在队首试试看(放的话，请出来重新进入)\n  get雷公就去方圆的雷公红名boss\n  get水君就去成都的水君红名boss\n  get炎帝就去关东的炎帝红名boss\nStep2：\n  到成都圆朱市(Ecruteak city)铃铛塔塔顶，跟科学家讲话\n  如果铃铛塔门口科学家还在，证明第一步没有触发成功\nStep3:\n  对话完毕，穿洞绳回PC，铃铛塔门口，教学Dark Pulse下面的戴帽子老头对话\nStep4:\n  对话完毕,城市左边39号路（农场农舍进去）看到Dorge，对话并进入对战（120级布鲁）\n  找他5个兄弟233\nStep5:\n  吉花市(Cherrygrove City)左手边，游过去看到火箭队打扮(Jorge)对战(100级多丽米亚)\nStep6:\n  烟墨市(Blackthorn City)靠右往下跳，有一个小湖看到游泳的人(Gorje)对战(100级长毛狗)\nStep7:\n  桔梗市(Violet City)喇叭芽塔那个湖，往左游能看到(Gregourius)对战(100级卡蒂狗)\nStep8:\n  满金市(Goldenrod City)左上有一个木桥，(单独占用一块地)红色屋梁的房子进去看到(Georgina)对战(100级大狼犬)\nStep9:\n  回到关东尼比市(Pewter City)右上角(Jail)监狱对话警卫，看到(George)对战(6只120级)\nStep10:\n  回到成都圆朱市(Ecruteak city)铃铛塔塔顶，跟科学家讲话\nTips:\n  成都遗迹(Ruins Of Alph)博士的屋子里面找(Researcher Alan)可以学三狗(神兽貌似都可以)的技能(2W一次)\n  然后监狱红名George就可以打了，打 d14 查看阵容
+精确匹配	觉醒奇偶奇奇奇奇|觉醒偶奇奇奇奇奇|觉醒奇奇奇奇奇偶|觉醒偶奇奇奇奇偶|觉醒101111|觉醒011111|觉醒111110|觉醒011110	{@} 龙系觉醒
+精确匹配	觉醒奇偶偶奇偶奇|觉醒偶偶偶奇偶奇|觉醒奇偶偶奇偶偶|觉醒偶奇偶奇偶偶|觉醒100101|觉醒000101|觉醒100100|觉醒010100	{@} 石系觉醒
+精确匹配	觉醒奇偶奇偶奇奇|觉醒偶奇奇偶奇奇|觉醒奇奇奇偶奇偶|觉醒奇偶奇偶奇偶|觉醒偶奇奇偶奇偶|觉醒101011|觉醒011011|觉醒111010|觉醒101010|觉醒011010	{@} 草系觉醒
+精确匹配	觉醒奇奇偶奇偶奇|觉醒偶奇偶奇偶奇|觉醒偶偶奇奇偶奇|觉醒奇奇偶奇偶偶|觉醒偶偶奇奇偶偶|觉醒110101|觉醒010101|觉醒001101|觉醒110100|觉醒001100	{@} 虫系觉醒
+模糊匹配	中文怎么弄|有没有中文|游戏有中文|游戏有中文版|有中文版吗|有没有汉化|汉化版	{@} 这游戏没有中文版
+模糊匹配	如何注册|怎么注册|游戏注册|申请账号|怎样注册|注册账号|注册游戏|哪里注册|在哪注册|注册	{@} \nPKO（目前大家在玩）：\n群里下载游戏文件p1setup.exe,安装完成后\n进入游戏，点击Sign Up，从头依次填写\n\n游戏名、\n密码、\n再次输入密码、\n邮箱、\n再次输入邮箱\n\n点击Submit\n返回登陆界面  输入帐号密码登陆\n然后登陆输入的邮箱获取激活码，填写到登陆界面需要你提供的激活码栏中\n\nPRO:\n注册教程的视频http://www.bilibili.com/video/av3985996/\n注册的文档群里有，自己找下。注册地址：\nhttps://pokemonrevolution.net/register.php\n（注意：需要VPN才能浏览，不要直接用qq浏览器点开，因为qq浏览器有可能无法显示验证，如果开了VPN还是进不了，试一下换一个节点）
+模糊匹配	有没有手机版|手机版在哪下载|手机版下载在哪|手机能不能玩	{@} 群文件可以下载安卓手机版
+模糊匹配	有没有ios|ios版本	{@} 这游戏没有IOS版本
+精确匹配	菜单	编号 子菜单\na01 【技能机查询】\na02 【BOSS查询】\na03 【技能列表】（私聊发送）\na04 【觉醒计算器】\na05 【最新公告】\n请输入该子菜单编号以查看内容。\n例子：a01
+精确匹配	a01|A01|技能机查询	【技能机查询】\n输入技能机编号将会显示出该技能机的详细情报。\n例子：tm75
+精确匹配	a02|A02|boss查询|BOSS查询|Boss查询|Boss查询|boss列表|Boss列表	【Boss查询】\n编号  内容\nb01 【关东BOSS列表】\nb02 【成都BOSS列表】\nb03 【芳缘BOSS列表】\nb05 【神奥BOSS列表】\nb06  Nikola\n请输入该子菜单编号以查看内容。\n例子：b01
+精确匹配	a05|A05|最新公告|更新公告	【最新公告】10-26-2017版本更新 \n最新公告：\n-- 跟新爱岛BOSS资料\n-- 新增加万圣节BOSS 2个 hw01 hw02 查询\n-- 新增配招查询 如"#Abra"即可(查询Mega 需要打"#Abra-Mega")，配招来自PS，别问我什么意思，不懂就百度\n-- 重新修改技能查询模块(增加技能解释)，非pro技能，需要打前缀"查询" 如：’查询再来一次’\n-- 配招查询，以及技能查询建议私聊机器人
+精确匹配	d01|D01|爱岛boss|爱岛	Shary & Shaui爱岛情侣boss\n地点：爱岛Love Island\n条件：6只100级，队里不能携带 妖精、冰系 精灵，打败Shary后不能离开屋子去治疗否则当做失败\nShary精灵：雷电云、Mega 长耳兔、美洛耶塔、(拉帝亚斯)妹妹、雷精灵、Mega 差不多娃娃\nShaui精灵：Mega 烈咬陆鲨、沼王、沙漠蜻蜓、勾帕路翁、伦琴猫、三首恶龙\n$60000-95000, 2x TM115 - Shadow Claw, 2x TM85 - Flamethrower, 2x TM96 - Thief, 2x TM52 - Dragon Claw, 2x TM92 - Facade, 3x TM80 - Shadow Ball, 3x TM54 - Calm Mind, 3x TM62 - Taunt, 5x Rare Candy, 5x Dark Gem, Lunch Box, 5x Focus Sash, Goomy Hat, Eevee, Togepi, Marill, Pancham, Purrloin, Shinx, Buneary, Trapinch, Deino, Audino\n
+精确匹配	d02|D02|火箭队|小次郎|武藏	JESSIE & JAMES武藏小次郎打其中一个\n地点：彩虹市celadon city百货左边 \n条件：6只100级，队伍里需要有一只满级皮卡（非皮卡初始的玩家需要）\n小次郎JAMES精灵：双弹瓦斯，风速狗，乌贼王，梦歌奈亚，暴露菇，死神棺\n武藏JESSIE精灵：阿柏怪，毒粉蝶，梅卡阳玛，饭匙蛇，3D龙Z，胖嘟嘟\n随机奖励: 银色光盘（3d龙）, 火箭队套装, 沙漠奈亚, 轻飘飘, 宝贝球菇 , 豪喇花枝, 小果然\n三连胜可选奖励：无
+精确匹配	d03|D03|chuck|阿四	CHUCK阿四\n地点：金黃市黄金道馆 saffron city-gold gym\n条件：180小时，全100级\n精灵：怪力，师父鼬，修缮老头，火爆猴，路卡利欧，斗笠菇\n随机奖励：TM假勇敢+TM地狱滚动，达人带子，气息腰带，利欧路，蘑蘑菇，搬运小匠\n三连胜可选奖励：利欧路，蘑蘑菇，搬运小匠，小火焰猴
+精确匹配	d04|D04|erika|树洞boss|莉佳	ERIKA莉佳\n地点：常磐森林树洞迷宫 viridian forest maze\n条件：6只100级\n精灵：坚果哑铃，乐天河童，火神虫，狡猾天狗，土台龟，毕力吉翁\n随机奖励：叶之石，太阳石，奇迹种子，各种树果各5个，TM 日光束，燃烧虫，橡实果\n三连胜可选奖励：橡实果，燃烧虫，草苗龟，种子铁球
+精确匹配	d05|D05|oak|大木博士boss|大木博士|大木	OAK大木博士\n地点：红莲岛研究所2号房 Cinnabar Lab Room 2\n条件：6只100级/200图鉴\n精灵：肯泰罗，椰蛋树，Mega 妙蛙花，风速狗，袋龙，快龙\n随机奖励：关东御三家，奇迹种子，木炭，神秘的水滴，迷你龙，袋龙\n三连胜可选奖励：御三家，迷你龙，袋龙
+精确匹配	d06|D06|naero|超梦洞boss	NAERO\n地点：超梦洞 cerulean cave华篮洞窟\n条件：6只100级，201小时（会员6天刷新，非会员依旧12天）\n精灵：波克基斯，卡比兽，魔墙人偶，幸福蛋，电击魔兽，鸭嘴焰龙\n奖励：开通饲育屋，随机一只蛋宝宝：Elekid, Magby, Munchlax, Igglybuff, Cleffa, Smoochum, Togepi, Bonsly, Pichu，Tyrogue\n三连胜可选奖励：无
+精确匹配	Setu|setu|hw01|HW01|Hw01	Setu万圣节墓碑BOSS\n地点：Bittersweet Cave 4F (3天CD)\n条件：只能携带50级或者50级以下的宠\n60级精灵：花岩怪、黑夜魔灵、水晶灯火灵、南瓜怪人、朽木妖、死神棺\n随机奖励：28k+，5*糖果、5*red/orange 万圣节糖果\n5连胜有特殊奖励，暂未知
+精确匹配	Guardian Kaguya|万圣节主线BOSS|hw02|HW02|Hw02	Guardian Kaguya万圣节主线BOSS\n地点：Unison Mountain Summit山顶 (2天CD)\n条件：完成万圣节主线剧情，一次性BOSS\n60级精灵：莱希拉姆、酋雷姆、捷克罗姆、Y神、X神、Z神\n奖励：冥王龙翅膀
+精确匹配	C12|c12|成都游戏厅|游戏厅	Gamer Pewdie&&Gamer Diepy 成都游戏厅\n地点：成都游戏厅\n条件：队里不能携带 鬼、恶系 精灵，打败Gamer Pewdie后不能离开屋子去治疗否则当做失败\nGamer Pewdie :呆壳兽、魔墙人偶、人造细胞卵、象征鸟、超梦、基拉祈\nGamer Diepy:呆呆王、迷唇姐、日布、外星人、胡帕、梦幻\n奖励：未知、3个火、水、电石头
+精确匹配	c13|C13|Neroli|neroli|NEROLI	Neroli\n地点：成都雪拉比森林\n条件：队里必须携带雪拉比\nNeroli:雪拉比、Mega青鸟、鬼灯、美纳斯、钢鸟、粘龙\n奖励： $20000-40000, Goomy, Swablu, Feebas, Chikorita, Budew, Pansy Flower, Orchid Flower, Anemone Flower, Hibiscus Hat, Jasmine Flower, Miracle Seed, Leaf Stone, TM22 - Solarbeam, TM61 - Sunny Day
+模糊匹配	S05|s05|Saphirr|saphirr	Saphirr\n地点：Route 227(12天冷却)\n条件：神奥冠军、完成捕获火钢任务、需要攀岩、必须携带一只火系宠、卡比不允许携带\n精灵：固拉多、席多蓝恩(火钢)、刺龙王、沼王、烈箭鹰、Mega超梦 Y\n奖励：$15000-30000, 5x Focus Sash, 2x Magmarizer, Flame Orb, 火球鼠, 不倒翁
+精确匹配	技能地址	https://pokemonrevolution.net/forum/index.php?threads/tms-move-tutors.26749/
+精确匹配	RANK|rank|排名|排名查询	https://pokemonrevolution.net/ranking.php
+精确匹配	神兽捕获地址	https://pokemonrevolution.net/forum/index.php?threads/%E2%98%85-legendary-megathread%E2%8E%AAcomplete-quests-and-seen-data.75301/
+精确匹配	挑衅|TM62|tm62|Tm62|Tm62	名称：TM62|挑衅|Taunt\n(TM技能机)地点价格：\n FREE Trick House Prize Room \n Celadon Mart -- $2,000\n属性：恶\n分类：变化\n威力： —\n命中： 100\nPP： 20
+精确匹配	查询戏法|查询TRICK|查询trick|查询Trick|查询Trick	名称：戏法|Trick\n属性：超能力\n分类：变化\n威力： —\n命中： 100\nPP： 10
+精确匹配	查询魔装反射|魔法反射|查询MAGIC COAT|查询magic coat|查询Magic coat|查询Magic Coat	名称：魔装反射|魔法反射|Magic Coat\n属性：超能力\n分类：变化\n威力： —\n命中： —\nPP： 15
+精确匹配	傻力氣|蛮力|SUPERPOWER|superpower|Superpower|Superpower	名称：傻力氣|蛮力|Superpower\n(教学NPC)地点价格：\n Cianwood City -- $12,000 \n Tutor Heaven -- $12,000\n属性：格斗\n分类：物理\n威力： 120\n命中： 100\nPP： 5
+精确匹配	查询帮手|帮助|查询HELPING HAND|查询helping hand|查询Helping hand|查询Helping Hand	名称：帮手|帮助|Helping Hand\n属性：一般\n分类：变化\n威力： —\n命中： —\nPP： 20
+精确匹配	查询喷火|查询ERUPTION|查询eruption|查询Eruption|查询Eruption	名称：喷火|Eruption\n属性：火\n分类：特殊\n威力： 150\n命中： 100\nPP： 5
+精确匹配	查询封印|查询IMPRISON|查询imprison|查询Imprison|查询Imprison	名称：封印|Imprison\n属性：超能力\n分类：变化\n威力： —\n命中： —\nPP： 10
+精确匹配	莽撞|魯莽|蛮干|ENDEAVOR|endeavor|Endeavor|Endeavor	名称：莽撞|魯莽|蛮干|Endeavor\n(教学NPC)地点价格：\n Violet City -- $11,000\n属性：一般\n分类：物理\n威力： 变化\n命中： 100\nPP： 5
+精确匹配	查询哈欠|查询YAWN|查询yawn|查询Yawn|查询Yawn	名称：哈欠|Yawn\n属性：一般\n分类：变化\n威力： —\n命中： —\nPP： 10
+精确匹配	查询道具回收|回收利用|查询RECYCLE|查询recycle|查询Recycle|查询Recycle	名称：道具回收|回收利用|Recycle\n属性：一般\n分类：变化\n威力： —\n命中： —\nPP： 10
+精确匹配	查询焕然一新|查询REFRESH|查询refresh|查询Refresh|查询Refresh	名称：焕然一新|Refresh\n属性：一般\n分类：变化\n威力： —\n命中： —\nPP： 20
+精确匹配	打落|拍落|KNOCK OFF|knock off|Knock off|Knock Off	名称：打落|拍落|Knock Off\n(教学NPC)地点价格：\n Trainers Valley -- $15,000 \n Tutor Heaven -- $15,000\n属性：恶\n分类：物理\n威力： 65\n命中： 100\nPP： 20
+精确匹配	查询复仇|报复|查询REVENGE|查询revenge|查询Revenge|查询Revenge	名称：复仇|报复|Revenge\n属性：格斗\n分类：物理\n威力： 60\n命中： 100\nPP： 10
+精确匹配	劈瓦|TM81|tm81|Tm81|Tm81	名称：TM81|劈瓦|Brick Break\n(TM技能机)地点价格：\n Trainers Valley -- $7,500\n属性：格斗\n分类：物理\n威力： 75\n命中： 100\nPP： 15
+精确匹配	查询特性互换|查询SKILL SWAP|查询skill swap|查询Skill swap|查询Skill Swap	名称：特性互换|Skill Swap\n属性：超能力\n分类：变化\n威力： —\n命中： —\nPP： 10
+精确匹配	查询怨念|查询GRUDGE|查询grudge|查询Grudge|查询Grudge	名称：怨念|Grudge\n属性：幽灵\n分类：变化\n威力： —\n命中： —\nPP： 5
+精确匹配	查询洁净光芒|查询LUSTER PURGE|查询luster purge|查询Luster purge|查询Luster Purge	名称：洁净光芒|Luster Purge\n属性：超能力\n分类：特殊\n威力： 70\n命中： 100\nPP： 5
+精确匹配	查询萤火|查询TAIL GLOW|查询tail glow|查询Tail glow|查询Tail Glow	名称：萤火|Tail Glow\n属性：虫\n分类：变化\n威力： —\n命中： —\nPP： 20
+精确匹配	查询保护色|查询CAMOUFLAGE|查询camouflage|查询Camouflage|查询Camouflage	名称：保护色|Camouflage\n属性：一般\n分类：变化\n威力： —\n命中： —\nPP： 20
+精确匹配	查询突张|猛推|查询ARM THRUST|查询arm thrust|查询Arm thrust|查询Arm Thrust	名称：突张|猛推|Arm Thrust\n属性：格斗\n分类：物理\n威力： 15\n命中： 100\nPP： 20
+精确匹配	查询薄霧球|查询MIST BALL|查询mist ball|查询Mist ball|查询Mist Ball	名称：薄霧球|Mist Ball\n属性：超能力\n分类：特殊\n威力： 70\n命中： 100\nPP： 5
+精确匹配	查询羽毛舞|查询FEATHER DANCE|查询feather dance|查询Feather dance|查询Feather Dance	名称：羽毛舞|Feather Dance\n属性：飞行\n分类：变化\n威力： —\n命中： 100\nPP： 15
+精确匹配	潜水|HM06|hm06|Hm06|Hm06	名称：HM06|潜水|Dive\n(TM技能机)地点价格：\n Received at Mossdeep City Space Center 1F\n属性：水\n分类：物理\n威力： 80\n命中： 100\nPP： 10
+精确匹配	查询秘密之力|查询SECRET POWER|查询secret power|查询Secret power|查询Secret Power	名称：秘密之力|Secret Power\n属性：一般\n分类：物理\n威力： 70\n命中： 100\nPP： 20
+精确匹配	查询抢夺|查询SNATCH|查询snatch|查询Snatch|查询Snatch	名称：抢夺|Snatch\n属性：恶\n分类：变化\n威力： —\n命中： —\nPP： 10
+精确匹配	查询冰球|查询ICE BALL|查询ice ball|查询Ice ball|查询Ice Ball	名称：冰球|Ice Ball\n属性：冰\n分类：物理\n威力： 30\n命中： 90\nPP： 20
+精确匹配	查询崩击之爪|撕裂爪|查询CRUSH CLAW|查询crush claw|查询Crush claw|查询Crush Claw	名称：崩击之爪|撕裂爪|Crush Claw\n属性：一般\n分类：物理\n威力： 75\n命中： 95\nPP： 10
+精确匹配	查询剧毒牙|查询POISON FANG|查询poison fang|查询Poison fang|查询Poison Fang	名称：剧毒牙|Poison Fang\n属性：毒\n分类：物理\n威力： 50\n命中： 100\nPP： 15
+精确匹配	查询草裙舞|摇摆舞|摇晃舞|查询TEETER DANCE|查询teeter dance|查询Teeter dance|查询Teeter Dance	名称：草裙舞|摇摆舞|摇晃舞|Teeter Dance\n属性：一般\n分类：变化\n威力： —\n命中： 100\nPP： 20
+精确匹配	查询火焰踢|查询BLAZE KICK|查询blaze kick|查询Blaze kick|查询Blaze Kick	名称：火焰踢|Blaze Kick\n属性：火\n分类：物理\n威力： 85\n命中： 90\nPP： 10
+精确匹配	查询爆裂燃烧|爆炸烈焰|查询BLAST BURN|查询blast burn|查询Blast burn|查询Blast Burn	名称：爆裂燃烧|爆炸烈焰|Blast Burn\n属性：火\n分类：特殊\n威力： 150\n命中： 90\nPP： 5
+精确匹配	查询偷懒|查询SLACK OFF|查询slack off|查询Slack off|查询Slack Off	名称：偷懒|Slack Off\n属性：一般\n分类：变化\n威力： —\n命中： —\nPP： 10
+精确匹配	高级噪音|巨声|HYPER VOICE|hyper voice|Hyper voice|Hyper Voice	名称：高级噪音|巨声|Hyper Voice\n(教学NPC)地点价格：\n Route 28 -- $8,000\n属性：一般\n分类：特殊\n威力： 90\n命中： 100\nPP： 10
+精确匹配	查询玩泥|玩泥巴|查询MUD SPORT|查询mud sport|查询Mud sport|查询Mud Sport	名称：玩泥|玩泥巴|Mud Sport\n属性：地面\n分类：变化\n威力： —\n命中： —\nPP： 15
+精确匹配	查询针刺臂膀|尖刺臂|查询NEEDLE ARM|查询needle arm|查询Needle arm|查询Needle Arm	名称：针刺臂膀|尖刺臂|Needle Arm\n属性：草\n分类：物理\n威力： 60\n命中： 100\nPP： 15
+精确匹配	查询彗星拳|查询METEOR MASH|查询meteor mash|查询Meteor mash|查询Meteor Mash	名称：彗星拳|Meteor Mash\n属性：钢\n分类：物理\n威力： 90\n命中： 90\nPP： 10
+精确匹配	查询天气球|气象球|查询WEATHER BALL|查询weather ball|查询Weather ball|查询Weather Ball	名称：天气球|气象球|Weather Ball\n属性：一般\n分类：特殊\n威力： 50\n命中： 100\nPP： 10
+精确匹配	查询水压加农|加农水炮|查询HYDRO CANNON|查询hydro cannon|查询Hydro cannon|查询Hydro Cannon	名称：水压加农|加农水炮|Hydro Cannon\n属性：水\n分类：特殊\n威力： 150\n命中： 90\nPP： 5
+精确匹配	查询假哭|查询FAKE TEARS|查询fake tears|查询Fake tears|查询Fake Tears	名称：假哭|Fake Tears\n属性：恶\n分类：变化\n威力： —\n命中： 100\nPP： 20
+精确匹配	查询芳香疗法|芳香治疗|查询AROMATHERAPY|查询aromatherapy|查询Aromatherapy|查询Aromatherapy	名称：芳香疗法|芳香治疗|Aromatherapy\n属性：草\n分类：变化\n威力： —\n命中： —\nPP： 5
+精确匹配	查询气味侦测|查询ODOR SLEUTH|查询odor sleuth|查询Odor sleuth|查询Odor Sleuth	名称：气味侦测|Odor Sleuth\n属性：一般\n分类：变化\n威力： —\n命中： —\nPP： 40
+精确匹配	查询惊吓|查询ASTONISH|查询astonish|查询Astonish|查询Astonish	名称：惊吓|Astonish\n属性：幽灵\n分类：物理\n威力： 30\n命中： 100\nPP： 15
+精确匹配	过热|TM100|tm100|Tm100|Tm100	名称：TM100|过热|Overheat\n(TM技能机)地点价格：\n Lavaridge Town Gym -- $7,000 -- Special Offer: 5 for $28,000\n属性：火\n分类：特殊\n威力： 130\n命中： 90\nPP： 5
+精确匹配	查询真空斩|空气利刃|查询AIR CUTTER|查询air cutter|查询Air cutter|查询Air Cutter	名称：真空斩|空气利刃|Air Cutter\n属性：飞行\n分类：特殊\n威力： 60\n命中： 95\nPP： 25
+精确匹配	岩石封|岩石封杀|岩石封锁|TM89|tm89|Tm89|Tm89	名称：TM89|岩石封|岩石封杀|岩石封锁|Rock Tomb\n(TM技能机)地点价格：\n Rustboro Gym -- $3,000 -- Special Offer: 5 for $12,000\n属性：岩石\n分类：物理\n威力： 60\n命中： 95\nPP： 15
+精确匹配	查询宇宙力量|查询COSMIC POWER|查询cosmic power|查询Cosmic power|查询Cosmic Power	名称：宇宙力量|Cosmic Power\n属性：超能力\n分类：变化\n威力： —\n命中： —\nPP： 20
+精确匹配	查询草笛|查询GRASS WHISTLE|查询grass whistle|查询Grass whistle|查询Grass Whistle	名称：草笛|Grass Whistle\n属性：草\n分类：变化\n威力： —\n命中： 55\nPP： 15
+精确匹配	查询升天拳|易果实|冲天拳|查询SKY UPPERCUT|查询sky uppercut|查询Sky uppercut|查询Sky Uppercut	名称：升天拳|易果实|冲天拳|Sky Uppercut\n属性：格斗\n分类：物理\n威力： 85\n命中： 90\nPP： 15
+精确匹配	查询神通力|查询EXTRASENSORY|查询extrasensory|查询Extrasensory|查询Extrasensory	名称：神通力|Extrasensory\n属性：超能力\n分类：特殊\n威力： 80\n命中： 100\nPP： 20
+精确匹配	查询暗影拳|查询SHADOW PUNCH|查询shadow punch|查询Shadow punch|查询Shadow Punch	名称：暗影拳|Shadow Punch\n属性：幽灵\n分类：物理\n威力： 60\n命中： —\nPP： 20
+精确匹配	查询喷水|查询WATER SPOUT|查询water spout|查询Water spout|查询Water Spout	名称：喷水|Water Spout\n属性：水\n分类：特殊\n威力： 150\n命中： 100\nPP： 5
+精确匹配	查询银色旋风|查询SILVER WIND|查询silver wind|查询Silver wind|查询Silver Wind	名称：银色旋风|Silver Wind\n属性：虫\n分类：特殊\n威力： 60\n命中： 100\nPP： 5
+精确匹配	查询挠痒|查询TICKLE|查询tickle|查询Tickle|查询Tickle	名称：挠痒|Tickle\n属性：一般\n分类：变化\n威力： —\n命中： 100\nPP： 20
+精确匹配	查询金属音|查询METAL SOUND|查询metal sound|查询Metal sound|查询Metal Sound	名称：金属音|Metal Sound\n属性：钢\n分类：变化\n威力： —\n命中： 85\nPP： 40
+精确匹配	信号光线|信号光束|SIGNAL BEAM|signal beam|Signal beam|Signal Beam	名称：信号光线|信号光束|Signal Beam\n(教学NPC)地点价格：\n National Park Johto -- $8,000\n属性：虫\n分类：特殊\n威力： 75\n命中： 100\nPP： 15
+精确匹配	查询沙地狱|流沙地狱|查询SAND TOMB|查询sand tomb|查询Sand tomb|查询Sand Tomb	名称：沙地狱|流沙地狱|Sand Tomb\n属性：地面\n分类：物理\n威力： 35\n命中： 85\nPP： 15
+精确匹配	查询浊流|查询MUDDY WATER|查询muddy water|查询Muddy water|查询Muddy Water	名称：浊流|Muddy Water\n属性：水\n分类：特殊\n威力： 90\n命中： 85\nPP： 10
+精确匹配	查询远叫|长嚎|查询HOWL|查询howl|查询Howl|查询Howl	名称：远叫|长嚎|Howl\n属性：一般\n分类：变化\n威力： —\n命中： —\nPP： 40
+精确匹配	查询冰柱针|冰锥|查询ICICLE SPEAR|查询icicle spear|查询Icicle spear|查询Icicle Spear	名称：冰柱针|冰锥|Icicle Spear\n属性：冰\n分类：物理\n威力： 25\n命中： 100\nPP： 30
+精确匹配	查询绝对零度|查询SHEER COLD|查询sheer cold|查询Sheer cold|查询Sheer Cold	名称：绝对零度|Sheer Cold\n属性：冰\n分类：特殊\n威力： 变化\n命中： 变化\nPP： 5
+精确匹配	种子机关枪|BULLET SEED|bullet seed|Bullet seed|Bullet Seed	名称：种子机关枪|Bullet Seed\n(技能机教学NPC)地点价格：\n Sinnoh Safari Area Zone 2 -- $15,000\n属性：草\n分类：物理\n威力： 25\n命中： 100\nPP： 30
+精确匹配	GLIGAR|gligar|Gligar|Gligar	 PM:Clefairy,Gligar,Slugma\n 地点:Dragons Den B1F 区域:Land 时间:M 等级:56-57 是否会员:No\n PM:Gligar\n 地点:Route 45 区域:Land 时间:M/D/N 等级:37-40 是否会员:No\n PM:Gligar,Golbat,Wooper\n 地点:Dragons Den Entrance 区域:Land 时间:M/D/N 等级:49 是否会员:No\n PM:Gligar,Slowbro,Slugma\n 地点:Dragons Den B1F 区域:Land 时间:D 等级:56-57 是否会员:No
+精确匹配	攻略合集|图文合集	关东图文攻略：https://tieba.baidu.com/p/4771998178\n成都图文攻略：https://tieba.baidu.com/p/5106428424\n芳缘图文攻略：https://tieba.baidu.com/p/4612827208\n神奥图文攻略：https://tieba.baidu.com/p/5281481226
+精确匹配	Letrix|LETRIX|letrix|s03|S03	Letrix\n地点：Valley Windworks（山谷发电厂）\n条件：游戏时间400H，不能携带卡比(Snorlax)战斗\神奥冠军？\n精灵：亚克诺姆(蓝蘑菇)、狡猾天狗、波克基斯、卡比兽、龙头地鼠、原始盖欧卡\n奖励：大牙狸、闪鲤鱼王、单卵细胞球、波克比、螺钉地鼠、5糖果、梦幻帽(剩下辣鸡奖励)
+精确匹配	Rowan|rowan|ROWAN|S04|s04|神奥博士	Rowan(神奥博士)\n地点：Jubilife Trainers School（长寿市[Jubilife City]学校）\n条件：神奥冠军、神奥在线时间100H、拥有50神奥PM、75(seen)神奥数、300(seen)总图鉴数\n精灵：青铜钟、烈焰猴、天蝎王、土台龟、伦琴猫、帝王拿波、\n奖励：20k左右、金属膜、神秘水滴、柔软沙子、大牙狸、神奥御三家
+精确匹配	f01|F01|RIN|rin|凛|夏日岛守护者凛|summer guardian rin|rin boss	SUMMER GUARDIAN RIN 夏日守护者-凛\n（一次性剧情boss,如果输了48小时刷新）\n地点：VULCAN ISLAND SHORE 夏日岛海滨\n条件：通了岛上剧情\n精灵：火神虫，Mega喷火龙X，火焰鸟，烈焰猴，幽浮磁怪，波尔凯尼恩\n奖励：打败两个boss之后，才给吼吼鲸坐骑和随机夏天点数
+精确匹配	e09|E09|小田卷博士|小田卷|小田卷boss|birch boss|birch	BIRCH 小田卷博士\n地点： Vendaturf House 2 绿荫镇2号房子\n条件：队里全部100级\n精灵：大狼犬,恰雷姆,沙漠蜻蜓,大王燕,Mega 蜥蜴王/巨沼怪/火焰鸡, 请假王 (随着mega的不同，精灵排序也会不同)\n奖励: 糖果, 水跃鱼, 木守宫, 火稚鸡, 懒人翁,土狼犬, 大颚蚁\n三连胜可选奖励：芳缘御三家，未知
+精确匹配	f02|F02|夏日岛守护者柠|柠|summer guardian lime|lime|LIME|柠boss|lime boss	SUMMER GUARDIAN LIME 夏日守护者-柠\n（一次性剧情boss,如果输了48小时刷新）\n地点：KALIJODO LAKE 水舰队基地湖泊\n条件：通了岛上剧情\n精灵：火神虫，Mega喷火龙Y，炎帝，火焰鸡，幽浮磁怪，雷希拉姆\n奖励：打败两个boss之后，才给吼吼鲸坐骑和随机夏天点数
+精确匹配	e10|F10|Suhuzen|迪达拉	Suhuzen(迪达拉) \n地点：Route 111 Desert 芳缘沙漠\n条件：300小时\n精灵：姆克鹰，掘地兔，3D龙Z，光电伞蜥，爆音怪，雷吉奇卡斯\n奖励：$12000-30000, 5x Rare Candy, 5x PP Up, 5x Focus Sash, Cacnea, Sigilyph\n三连胜可选奖励：懒人獭, 麻麻小鱼, 象征鸟
+精确匹配	s01|S01|MARIBELA|玛丽贝拉	MARIBELA (玛丽贝拉)\n地点：Floaroma Meadow 花田水路后面进去\n条件：6只100级\n精灵：仙伊布, 哲尔尼亚斯(X神) , 妖火红狐 ,凯路迪欧 , 火神虫, 胖嘟嘟\n奖励：夏日点数，燃烧虫，伊布，火狐狸，5糖果，5气腰，轻飘飘\n三连胜可选奖励：燃烧虫，伊布，火狐狸，轻飘飘
+精确匹配	a04|A04|计算觉醒|觉醒计算器	【觉醒计算器】\n输入【觉醒(攻击防御速度特攻特防HP的奇偶或者1和0代表奇偶数)】\nPRO的属性排序,奇:1 & 偶:0\n例子:\n攻击31,防御:31,速度:31特攻:31,特防:30,HP:31\n输入【觉醒奇奇奇奇偶奇】 或 【觉醒111101】
+精确匹配	DEERLING|deerling|Deerling|Deerling	 PM:Deerling\n 地点:Route 120 区域:Land 时间:M/D/N 等级:30-35 是否会员:No
+精确匹配	DELIBIRD|delibird|Delibird|Delibird	 PM:Delibird,Jynx,Swinub\n 地点:Ice Path B1F 区域:Land 时间:N 等级:22-23 是否会员:No\n PM:Delibird,Swinub\n 地点:Ice Path B2F 区域:Land 时间:N 等级:24-26 是否会员:No
+精确匹配	JYNX|jynx|Jynx|Jynx	 PM:Delibird,Jynx,Swinub\n 地点:Ice Path B1F 区域:Land 时间:N 等级:22-23 是否会员:No\n PM:Jynx,Seel,Swinub\n 地点:Safari Johto Snow Zone 区域:Land 时间:M/D 等级:13-19 是否会员:No\n PM:Jynx,Swinub\n 地点:Ice Path B1F 区域:Land 时间:M/D 等级:22-23 是否会员:No
+精确匹配	SWINUB|swinub|Swinub|Swinub	 PM:Delibird,Jynx,Swinub\n 地点:Ice Path B1F 区域:Land 时间:N 等级:22-23 是否会员:No\n PM:Delibird,Swinub\n 地点:Ice Path B2F 区域:Land 时间:N 等级:24-26 是否会员:No\n PM:Jynx,Seel,Swinub\n 地点:Safari Johto Snow Zone 区域:Land 时间:M/D 等级:13-19 是否会员:No\n PM:Jynx,Swinub\n 地点:Ice Path B1F 区域:Land 时间:M/D 等级:22-23 是否会员:No\n PM:Swinub\n 地点:Ice Path 1F 区域:Land 时间:M/D 等级:24 是否会员:No\n PM:Swinub\n 地点:Ice Path B2F 区域:Land 时间:M/D 等级:22-26 是否会员:No\n PM:Swinub\n 地点:Ice Path B3F 区域:Land 时间:M/D 等级:22-24 是否会员:No
+精确匹配	DITTO|ditto|Ditto|Ditto	 PM:Ditto\n 地点:Desert Underpass 区域:Land 时间:M/D/N 等级:43-46 是否会员:No\n PM:Ditto\n 地点:Route 35 区域:Land 时间:M/D/N 等级:16 是否会员:No\n PM:Ditto\n 地点:Route 8 区域:Land 时间:N 等级:23-27 是否会员:No\n PM:Ditto,Gloom,Noctowl\n 地点:Route 47 区域:Land 时间:N 等级:25-34 是否会员:No\n PM:Ditto,Kadabra\n 地点:Route 8 区域:Land 时间:M/D 等级:23-27 是否会员:No\n PM:Ditto,Minun,Plusle\n 地点:Route 15 区域:Land 时间:M/D 等级:31-34 是否会员:No
+精确匹配	GLOOM|gloom|Gloom|Gloom	 PM:Ditto,Gloom,Noctowl\n 地点:Route 47 区域:Land 时间:N 等级:25-34 是否会员:No\n PM:Gloom,Kecleon\n 地点:Route 123 区域:Land 时间:M/D 等级:34-35 是否会员:No
+精确匹配	NOCTOWL|noctowl|Noctowl|Noctowl	 PM:Ditto,Gloom,Noctowl\n 地点:Route 47 区域:Land 时间:N 等级:25-34 是否会员:No
+精确匹配	KADABRA|kadabra|Kadabra|Kadabra	 PM:Ditto,Kadabra\n 地点:Route 8 区域:Land 时间:M/D 等级:23-27 是否会员:No\n PM:Kadabra\n 地点:Old Chateau Dining Room 区域:Land 时间:M/D/N 等级:18-19 是否会员:No\n PM:Kadabra\n 地点:Route 25 区域:Land 时间:M/D/N 等级:16-18 是否会员:No
+精确匹配	MINUN|minun|Minun|Minun	 PM:Ditto,Minun,Plusle\n 地点:Route 15 区域:Land 时间:M/D 等级:31-34 是否会员:No\n PM:Minun\n 地点:Route 29 区域:Land 时间:N 等级:5 是否会员:No
+精确匹配	PLUSLE|plusle|Plusle|Plusle	 PM:Ditto,Minun,Plusle\n 地点:Route 15 区域:Land 时间:M/D 等级:31-34 是否会员:No
+精确匹配	DONPHAN|donphan|Donphan|Donphan	 PM:Donphan,Golduck,Slowbro\n 地点:Unknown Place 区域:Land 时间:D 等级:49-59 是否会员:No\n PM:Donphan,Phanpy,Slowbro\n 地点:Unknown Place 区域:Land 时间:M 等级:49-59 是否会员:No\n PM:Donphan,Rapidash\n 地点:Mt Silver Upper Mountainside 区域:Land 时间:M/D 等级:52 是否会员:No\n PM:Donphan,Tangela,Zangoose\n 地点:Mt. Silver Exterior 区域:Land 时间:N 等级:41 是否会员:No/No/Yes\n PM:Donphan,Ursaring\n 地点:Mt. Silver Expert Belt 区域:Land 时间:M/D/N 等级:55 是否会员:No
+精确匹配	GOLDUCK|golduck|Golduck|Golduck	 PM:Donphan,Golduck,Slowbro\n 地点:Unknown Place 区域:Land 时间:D 等级:49-59 是否会员:No
+精确匹配	PHANPY|phanpy|Phanpy|Phanpy	 PM:Donphan,Phanpy,Slowbro\n 地点:Unknown Place 区域:Land 时间:M 等级:49-59 是否会员:No\n PM:Phanpy\n 地点:Route 46 区域:Land 时间:M 等级:7 是否会员:No
+精确匹配	RAPIDASH|rapidash|Rapidash|Rapidash	 PM:Donphan,Rapidash\n 地点:Mt Silver Upper Mountainside 区域:Land 时间:M/D 等级:52 是否会员:No\n PM:Rapidash\n 地点:Mt. Silver Exterior 区域:Land 时间:M/D 等级:43 是否会员:No
+精确匹配	TANGELA|tangela|Tangela|Tangela	 PM:Donphan,Tangela,Zangoose\n 地点:Mt. Silver Exterior 区域:Land 时间:N 等级:41 是否会员:No/No/Yes\n PM:Fearow,Spearow,Tangela\n 地点:Treasure Beach 区域:Land 时间:M 等级:14-38 是否会员:No
+精确匹配	ZANGOOSE|zangoose|Zangoose|Zangoose	 PM:Donphan,Tangela,Zangoose\n 地点:Mt. Silver Exterior 区域:Land 时间:N 等级:41 是否会员:No/No/Yes
+精确匹配	URSARING|ursaring|Ursaring|Ursaring	 PM:Donphan,Ursaring\n 地点:Mt. Silver Expert Belt 区域:Land 时间:M/D/N 等级:55 是否会员:No
+精确匹配	DRATINI|dratini|Dratini|Dratini	 PM:Dratini,Psyduck\n 地点:Love Island 区域:Surf 时间:M/D 等级:18-22 是否会员:No
+精确匹配	PSYDUCK|psyduck|Psyduck|Psyduck	 PM:Dratini,Psyduck\n 地点:Love Island 区域:Surf 时间:M/D 等级:18-22 是否会员:No\n PM:Krabby,Poliwag,Psyduck\n 地点:Safari Area 3 区域:Surf 时间:M 等级:25 是否会员:No\n PM:Magnemite,Pidgey,Psyduck\n 地点:Route 6 区域:Land 时间:D 等级:17 是否会员:No\n PM:Politoed,Poliwag,Psyduck\n 地点:Safari Area 3 区域:Surf 时间:N 等级:25 是否会员:No
+精确匹配	DRILBUR|drilbur|Drilbur|Drilbur	 PM:Drilbur\n 地点:Victory Road Kanto 2F 区域:Land 时间:M/D/N 等级:44-48 是否会员:Yes
+精确匹配	DURANT|durant|Durant|Durant	 PM:Durant\n 地点:National Park 区域:Land 时间:M/D 等级:23-25 是否会员:Yes\n PM:Durant\n 地点:National Park 区域:Land 时间:N 等级:15-25 是否会员:Yes
+精确匹配	DUSKULL|duskull|Duskull|Duskull	 PM:Duskull\n 地点:Trainers Valley 区域:Land 时间:N 等级:17 是否会员:No
+精确匹配	EEVEE|eevee|Eevee|Eevee	 PM:Eevee\n 地点:Safari Area 3 区域:Land 时间:M/D 等级:26-27 是否会员:No\n PM:Eevee\n 地点:Safari Area 3 区域:Land 时间:N 等级:25-27 是否会员:No
+精确匹配	EKANS|ekans|Ekans|Ekans	 PM:Ekans,Heracross\n 地点:Route 42 区域:Land 时间:M/D 等级:19 是否会员:No/Yes
+精确匹配	ELECTABUZZ|electabuzz|Electabuzz|Electabuzz	 PM:Electabuzz,Pachirisu,Pikachu\n 地点:Power Plant 区域:Land 时间:M/D/N 等级:24-26 是否会员:No/Yes/No
+精确匹配	PACHIRISU|pachirisu|Pachirisu|Pachirisu	 PM:Electabuzz,Pachirisu,Pikachu\n 地点:Power Plant 区域:Land 时间:M/D/N 等级:24-26 是否会员:No/Yes/No
+精确匹配	PIKACHU|pikachu|Pikachu|Pikachu	 PM:Electabuzz,Pachirisu,Pikachu\n 地点:Power Plant 区域:Land 时间:M/D/N 等级:24-26 是否会员:No/Yes/No
+精确匹配	ELGYEM|elgyem|Elgyem|Elgyem	 PM:Elgyem\n 地点:Moon B1F 区域:Land 时间:M/D/N 等级:24-27 是否会员:No
+精确匹配	ESPURR|espurr|Espurr|Espurr	 PM:Espurr,Haunter\n 地点:Old Chateau 1F 区域:Land 时间:M/D/N 等级:15-16 是否会员:Yes/No
+精确匹配	HAUNTER|haunter|Haunter|Haunter	 PM:Espurr,Haunter\n 地点:Old Chateau 1F 区域:Land 时间:M/D/N 等级:15-16 是否会员:Yes/No
+精确匹配	EXEGGCUTE|exeggcute|Exeggcute|Exeggcute	 PM:Exeggcute,Farfetch ’D,Pineco\n 地点:Route 39 区域:Land 时间:M 等级:21 是否会员:Yes/No/No\n PM:Exeggcute,Pineco\n 地点:Route 39 区域:Land 时间:D 等级:21 是否会员:Yes/No\n PM:Exeggcute,Pineco,Shinx\n 地点:Route 39 区域:Land 时间:N 等级:20-21 是否会员:Yes/No/No
+精确匹配	FARFETCH ’D|farfetch ’d|Farfetch ’d|Farfetch ’D	 PM:Exeggcute,Farfetch ’D,Pineco\n 地点:Route 39 区域:Land 时间:M 等级:21 是否会员:Yes/No/No\n PM:Farfetch ’D,Pidgeotto\n 地点:Route 13 区域:Land 时间:M/D 等级:31 是否会员:No
+精确匹配	PINECO|pineco|Pineco|Pineco	 PM:Exeggcute,Farfetch ’D,Pineco\n 地点:Route 39 区域:Land 时间:M 等级:21 是否会员:Yes/No/No\n PM:Exeggcute,Pineco\n 地点:Route 39 区域:Land 时间:D 等级:21 是否会员:Yes/No\n PM:Exeggcute,Pineco,Shinx\n 地点:Route 39 区域:Land 时间:N 等级:20-21 是否会员:Yes/No/No\n PM:Furret,Pidgeotto,Pineco\n 地点:Route 43 区域:Land 时间:D 等级:20 是否会员:No/No/Yes\n PM:Magnemite,Meowth,Pineco\n 地点:Route 6 区域:Land 时间:N 等级:17 是否会员:No\n PM:Pineco\n 地点:Route 4 区域:Land 时间:N 等级:13-15 是否会员:Yes
+精确匹配	SHINX|shinx|Shinx|Shinx	 PM:Exeggcute,Pineco,Shinx\n 地点:Route 39 区域:Land 时间:N 等级:20-21 是否会员:Yes/No/No\n PM:Shinx\n 地点:Route 1 区域:Land 时间:M/N 等级:8 是否会员:Yes\n PM:Shinx\n 地点:Route 1 区域:Land 时间:D 等级:7-8 是否会员:Yes\n PM:Shinx\n 地点:Route 29 区域:Land 时间:M/D 等级:6 是否会员:Yes\n PM:Shinx\n 地点:Route 36 区域:Land 时间:M/D 等级:18-21 是否会员:Yes
+精确匹配	PIDGEOTTO|pidgeotto|Pidgeotto|Pidgeotto	 PM:Farfetch ’D,Pidgeotto\n 地点:Route 13 区域:Land 时间:M/D 等级:31 是否会员:No\n PM:Furret,Pidgeotto,Pineco\n 地点:Route 43 区域:Land 时间:D 等级:20 是否会员:No/No/Yes
+精确匹配	FEAROW|fearow|Fearow|Fearow	 PM:Fearow,Spearow,Tangela\n 地点:Treasure Beach 区域:Land 时间:M 等级:14-38 是否会员:No
+精确匹配	SPEAROW|spearow|Spearow|Spearow	 PM:Fearow,Spearow,Tangela\n 地点:Treasure Beach 区域:Land 时间:M 等级:14-38 是否会员:No\n PM:Muk,Slugma,Spearow\n 地点:Route 18 区域:Land 时间:M/D 等级:30 是否会员:No
+精确匹配	FEEBAS|feebas|Feebas|Feebas	 PM:Feebas\n 地点:Jura Cave 区域:Surf 时间:M/D/N 等级:27-31 是否会员:No
+精确匹配	FLABEBE|flabebe|Flabebe|Flabebe	 PM:Flabebe\n 地点:Water Path 区域:Land 时间:M/D 等级:51-55 是否会员:No
+精确匹配	FRILLISH|frillish|Frillish|Frillish	 PM:Frillish\n 地点:Route 119A 区域:Surf 时间:M/D/N 等级:33-37 是否会员:Yes
+精确匹配	FURRET|furret|Furret|Furret	 PM:Furret,Pidgeotto,Pineco\n 地点:Route 43 区域:Land 时间:D 等级:20 是否会员:No/No/Yes
+精确匹配	GASTLY|gastly|Gastly|Gastly	 PM:Gastly,Sudowoodo\n 地点:Route 36 区域:Land 时间:N 等级:17 是否会员:No
+精确匹配	SUDOWOODO|sudowoodo|Sudowoodo|Sudowoodo	 PM:Gastly,Sudowoodo\n 地点:Route 36 区域:Land 时间:N 等级:17 是否会员:No
+精确匹配	GEODUDE|geodude|Geodude|Geodude	 PM:Geodude,Onix\n 地点:Granite Cave B1F 区域:Land 时间:D 等级:15 是否会员:No
+精确匹配	ONIX|onix|Onix|Onix	 PM:Geodude,Onix\n 地点:Granite Cave B1F 区域:Land 时间:D 等级:15 是否会员:No\n PM:Onix\n 地点:Mt. Moon 1F 区域:Land 时间:M/D/N 等级:15 是否会员:No\n PM:Onix\n 地点:Rock Tunnel 2 区域:Land 时间:M/D/N 等级:27-30 是否会员:No
+精确匹配	WOOPER|wooper|Wooper|Wooper	 PM:Gligar,Golbat,Wooper\n 地点:Dragons Den Entrance 区域:Land 时间:M/D/N 等级:49 是否会员:No
+精确匹配	KECLEON|kecleon|Kecleon|Kecleon	 PM:Gloom,Kecleon\n 地点:Route 123 区域:Land 时间:M/D 等级:34-35 是否会员:No
+精确匹配	GRAVELER|graveler|Graveler|Graveler	 PM:Graveler,Slugma\n 地点:Mt. Ember Ruby Path B5F 区域:Land 时间:M/D/N 等级:34-40 是否会员:No\n PM:Graveler,Steelix\n 地点:Mt. Silver 2F 区域:Land 时间:M/D/N 等级:55 是否会员:No
+精确匹配	STEELIX|steelix|Steelix|Steelix	 PM:Graveler,Steelix\n 地点:Mt. Silver 2F 区域:Land 时间:M/D/N 等级:55 是否会员:No\n PM:Steelix\n 地点:Mt Silver Moltres Cave 区域:Land 时间:M/D/N 等级:49 是否会员:No\n PM:Steelix\n 地点:Mt. Silver 1F 区域:Land 时间:M/D/N 等级:52 是否会员:No
+精确匹配	GRIMER|grimer|Grimer|Grimer	 PM:Grimer,Raticate,Slugma\n 地点:Route 16 区域:Land 时间:N 等级:26 是否会员:No
+精确匹配	GROWLITHE|growlithe|Growlithe|Growlithe	 PM:Growlithe,Vulpix\n 地点:Route 37 区域:Land 时间:N 等级:18 是否会员:Yes/No
+精确匹配	VULPIX|vulpix|Vulpix|Vulpix	 PM:Growlithe,Vulpix\n 地点:Route 37 区域:Land 时间:N 等级:18 是否会员:Yes/No
+精确匹配	GYARADOS|gyarados|Gyarados|Gyarados	 PM:Gyarados,Lanturn,Tentacruel\n 地点:Nap Shore 区域:Surf 时间:M/D/N 等级:46-47 是否会员:No
+精确匹配	LANTURN|lanturn|Lanturn|Lanturn	 PM:Gyarados,Lanturn,Tentacruel\n 地点:Nap Shore 区域:Surf 时间:M/D/N 等级:46-47 是否会员:No\n PM:Lanturn\n 地点:Olivine City 区域:Surf 时间:N 等级:24-25 是否会员:No
+精确匹配	HIPPOPOTAS|hippopotas|Hippopotas|Hippopotas	 PM:Hippopotas\n 地点:Desert Lagoon 区域:Land 时间:M/D/N 等级:19-24 是否会员:Yes
+精确匹配	HITMONCHAN|hitmonchan|Hitmonchan|Hitmonchan	 PM:Hitmonchan\n 地点:Mt. Silver Upper Mountainside 区域:Land 时间:M/D/N 等级:56-58 是否会员:Yes
+精确匹配	HITMONLEE|hitmonlee|Hitmonlee|Hitmonlee	 PM:Hitmonlee\n 地点:Mt. Silver Lower Mountainside 区域:Land 时间:D/N 等级:54-56 是否会员:Yes\n PM:Hitmonlee\n 地点:Mt. Silver Lower Mountainside 区域:Land 时间:M 等级:56 是否会员:Yes
+精确匹配	HOOTHOOT|hoothoot|Hoothoot|Hoothoot	 PM:Hoothoot,Snubbull,Spinarak\n 地点:Route 30 区域:Land 时间:N 等级:5 是否会员:No
+精确匹配	SNUBBULL|snubbull|Snubbull|Snubbull	 PM:Hoothoot,Snubbull,Spinarak\n 地点:Route 30 区域:Land 时间:N 等级:5 是否会员:No
+精确匹配	HORSEA|horsea|Horsea|Horsea	 PM:Horsea\n 地点:Route 131 区域:Surf 时间:M/D/N 等级:37-39 是否会员:No\n PM:Horsea\n 地点:Route 131 B 区域:Surf 时间:M/D/N 等级:37-39 是否会员:No\n PM:Horsea\n 地点:Route 42 区域:Surf 时间:M/D 等级:16-20 是否会员:No\n PM:Horsea,Krabby\n 地点:Five Isle Meadow 区域:Surf 时间:N 等级:20 是否会员:No\n PM:Horsea,Poliwag\n 地点:Route 42 区域:Surf 时间:N 等级:16-20 是否会员:No\n PM:Horsea,Staryu\n 地点:Safari Johto Wet Zone 区域:Surf 时间:M/D 等级:19-22 是否会员:No\n PM:Horsea,Staryu\n 地点:Safari Johto Wet Zone 区域:Surf 时间:N 等级:21-22 是否会员:No\n PM:Horsea,Tentacool\n 地点:Route 133 区域:Surf 时间:M/D/N 等级:36 是否会员:No
+精确匹配	KRABBY|krabby|Krabby|Krabby	 PM:Horsea,Krabby\n 地点:Five Isle Meadow 区域:Surf 时间:N 等级:20 是否会员:No\n PM:Krabby,Poliwag,Psyduck\n 地点:Safari Area 3 区域:Surf 时间:M 等级:25 是否会员:No
+精确匹配	STARYU|staryu|Staryu|Staryu	 PM:Horsea,Staryu\n 地点:Safari Johto Wet Zone 区域:Surf 时间:M/D 等级:19-22 是否会员:No\n PM:Horsea,Staryu\n 地点:Safari Johto Wet Zone 区域:Surf 时间:N 等级:21-22 是否会员:No\n PM:Staryu\n 地点:Lilycove City 区域:Surf 时间:M/N 等级:36-42 是否会员:No
+精确匹配	TENTACOOL|tentacool|Tentacool|Tentacool	 PM:Horsea,Tentacool\n 地点:Route 133 区域:Surf 时间:M/D/N 等级:36 是否会员:No
+精确匹配	HOUNDOUR|houndour|Houndour|Houndour	 PM:Houndour\n 地点:Route 7 区域:Land 时间:M 等级:22-26 是否会员:No\n PM:Houndour\n 地点:Route 7 区域:Land 时间:N 等级:24-26 是否会员:No
+精确匹配	HYPNO|hypno|Hypno|Hypno	 PM:Hypno,Snorlax\n 地点:Route 11 区域:Land 时间:M 等级:20 是否会员:No/Yes
+精确匹配	SNORLAX|snorlax|Snorlax|Snorlax	 PM:Hypno,Snorlax\n 地点:Route 11 区域:Land 时间:M 等级:20 是否会员:No/Yes\n PM:Snorlax\n 地点:Route 11 区域:Land 时间:D 等级:19-20 是否会员:Yes
+精确匹配	JOLTIK|joltik|Joltik|Joltik	 PM:Joltik\n 地点:Route 116 区域:Land 时间:M/D 等级:10-13 是否会员:Yes
+精确匹配	SEEL|seel|Seel|Seel	 PM:Jynx,Seel,Swinub\n 地点:Safari Johto Snow Zone 区域:Land 时间:M/D 等级:13-19 是否会员:No
+精确匹配	KLEFKI|klefki|Klefki|Klefki	 PM:Klefki\n 地点:Valley Of Steel Western Peak 区域:Land 时间:M/N 等级:28-31 是否会员:Yes
+精确匹配	LAPRAS|lapras|Lapras|Lapras	 PM:Lapras\n 地点:Icefall Back Cave 区域:Surf 时间:M/D/N 等级:35-45 是否会员:No\n PM:Lapras\n 地点:Union Cave B2F 区域:Surf 时间:M/D/N 等级:11-12 是否会员:No\n PM:Lapras,Seadra,Slowbro\n 地点:Dragons Shrine 区域:Surf 时间:M/D/N 等级:63-64 是否会员:No
+精确匹配	SEADRA|seadra|Seadra|Seadra	 PM:Lapras,Seadra,Slowbro\n 地点:Dragons Shrine 区域:Surf 时间:M/D/N 等级:63-64 是否会员:No\n PM:Seadra\n 地点:Whirl Islands 1F 区域:Surf 时间:M/D/N 等级:23-24 是否会员:No\n PM:Seadra\n 地点:Whirl Islands B2F 区域:Surf 时间:M/D/N 等级:25 是否会员:No
+精确匹配	LARVITAR|larvitar|Larvitar|Larvitar	 PM:Larvitar\n 地点:Sevault Canyon 区域:Land 时间:M/D 等级:50-59 是否会员:No
+精确匹配	LICKITUNG|lickitung|Lickitung|Lickitung	 PM:Lickitung\n 地点:Cerulean Cave 1F 区域:Land 时间:M/D/N 等级:63 是否会员:No
+精确匹配	LITWICK|litwick|Litwick|Litwick	 PM:Litwick\n 地点:Pokemon Tower Underground 区域:Land 时间:M/D/N 等级:17-21 是否会员:Yes
+精确匹配	LOMBRE|lombre|Lombre|Lombre	 PM:Lombre\n 地点:Route 114 区域:Land 时间:N 等级:20-21 是否会员:No
+精确匹配	MACHOP|machop|Machop|Machop	 PM:Machop,Marill,Sentret\n 地点:Mt Mortar 1F 区域:Land 时间:M/D 等级:18 是否会员:No
+精确匹配	MARILL|marill|Marill|Marill	 PM:Machop,Marill,Sentret\n 地点:Mt Mortar 1F 区域:Land 时间:M/D 等级:18 是否会员:No\n PM:Marill\n 地点:Mt Mortar 1F 区域:Land 时间:N 等级:18 是否会员:No\n PM:Marill\n 地点:Union Cave B2F 区域:Land 时间:M/D/N 等级:11-12 是否会员:No\n PM:Marill,Zubat\n 地点:Route 42 区域:Land 时间:N 等级:19 是否会员:No
+精确匹配	SENTRET|sentret|Sentret|Sentret	 PM:Machop,Marill,Sentret\n 地点:Mt Mortar 1F 区域:Land 时间:M/D 等级:18 是否会员:No
+精确匹配	MAGNEMITE|magnemite|Magnemite|Magnemite	 PM:Magnemite,Meowth,Pineco\n 地点:Route 6 区域:Land 时间:N 等级:17 是否会员:No\n PM:Magnemite,Pidgey,Psyduck\n 地点:Route 6 区域:Land 时间:D 等级:17 是否会员:No
+精确匹配	PIDGEY|pidgey|Pidgey|Pidgey	 PM:Magnemite,Pidgey,Psyduck\n 地点:Route 6 区域:Land 时间:D 等级:17 是否会员:No
+精确匹配	TORKOAL|torkoal|Torkoal|Torkoal	 PM:Magneton,Torkoal\n 地点:Valley Of Steel Western Peak 区域:Land 时间:D 等级:27 是否会员:No
+精确匹配	ZUBAT|zubat|Zubat|Zubat	 PM:Marill,Zubat\n 地点:Route 42 区域:Land 时间:N 等级:19 是否会员:No
+精确匹配	MAROWAK|marowak|Marowak|Marowak	 PM:Marowak\n 地点:Route 10 区域:Land 时间:M/D 等级:21-26 是否会员:No
+精确匹配	MEDITITE|meditite|Meditite|Meditite	 PM:Meditite\n 地点:Burned Tower Floor 2 区域:Land 时间:M/D/N 等级:18 是否会员:Yes
+精确匹配	MR. MIME|mr. mime|Mr. mime|Mr. Mime	 PM:Mr. Mime\n 地点:Route 21 区域:Land 时间:M/D/N 等级:28-34 是否会员:No
+精确匹配	MUK|muk|Muk|Muk	 PM:Muk,Slugma\n 地点:Route 18 区域:Land 时间:N 等级:30 是否会员:No\n PM:Muk,Slugma,Spearow\n 地点:Route 18 区域:Land 时间:M/D 等级:30 是否会员:No
+精确匹配	MUNCHLAX|munchlax|Munchlax|Munchlax	 PM:Munchlax\n 地点:Love Island 区域:Land 时间:M/D 等级:22-30 是否会员:No\n PM:Munchlax\n 地点:Love Island 区域:Land 时间:N 等级:18-30 是否会员:No
+精确匹配	NIDORINA|nidorina|Nidorina|Nidorina	 PM:Nidorina,Nidorino,Primeape\n 地点:Route 9 区域:Land 时间:M 等级:17-19 是否会员:Yes/No/Yes
+精确匹配	PRIMEAPE|primeape|Primeape|Primeape	 PM:Nidorina,Nidorino,Primeape\n 地点:Route 9 区域:Land 时间:M 等级:17-19 是否会员:Yes/No/Yes
+精确匹配	PINSIR|pinsir|Pinsir|Pinsir	 PM:Pinsir,Scyther\n 地点:Safari Area 1 区域:Land 时间:M/D/N 等级:29-34 是否会员:No
+精确匹配	SCYTHER|scyther|Scyther|Scyther	 PM:Pinsir,Scyther\n 地点:Safari Area 1 区域:Land 时间:M/D/N 等级:29-34 是否会员:No
+精确匹配	POLITOED|politoed|Politoed|Politoed	 PM:Politoed,Poliwag,Psyduck\n 地点:Safari Area 3 区域:Surf 时间:N 等级:25 是否会员:No\n PM:Politoed,Poliwrath\n 地点:Effort Wald 区域:Surf 时间:M/D/N 等级:20-24 是否会员:No
+精确匹配	POLIWRATH|poliwrath|Poliwrath|Poliwrath	 PM:Politoed,Poliwrath\n 地点:Effort Wald 区域:Surf 时间:M/D/N 等级:20-24 是否会员:No
+精确匹配	POLIWHIRL|poliwhirl|Poliwhirl|Poliwhirl	 PM:Poliwhirl\n 地点:Lake Acuity 区域:Surf 时间:M/D/N 等级:22-26 是否会员:No\n PM:Poliwhirl\n 地点:Mt. Silver Exterior 区域:Surf 时间:N 等级:38 是否会员:No\n PM:Poliwhirl\n 地点:Route 28 区域:Surf 时间:M/D/N 等级:41 是否会员:No
+精确匹配	PONYTA|ponyta|Ponyta|Ponyta	 PM:Ponyta\n 地点:Route 26 区域:Land 时间:M/D 等级:31-32 是否会员:No
+精确匹配	QWILFISH|qwilfish|Qwilfish|Qwilfish	 PM:Qwilfish\n 地点:Route 13 区域:Surf 时间:M/D 等级:31-33 是否会员:Yes\n PM:Qwilfish,Tentacruel\n 地点:Route 13 区域:Surf 时间:N 等级:31-33 是否会员:Yes/No
+精确匹配	RALTS|ralts|Ralts|Ralts	 PM:Ralts,Seedot\n 地点:Route 102 区域:Land 时间:M/D/N 等级:5 是否会员:No
+精确匹配	SEEDOT|seedot|Seedot|Seedot	 PM:Ralts,Seedot\n 地点:Route 102 区域:Land 时间:M/D/N 等级:5 是否会员:No
+精确匹配	RHYHORN|rhyhorn|Rhyhorn|Rhyhorn	 PM:Rhyhorn\n 地点:Safari Area 2 区域:Land 时间:M/D/N 等级:29 是否会员:No
+精确匹配	ROGGENROLA|roggenrola|Roggenrola|Roggenrola	 PM:Roggenrola\n 地点:Fiery Path 区域:Land 时间:M/D/N 等级:20-23 是否会员:Yes
+精确匹配	SANDILE|sandile|Sandile|Sandile	 PM:Sandile\n 地点:Dark Cave South 区域:Land 时间:M/D/N 等级:8-10 是否会员:Yes
+精确匹配	SEWADDLE|sewaddle|Sewaddle|Sewaddle	 PM:Sewaddle,Wurmple,Zigzagoon\n 地点:Route 104 区域:Land 时间:M 等级:6 是否会员:No
+精确匹配	WURMPLE|wurmple|Wurmple|Wurmple	 PM:Sewaddle,Wurmple,Zigzagoon\n 地点:Route 104 区域:Land 时间:M 等级:6 是否会员:No
+精确匹配	ZIGZAGOON|zigzagoon|Zigzagoon|Zigzagoon	 PM:Sewaddle,Wurmple,Zigzagoon\n 地点:Route 104 区域:Land 时间:M 等级:6 是否会员:No
+精确匹配	SHARPEDO|sharpedo|Sharpedo|Sharpedo	 PM:Sharpedo\n 地点:Route 118 区域:Surf 时间:M/D/N 等级:36-40 是否会员:No\n PM:Sharpedo\n 地点:Route 119B 区域:Surf 时间:N 等级:29-32 是否会员:No\n PM:Sharpedo,Tentacruel\n 地点:Mossdeep City 区域:Surf 时间:M/D/N 等级:40 是否会员:No\n PM:Sharpedo,Tentacruel\n 地点:Route 126 区域:Surf 时间:M/D/N 等级:40 是否会员:No
+精确匹配	SHELLDER|shellder|Shellder|Shellder	 PM:Shellder\n 地点:Trainers Valley 区域:Surf 时间:M/D 等级:15-22 是否会员:No\n PM:Shellder\n 地点:Trainers Valley 区域:Surf 时间:N 等级:19-22 是否会员:No
+精确匹配	SHELLOS|shellos|Shellos|Shellos	 PM:Shellos\n 地点:Route 103 区域:Surf 时间:M/D 等级:16-25 是否会员:Yes\n PM:Shellos\n 地点:Route 103 区域:Surf 时间:N 等级:21-25 是否会员:Yes
+精确匹配	SHROOMISH|shroomish|Shroomish|Shroomish	 PM:Shroomish\n 地点:Nap Forest 区域:Land 时间:M/D 等级:46-49 是否会员:No
+精确匹配	SHUPPET|shuppet|Shuppet|Shuppet	 PM:Shuppet\n 地点:Bell Tower 区域:Land 时间:M/D 等级:20-22 是否会员:No\n PM:Shuppet\n 地点:Bell Tower 区域:Land 时间:N 等级:21-22 是否会员:No
+精确匹配	SKARMORY|skarmory|Skarmory|Skarmory	 PM:Skarmory\n 地点:Route 113 区域:Land 时间:M/D/N 等级:20-24 是否会员:No
+精确匹配	SKORUPI|skorupi|Skorupi|Skorupi	 PM:Skorupi\n 地点:Route 114 区域:Land 时间:M/D 等级:22-25 是否会员:Yes
+精确匹配	SKRELP|skrelp|Skrelp|Skrelp	 PM:Skrelp\n 地点:Route 107 区域:Surf 时间:M/D/N 等级:36-40 是否会员:Yes
+精确匹配	SMEARGLE|smeargle|Smeargle|Smeargle	 PM:Smeargle\n 地点:Ruins Of Alph 区域:Land 时间:M/D/N 等级:26-30 是否会员:No
+精确匹配	SNEASEL|sneasel|Sneasel|Sneasel	 PM:Sneasel\n 地点:Mt Silver Upper Mountainside 区域:Land 时间:N 等级:53 是否会员:No
+精确匹配	SPOINK|spoink|Spoink|Spoink	 PM:Spoink\n 地点:Ilex Forest 区域:Land 时间:M/D/N 等级:10-14 是否会员:Yes
+精确匹配	STARLY|starly|Starly|Starly	 PM:Starly\n 地点:Route 32 区域:Land 时间:M/D 等级:9-12 是否会员:Yes\n PM:Starly,Wynaut\n 地点:Lake Verity 区域:Land 时间:M/D/N 等级:6 是否会员:No
+精确匹配	WYNAUT|wynaut|Wynaut|Wynaut	 PM:Starly,Wynaut\n 地点:Lake Verity 区域:Land 时间:M/D/N 等级:6 是否会员:No
+精确匹配	TAILLOW|taillow|Taillow|Taillow	 PM:Taillow\n 地点:Route 2 区域:Land 时间:M 等级:9-10 是否会员:Yes
+精确匹配	TIMBURR|timburr|Timburr|Timburr	 PM:Timburr\n 地点:Granite Cave 1F 区域:Land 时间:M/D 等级:16-18 是否会员:Yes
+精确匹配	TOTODILE|totodile|Totodile|Totodile	 PM:Totodile\n 地点:Desert Lagoon 区域:Surf 时间:M/D 等级:19-22 是否会员:Yes
+精确匹配	TRAPINCH|trapinch|Trapinch|Trapinch	 PM:Trapinch\n 地点:Route 111 Desert 区域:Land 时间:M/D/N 等级:29-32 是否会员:No
+精确匹配	TYMPOLE|tympole|Tympole|Tympole	 PM:Tympole,Wingull\n 地点:Safari Johto Wet Zone 区域:Land 时间:M/D/N 等级:21-22 是否会员:Yes/No
+精确匹配	WINGULL|wingull|Wingull|Wingull	 PM:Tympole,Wingull\n 地点:Safari Johto Wet Zone 区域:Land 时间:M/D/N 等级:21-22 是否会员:Yes/No
+精确匹配	TYNAMO|tynamo|Tynamo|Tynamo	 PM:Tynamo\n 地点:Safari Exclusive 区域:Land 时间:M/D/N 等级:26-31 是否会员:Yes
+精确匹配	TYROGUE|tyrogue|Tyrogue|Tyrogue	 PM:Tyrogue\n 地点:Mt Mortar B1F 区域:Land 时间:M/D/N 等级:34 是否会员:No
+精确匹配	VULLABY|vullaby|Vullaby|Vullaby	 PM:Vullaby\n 地点:Leev Town 区域:Land 时间:M/N 等级:25-29 是否会员:No
+精确匹配	WOOBAT|woobat|Woobat|Woobat	 PM:Woobat\n 地点:Trainers Valley Cave 区域:Land 时间:M/D/N 等级:16-25 是否会员:No
+精确匹配	YANMA|yanma|Yanma|Yanma	 PM:Yanma\n 地点:Ruin Valley 区域:Land 时间:D 等级:24-48 是否会员:No
+精确匹配	关东图文攻略|关东贴吧攻略|关东攻略	https://tieba.baidu.com/p/4771998178
+精确匹配	成都图文攻略|成都贴吧攻略|成都攻略	https://tieba.baidu.com/p/5106428424
+精确匹配	芳缘图文攻略|芳缘贴吧攻略|芳缘攻略	https://tieba.baidu.com/p/4612827208
+精确匹配	神奥图文攻略|神奥贴吧攻略|神奥攻略	https://tieba.baidu.com/p/5281481226
+精确匹配	S06|s06|Ash|ASH|Ash Westbrook	Ash Westbrook\n地点：神奥地区-枪之柱（Spear Pillar）\n条件：神奥冠军, 500 小时在线时间\n精灵：Mega耿鬼、Mega超梦Y、捷克罗姆、冥王龙(骑拉帝纳)、黑暗洛基亚、Y神(伊裴尔塔尔)\n奖励：$40000-60000, 5x Rare Candy, Shed Shell, 5x Revive, 5x Hyper Potion, 20x Ultra Ball, 3x Air Balloon, 3x Weakness Policy, Vullaby, Emolga, Tympole, Chespin, Shiny Gastly
+精确匹配	查询空手刀|空手劈|查询KARATE CHOP|查询karate chop|查询Karate chop|查询Karate Chop	名称：空手刀|空手劈|Karate Chop\n属性：格斗\n分类：物理\n威力： 50\n命中： 100\nPP： 25
+精确匹配	招财猫|聚宝功|TM16|tm16|Tm16|Tm16	名称：TM16|招财猫|聚宝功|Pay Day\n(TM技能机)地点价格：\n Goldenrod Mart -- $3,000\n属性：一般\n分类：物理\n威力： 40\n命中： 100\nPP： 20
+精确匹配	查询连续拳|查询COMET PUNCH|查询comet punch|查询Comet punch|查询Comet Punch	名称：连续拳|Comet Punch\n属性：一般\n分类：物理\n威力： 18\n命中： 85\nPP： 15
+精确匹配	火焰拳|FIRE PUNCH|fire punch|Fire punch|Fire Punch	名称：火焰拳|Fire Punch\n(教学NPC)地点价格：\n Route 42 Rockclimb -- $4,500 \n Fallarbor Town -- $10,000 \n Tutor Heaven -- $4,500\n属性：火\n分类：物理\n威力： 75\n命中： 100\nPP： 15
+精确匹配	冲钳|百万拳击|百万铁拳|百万吨重拳|TM01|tm01|Tm01|Tm01	名称：TM01|冲钳|百万拳击|百万铁拳|百万吨重拳|Mega Punch\n(教学NPC)地点价格：\n Route 4 -- $2,000\n(TM技能机)地点价格：\n Celadon Mart -- $3,500\n属性：一般\n分类：物理\n威力： 80\n命中： 85\nPP： 20
+精确匹配	查询往复拍打|连环巴掌|查询DOUBLE SLAP|查询double slap|查询Double slap|查询Double Slap	名称：往复拍打|连环巴掌|Double Slap\n属性：一般\n分类：物理\n威力： 15\n命中： 85\nPP： 10
+精确匹配	查询拍击|查询POUND|查询pound|查询Pound|查询Pound	名称：拍击|Pound\n属性：一般\n分类：物理\n威力： 40\n命中： 100\nPP： 35
+精确匹配	查询夹住|查询VICE GRIP|查询vice grip|查询Vice grip|查询Vice Grip	名称：夹住|Vice Grip\n属性：一般\n分类：物理\n威力： 55\n命中： 100\nPP： 30
+精确匹配	查询断头钳|查询GUILLOTINE|查询guillotine|查询Guillotine|查询Guillotine	名称：断头钳|Guillotine\n属性：一般\n分类：物理\n威力： 变化\n命中： 变化\nPP： 5
+精确匹配	查询翅膀拍击|翅膀攻击|查询WING ATTACK|查询wing attack|查询Wing attack|查询Wing Attack	名称：翅膀拍击|翅膀攻击|Wing Attack\n属性：飞行\n分类：物理\n威力： 60\n命中： 100\nPP： 35
+精确匹配	查询起风|查询GUST|查询gust|查询Gust|查询Gust	名称：起风|Gust\n属性：飞行\n分类：特殊\n威力： 40\n命中： 100\nPP： 35
+精确匹配	查询抓|查询SCRATCH|查询scratch|查询Scratch|查询Scratch	名称：抓|Scratch\n属性：一般\n分类：物理\n威力： 40\n命中： 100\nPP： 35
+精确匹配	镰鼬|镰鼬风|旋风刀|TM02|tm02|Tm02|Tm02	名称：TM02|镰鼬|镰鼬风|旋风刀|Razor Wind\n(TM技能机)地点价格：\n Celadon Mart -- $3,500 \n Goldenrod Mart -- $2,500\n属性：一般\n分类：特殊\n威力： 80\n命中： 100\nPP： 10
+精确匹配	剑舞|TM75|tm75|Tm75|Tm75	名称：TM75|剑舞|Swords Dance\n(教学NPC)地点价格：\n Violet City House 2 -- $15,000\n(TM技能机)地点价格：\n Trainers Valley -- $5,000\n属性：一般\n分类：变化\n威力： —\n命中： —\nPP： 20
+精确匹配	間合斬|剪切|砍樹|居合斩|HM01|hm01|Hm01|Hm01	名称：HM01|間合斬|剪切|砍樹|居合斩|Cut\n(TM技能机)地点价格：\n FOUND aboard SS Anne (complete the Secret Potion quest)\n属性：一般\n分类：物理\n威力： 50\n命中： 95\nPP： 30
+精确匹配	冷冻拳|冰冻拳|ICE PUNCH|ice punch|Ice punch|Ice Punch	名称：冷冻拳|冰冻拳|Ice Punch\n(教学NPC)地点价格：\n Route 42 Rock Climb -- $4,500 \n Johto Safari -- $15,000 \n Tutor Heaven -- $4,500\n属性：冰\n分类：物理\n威力： 75\n命中： 100\nPP： 15
+精确匹配	雷电拳|THUNDER PUNCH|thunder punch|Thunder punch|Thunder Punch	名称：雷电拳|Thunder Punch\n(教学NPC)地点价格：\n Route 42 (Rock Climb Required) -- $4,500 \n Pokemon League Hoenn -- $10,000 \n Tutor Heaven -- $4,500\n属性：电\n分类：物理\n威力： 75\n命中： 100\nPP： 15
+精确匹配	查询藤鞭|查询VINE WHIP|查询vine whip|查询Vine whip|查询Vine Whip	名称：藤鞭|Vine Whip\n属性：草\n分类：物理\n威力： 45\n命中： 100\nPP： 25
+精确匹配	查询回旋踢|查询ROLLING KICK|查询rolling kick|查询Rolling kick|查询Rolling Kick	名称：回旋踢|Rolling Kick\n属性：格斗\n分类：物理\n威力： 60\n命中： 85\nPP： 15
+精确匹配	查询飞踢|查询JUMP KICK|查询jump kick|查询Jump kick|查询Jump Kick	名称：飞踢|Jump Kick\n属性：格斗\n分类：物理\n威力： 100\n命中： 95\nPP： 10
+精确匹配	查询二连踢|查询DOUBLE KICK|查询double kick|查询Double kick|查询Double Kick	名称：二连踢|Double Kick\n属性：格斗\n分类：物理\n威力： 30\n命中： 100\nPP： 30
+精确匹配	百万吨重踢|TM05|tm05|Tm05|Tm05	名称：TM05|百万吨重踢|Mega Kick\n(教学NPC)地点价格：\n Route 4 -- $2,000\n(TM技能机)地点价格：\n Celadon Mart -- $3,500 \n Dig Spot Route 4\n属性：一般\n分类：物理\n威力： 120\n命中： 75\nPP： 5
+精确匹配	查询绑紧|查询BIND|查询bind|查询Bind|查询Bind	名称：绑紧|Bind\n属性：一般\n分类：物理\n威力： 15\n命中： 85\nPP： 20
+精确匹配	查询踩踏|查询STOMP|查询stomp|查询Stomp|查询Stomp	名称：踩踏|Stomp\n属性：一般\n分类：物理\n威力： 65\n命中： 100\nPP： 20
+精确匹配	查询摔打|查询SLAM|查询slam|查询Slam|查询Slam	名称：摔打|Slam\n属性：一般\n分类：物理\n威力： 80\n命中： 75\nPP： 20
+精确匹配	吹飞|TM04|tm04|Tm04|Tm04	名称：TM04|吹飞|Whirlwind\n(TM技能机)地点价格：\n Celadon Mart -- $2,000\n属性：一般\n分类：变化\n威力： —\n命中： 100\nPP： 20
+精确匹配	飞空|飞天|飞翔|HM02|hm02|Hm02|Hm02	名称：HM02|飞空|飞天|飞翔|Fly\n(TM技能机)地点价格：\n Received from completing the Subway Manager’s quest\n属性：飞行\n分类：物理\n威力： 90\n命中： 95\nPP： 15
+精确匹配	查询角撞|查询HORN ATTACK|查询horn attack|查询Horn attack|查询Horn Attack	名称：角撞|Horn Attack\n属性：一般\n分类：物理\n威力： 65\n命中： 100\nPP： 25
+精确匹配	查询撞击|查询TACKLE|查询tackle|查询Tackle|查询Tackle	名称：撞击|Tackle\n属性：一般\n分类：物理\n威力： 50\n命中： 100\nPP： 35
+精确匹配	查询尖角钻|角钻|查询HORN DRILL|查询horn drill|查询Horn drill|查询Horn Drill	名称：尖角钻|角钻|Horn Drill\n属性：一般\n分类：物理\n威力： 变化\n命中： 变化\nPP： 5
+精确匹配	查询暴走|暴动|大闹一番|查询THRASH|查询thrash|查询Thrash|查询Thrash	名称：暴走|暴动|大闹一番|Thrash\n属性：一般\n分类：物理\n威力： 120\n命中： 100\nPP： 10
+精确匹配	查询乱突|乱击|查询FURY ATTACK|查询fury attack|查询Fury attack|查询Fury Attack	名称：乱突|乱击|Fury Attack\n属性：一般\n分类：物理\n威力： 15\n命中： 85\nPP： 20
+精确匹配	查询紧束|查询WRAP|查询wrap|查询Wrap|查询Wrap	名称：紧束|Wrap\n属性：一般\n分类：物理\n威力： 15\n命中： 90\nPP： 20
+精确匹配	查询泼沙|查询SAND ATTACK|查询sand attack|查询Sand attack|查询Sand Attack	名称：泼沙|Sand Attack\n属性：地面\n分类：变化\n威力： —\n命中： 100\nPP： 15
+精确匹配	突进|猛撞|TM09|tm09|Tm09|Tm09	名称：TM09|突进|猛撞|Take Down\n(TM技能机)地点价格：\n FOUND in Mt. Moon 1F \n Celadon Mart -- $3,500\n属性：一般\n分类：物理\n威力： 90\n命中： 85\nPP： 20
+精确匹配	压制|按壓|泰山压顶|TM08|tm08|Tm08|Tm08	名称：TM08|压制|按壓|泰山压顶|Body Slam\n(教学NPC)地点价格：\n Saffron Dojo -- $15,000\n(TM技能机)地点价格：\n Celadon Mart -- $3,500 \n Goldenrod Mart -- $1,500\n属性：一般\n分类：物理\n威力： 85\n命中： 100\nPP： 15
+精确匹配	头突|头锤|HEADBUTT|headbutt|Headbutt|Headbutt	名称：头突|头锤|Headbutt\n(教学NPC)地点价格：\n Eterna Forest\n属性：一般\n分类：物理\n威力： 70\n命中： 100\nPP： 15
+精确匹配	查询双针|查询TWINEEDLE|查询twineedle|查询Twineedle|查询Twineedle	名称：双针|Twineedle\n属性：虫\n分类：物理\n威力： 25\n命中： 100\nPP： 20
+精确匹配	查询摇尾巴|查询TAIL WHIP|查询tail whip|查询Tail whip|查询Tail Whip	名称：摇尾巴|Tail Whip\n属性：一般\n分类：变化\n威力： —\n命中： 100\nPP： 30
+精确匹配	查询叫声攻击|叫声|查询GROWL|查询growl|查询Growl|查询Growl	名称：叫声攻击|叫声|Growl\n属性：一般\n分类：变化\n威力： —\n命中： 100\nPP： 40
+精确匹配	查询毒针|查询POISON STING|查询poison sting|查询Poison sting|查询Poison Sting	名称：毒针|Poison Sting\n属性：毒\n分类：物理\n威力： 15\n命中： 100\nPP： 35
+精确匹配	查询咬住|查询BITE|查询bite|查询Bite|查询Bite	名称：咬住|Bite\n属性：恶\n分类：物理\n威力： 60\n命中： 100\nPP： 25
+精确匹配	查询唱歌|查询SING|查询sing|查询Sing|查询Sing	名称：唱歌|Sing\n属性：一般\n分类：变化\n威力： —\n命中： 55\nPP： 15
+精确匹配	查询导弹针|飞弹针|查询PIN MISSILE|查询pin missile|查询Pin missile|查询Pin Missile	名称：导弹针|飞弹针|Pin Missile\n属性：虫\n分类：物理\n威力： 25\n命中： 95\nPP： 20
+精确匹配	查询瞪眼|查询LEER|查询leer|查询Leer|查询Leer	名称：瞪眼|Leer\n属性：一般\n分类：变化\n威力： —\n命中： 100\nPP： 30
+精确匹配	吼叫|TM55|tm55|Tm55|Tm55	名称：TM55|吼叫|Roar\n(TM技能机)地点价格：\n Celadon Mart -- $2,000 \n Route 114 -- $2,000 -- Special Offer: 5 for $8,000\n属性：一般\n分类：变化\n威力： —\n命中： —\nPP： 20
+精确匹配	舍身撞|舍身冲撞|DOUBLE-EDGE|double-edge|Double-edge|Double-Edge	名称：舍身撞|舍身冲撞|Double-Edge\n(教学NPC)地点价格：\n Victory Road 2F -- $9,000\n属性：一般\n分类：物理\n威力： 120\n命中： 100\nPP： 15
+精确匹配	查询音速波|音爆|查询SONIC BOOM|查询sonic boom|查询Sonic boom|查询Sonic Boom	名称：音速波|音爆|Sonic Boom\n属性：一般\n分类：特殊\n威力： 变化\n命中： 90\nPP： 20
+精确匹配	查询溶解液|查询ACID|查询acid|查询Acid|查询Acid	名称：溶解液|Acid\n属性：毒\n分类：特殊\n威力： 40\n命中： 100\nPP： 30
+精确匹配	查询火花|查询EMBER|查询ember|查询Ember|查询Ember	名称：火花|Ember\n属性：火\n分类：特殊\n威力： 40\n命中： 100\nPP： 25
+精确匹配	查询水压|高压水炮|高压水泵|水炮|查询HYDRO PUMP|查询hydro pump|查询Hydro pump|查询Hydro Pump	名称：水压|高压水炮|高压水泵|水炮|Hydro Pump\n属性：水\n分类：特殊\n威力： 110\n命中： 80\nPP： 5
+精确匹配	查询白雾|查询MIST|查询mist|查询Mist|查询Mist	名称：白雾|Mist\n属性：冰\n分类：变化\n威力： —\n命中： —\nPP： 30
+精确匹配	水枪|TM12|tm12|Tm12|Tm12	名称：TM12|水枪|Water Gun\n(TM技能机)地点价格：\n FOUND in Mt. Moon B1F\n属性：水\n分类：特殊\n威力： 40\n命中： 100\nPP： 25
+精确匹配	查询定身法|查询DISABLE|查询disable|查询Disable|查询Disable	名称：定身法|Disable\n属性：一般\n分类：变化\n威力： —\n命中： 100\nPP： 20
+精确匹配	查询超音波|查询SUPERSONIC|查询supersonic|查询Supersonic|查询Supersonic	名称：超音波|Supersonic\n属性：一般\n分类：变化\n威力： —\n命中： 55\nPP： 20
+精确匹配	喷射火焰|TM85|tm85|Tm85|Tm85	名称：TM85|喷射火焰|Flamethrower\n(TM技能机)地点价格：\n Cinnabar Gym -- $3,000 -- Special Offer: 5 for $12,000 \n Mauville City Game Corner -- $5,000\n属性：火\n分类：特殊\n威力： 90\n命中： 100\nPP： 15
+精确匹配	冲浪|HM03|hm03|Hm03|Hm03	名称：HM03|冲浪|Surf\n(TM技能机)地点价格：\n FOUND in Safari House 4\n属性：水\n分类：特殊\n威力： 90\n命中： 100\nPP： 15
+精确匹配	查询极光束|查询AURORA BEAM|查询aurora beam|查询Aurora beam|查询Aurora Beam	名称：极光束|Aurora Beam\n属性：冰\n分类：特殊\n威力： 65\n命中： 100\nPP： 20
+精确匹配	踢倒|LOW KICK|low kick|Low kick|Low Kick	名称：踢倒|Low Kick\n(教学NPC)地点价格：\n Golds Gym -- $7,500 (After defeating Boss: Chuck)\n属性：格斗\n分类：物理\n威力： 变化\n命中： 100\nPP： 20
+精确匹配	查询啄|查询PECK|查询peck|查询Peck|查询Peck	名称：啄|Peck\n属性：飞行\n分类：物理\n威力： 35\n命中： 100\nPP： 35
+精确匹配	地狱车|地狱翻滚|TM17|tm17|Tm17|Tm17	名称：TM17|地狱车|地狱翻滚|Submission\n(TM技能机)地点价格：\n Celadon Mart -- $3,500 \n Goldenrod Mart -- $5,000\n属性：格斗\n分类：物理\n威力： 80\n命中： 80\nPP： 25
+精确匹配	查询幻象光线|查询PSYBEAM|查询psybeam|查询Psybeam|查询Psybeam	名称：幻象光线|Psybeam\n属性：超能力\n分类：特殊\n威力： 65\n命中： 100\nPP： 20
+精确匹配	冰冻光线|雷电子|冰冻光束|TM13|tm13|Tm13|Tm13	名称：TM13|冰冻光线|雷电子|冰冻光束|Ice Beam\n(TM技能机)地点价格：\n Mahogany City Gym -- $4,000 -- Special Offer: 5 for $16,000 \n Lorelei Boss Battle Reward \n Mauville City Game Corner -- $5,000\n属性：冰\n分类：特殊\n威力： 90\n命中： 100\nPP： 10
+精确匹配	泡沫光线|TM11|tm11|Tm11|Tm11	名称：TM11|泡沫光线|Bubble Beam\n(TM技能机)地点价格：\n Cerulean City Gym -- $1,500 -- Special Offer: 5 for $6,000\n属性：水\n分类：特殊\n威力： 65\n命中： 100\nPP： 20
+精确匹配	暴风雪|TM14|tm14|Tm14|Tm14	名称：TM14|暴风雪|Blizzard\n(TM技能机)地点价格：\n Goldenrod Mart -- $5,500 \n Lorelei Boss Battle Reward \n Lilycove Department Store 3F -- $5,500\n属性：冰\n分类：特殊\n威力： 110\n命中： 70\nPP： 5
+精确匹配	饰拳|破坏光线|TM15|tm15|Tm15|Tm15	名称：TM15|饰拳|破坏光线|Hyper Beam\n(TM技能机)地点价格：\n Goldenrod Mart -- $7,500 \n Lilycove Department Store 3F -- $5,500\n属性：一般\n分类：特殊\n威力： 150\n命中： 90\nPP： 5
+精确匹配	查询啄钻|查询DRILL PECK|查询drill peck|查询Drill peck|查询Drill Peck	名称：啄钻|Drill Peck\n属性：飞行\n分类：物理\n威力： 80\n命中： 100\nPP： 20
+精确匹配	查询毒粉|查询POISON POWDER|查询poison powder|查询Poison powder|查询Poison Powder	名称：毒粉|Poison Powder\n属性：毒\n分类：变化\n威力： —\n命中： 75\nPP： 35
+精确匹配	查询吸取|查询ABSORB|查询absorb|查询Absorb|查询Absorb	名称：吸取|Absorb\n属性：草\n分类：特殊\n威力： 20\n命中： 100\nPP： 25
+精确匹配	查询飞叶快刀|查询RAZOR LEAF|查询razor leaf|查询Razor leaf|查询Razor Leaf	名称：飞叶快刀|Razor Leaf\n属性：草\n分类：物理\n威力： 55\n命中： 95\nPP： 25
+精确匹配	地球投|地球上投|TM19|tm19|Tm19|Tm19	名称：TM19|地球投|地球上投|Seismic Toss\n(教学NPC)地点价格：\n Pewter City -- $2,000\n(TM技能机)地点价格：\n FOUND in Route 25 \n FOUND aboard the SS Anne (needs specific map)\n属性：格斗\n分类：物理\n威力： 变化\n命中： 100\nPP： 20
+精确匹配	反击|双倍奉还|COUNTER|counter|Counter|Counter	名称：反击|双倍奉还|Counter\n(教学NPC)地点价格：\n Celadon Mart -- $5,000\n属性：格斗\n分类：物理\n威力： 变化\n命中： 100\nPP： 20
+精确匹配	百万吸取|超级吸取|TM21|tm21|Tm21|Tm21	名称：TM21|百万吸取|超级吸取|Mega Drain\n(TM技能机)地点价格：\n Celadon City Gym -- $1,500 -- Special Offer: 5 for $6,000\n属性：草\n分类：特殊\n威力： 40\n命中： 100\nPP： 15
+精确匹配	太阳光线|空电子|電子束|日光束|TM22|tm22|Tm22|Tm22	名称：TM22|太阳光线|空电子|電子束|日光束|Solar Beam\n(TM技能机)地点价格：\n Goldenrod Mart -- $4,000 \n Erika Boss Battle Reward\n属性：草\n分类：特殊\n威力： 120\n命中： 100\nPP： 10
+精确匹配	查询生长|查询GROWTH|查询growth|查询Growth|查询Growth	名称：生长|Growth\n属性：一般\n分类：变化\n威力： —\n命中： —\nPP： 40
+精确匹配	查询怪力|查询STRENGTH|查询strength|查询Strength|查询Strength	名称：怪力|Strength\n属性：一般\n分类：物理\n威力： 80\n命中： 100\nPP： 15
+精确匹配	查询寄生种子|查询LEECH SEED|查询leech seed|查询Leech seed|查询Leech Seed	名称：寄生种子|Leech Seed\n属性：草\n分类：变化\n威力： —\n命中： 90\nPP： 10
+精确匹配	查询催眠粉|查询SLEEP POWDER|查询sleep powder|查询Sleep powder|查询Sleep Powder	名称：催眠粉|Sleep Powder\n属性：草\n分类：变化\n威力： —\n命中： 75\nPP： 15
+精确匹配	查询电击|查询THUNDER SHOCK|查询thunder shock|查询Thunder shock|查询Thunder Shock	名称：电击|Thunder Shock\n属性：电\n分类：特殊\n威力： 40\n命中： 100\nPP： 30
+精确匹配	查询花瓣舞|查询PETAL DANCE|查询petal dance|查询Petal dance|查询Petal Dance	名称：花瓣舞|Petal Dance\n属性：草\n分类：特殊\n威力： 120\n命中： 100\nPP： 10
+精确匹配	查询吐丝|查询STRING SHOT|查询string shot|查询String shot|查询String Shot	名称：吐丝|String Shot\n属性：虫\n分类：变化\n威力： —\n命中： 95\nPP： 40
+精确匹配	查询麻痹粉|查询STUN SPORE|查询stun spore|查询Stun spore|查询Stun Spore	名称：麻痹粉|Stun Spore\n属性：草\n分类：变化\n威力： —\n命中： 75\nPP： 30
+精确匹配	查询火焰旋涡|查询FIRE SPIN|查询fire spin|查询Fire spin|查询Fire Spin	名称：火焰旋涡|Fire Spin\n属性：火\n分类：特殊\n威力： 35\n命中： 85\nPP： 15
+精确匹配	打雷|TM25|tm25|Tm25|Tm25	名称：TM25|打雷|Thunder\n(TM技能机)地点价格：\n Goldenrod Mart -- $5,500 \n Lilycove Department Store 3F -- $5,000 \n Lt. Surge Boss Battle Reward\n属性：电\n分类：特殊\n威力： 110\n命中： 70\nPP： 10
+精确匹配	龙之怒|TM23|tm23|Tm23|Tm23	名称：TM23|龙之怒|Dragon Rage\n(TM技能机)地点价格：\n FOUND in the Viridian Forest Maze \n Veilstone Dept Store -- $3,000\n属性：龙\n分类：特殊\n威力： 变化\n命中： 100\nPP： 10
+精确匹配	十万伏特|TM24|tm24|Tm24|Tm24	名称：TM24|十万伏特|Thunderbolt\n(TM技能机)地点价格：\n Vermilion City Gym -- $3,000 -- Special Offer: 5 for $12,000 \n Mauville City Game Corner -- $5,000\n属性：电\n分类：特殊\n威力： 90\n命中： 100\nPP： 15
+精确匹配	电磁波|TM45|tm45|Tm45|Tm45	名称：TM45|电磁波|Thunder Wave\n(教学NPC)地点价格：\n Silph Co. -- $15,000\n(TM技能机)地点价格：\n Celadon Mart -- $2,000\n属性：电\n分类：变化\n威力： —\n命中： 100\nPP： 20
+精确匹配	查询瑜伽姿势|查询MEDITATE|查询meditate|查询Meditate|查询Meditate	名称：瑜伽姿势|Meditate\n属性：超能力\n分类：变化\n威力： —\n命中： —\nPP： 40
+精确匹配	查询落石|查询ROCK THROW|查询rock throw|查询Rock throw|查询Rock Throw	名称：落石|Rock Throw\n属性：岩石\n分类：物理\n威力： 50\n命中： 90\nPP： 15
+精确匹配	地裂|TM27|tm27|Tm27|Tm27	名称：TM27|地裂|Fissure\n(TM技能机)地点价格：\n Celadon Daily Quest Reward \n Veilstone Dept Store -- $5,500\n属性：地面\n分类：物理\n威力： 变化\n命中： 变化\nPP： 5
+精确匹配	催眠术|HYPNOSIS|hypnosis|Hypnosis|Hypnosis	名称：催眠术|Hypnosis\n(教学NPC)地点价格：\n Lavender Town B12 -- $12,000\n属性：超能力\n分类：变化\n威力： —\n命中： 60\nPP： 20
+精确匹配	查询念力|查询CONFUSION|查询confusion|查询Confusion|查询Confusion	名称：念力|Confusion\n属性：超能力\n分类：特殊\n威力： 50\n命中： 100\nPP： 25
+精确匹配	地震|TM26|tm26|Tm26|Tm26	名称：TM26|地震|Earthquake\n(TM技能机)地点价格：\n Viridian City Gym -- $6,000 -- Special Offer: 5 for $24,000 \n Bruno Boss Battle Reward\n属性：地面\n分类：物理\n威力： 100\n命中： 100\nPP： 10
+精确匹配	猛毒|毒毒|剧毒|TM06|tm06|Tm06|Tm06	名称：TM06|猛毒|毒毒|剧毒|Toxic\n(TM技能机)地点价格：\n FOUND in Fiery Path \n Fuchsia City Gym -- $2,000 -- Special Offer: 5 for $8,000\n属性：毒\n分类：变化\n威力： —\n命中： 90\nPP： 10
+精确匹配	挖洞|TM28|tm28|Tm28|Tm28	名称：TM28|挖洞|Dig\n(TM技能机)地点价格：\n FREE Cerulean House 6 \n Celadon Mart -- $3,500 \n Route 36 Smuggler -- $5,000 \n Lilycove Mart -- $4,000 \n Dig Spot Route 114\n属性：地面\n分类：物理\n威力： 80\n命中： 100\nPP： 10
+精确匹配	查询高速移动|查询AGILITY|查询agility|查询Agility|查询Agility	名称：高速移动|Agility\n属性：超能力\n分类：变化\n威力： —\n命中： —\nPP： 30
+精确匹配	精神干扰|精干|意念|精神强念|TM29|tm29|Tm29|Tm29	名称：TM29|精神干扰|精干|意念|精神强念|Psychic\n(TM技能机)地点价格：\n Saffron City Gym -- $3,000 -- Special Offer: 5 for $12,000 \n Mauville City Game Corner -- $5,000\n属性：超能力\n分类：特殊\n威力： 90\n命中： 100\nPP： 10
+精确匹配	查询瞬间移动|查询TELEPORT|查询teleport|查询Teleport|查询Teleport	名称：瞬间移动|Teleport\n属性：超能力\n分类：变化\n威力： —\n命中： —\nPP： 20
+精确匹配	查询变小|查询MINIMIZE|查询minimize|查询Minimize|查询Minimize	名称：变小|Minimize\n属性：一般\n分类：变化\n威力： —\n命中： —\nPP： 10
+精确匹配	查询刺耳声|查询SCREECH|查询screech|查询Screech|查询Screech	名称：刺耳声|Screech\n属性：一般\n分类：变化\n威力： —\n命中： 85\nPP： 40
+精确匹配	查询愤怒|查询RAGE|查询rage|查询Rage|查询Rage	名称：愤怒|Rage\n属性：一般\n分类：物理\n威力： 20\n命中： 100\nPP： 20
+精确匹配	查询变硬|查询HARDEN|查询harden|查询Harden|查询Harden	名称：变硬|Harden\n属性：一般\n分类：变化\n威力： —\n命中： —\nPP： 30
+精确匹配	查询黑夜魔影|查询NIGHT SHADE|查询night shade|查询Night shade|查询Night Shade	名称：黑夜魔影|Night Shade\n属性：幽灵\n分类：特殊\n威力： 变化\n命中： 100\nPP： 15
+精确匹配	查询电光一闪|查询QUICK ATTACK|查询quick attack|查询Quick attack|查询Quick Attack	名称：电光一闪|Quick Attack\n属性：一般\n分类：物理\n威力： 40\n命中： 100\nPP： 30
+精确匹配	查询模仿|查询MIMIC|查询mimic|查询Mimic|查询Mimic	名称：模仿|Mimic\n属性：一般\n分类：变化\n威力： —\n命中： —\nPP： 10
+精确匹配	查询自我再生|查询RECOVER|查询recover|查询Recover|查询Recover	名称：自我再生|Recover\n属性：一般\n分类：变化\n威力： —\n命中： —\nPP： 10
+精确匹配	查询影子分身|查询DOUBLE TEAM|查询double team|查询Double team|查询Double Team	名称：影子分身|Double Team\n属性：一般\n分类：变化\n威力： —\n命中： —\nPP： 15
+精确匹配	查询缩入壳中|查询WITHDRAW|查询withdraw|查询Withdraw|查询Withdraw	名称：缩入壳中|Withdraw\n属性：水\n分类：变化\n威力： —\n命中： —\nPP： 40
+精确匹配	查询栅栏|屏障|查询BARRIER|查询barrier|查询Barrier|查询Barrier	名称：栅栏|屏障|Barrier\n属性：超能力\n分类：变化\n威力： —\n命中： —\nPP： 20
+精确匹配	查询黑雾|查询HAZE|查询haze|查询Haze|查询Haze	名称：黑雾|Haze\n属性：冰\n分类：变化\n威力： —\n命中： —\nPP： 30
+精确匹配	克制|忍耐|TM34|tm34|Tm34|Tm34	名称：TM34|克制|忍耐|Bide\n(TM技能机)地点价格：\n Pewter City Gym $750 -- Special Offer: 5 for $3,000\n属性：一般\n分类：物理\n威力： 变化\n命中： —\nPP： 10
+精确匹配	查询聚气|查询FOCUS ENERGY|查询focus energy|查询Focus energy|查询Focus Energy	名称：聚气|Focus Energy\n属性：一般\n分类：变化\n威力： —\n命中： —\nPP： 30
+精确匹配	查询烟幕|查询SMOKESCREEN|查询smokescreen|查询Smokescreen|查询Smokescreen	名称：烟幕|Smokescreen\n属性：一般\n分类：变化\n威力： —\n命中： 100\nPP： 20
+精确匹配	查询变圆|查询DEFENSE CURL|查询defense curl|查询Defense curl|查询Defense Curl	名称：变圆|Defense Curl\n属性：一般\n分类：变化\n威力： —\n命中： —\nPP： 40
+精确匹配	查询怪异光|混乱光|奇异之光|查询CONFUSE RAY|查询confuse ray|查询Confuse ray|查询Confuse Ray	名称：怪异光|混乱光|奇异之光|Confuse Ray\n属性：幽灵\n分类：变化\n威力： —\n命中： 100\nPP： 10
+精确匹配	光墙|TM66|tm66|Tm66|Tm66	名称：TM66|光墙|Light Screen\n(TM技能机)地点价格：\n Lilycove Department Store 3F -- $6,000\n属性：超能力\n分类：变化\n威力： —\n命中： —\nPP： 30
+精确匹配	反射盾|反射壁|TM33|tm33|Tm33|Tm33	名称：TM33|反射盾|反射壁|Reflect\n(TM技能机)地点价格：\n Goldenrod Mart -- $3,000 \n Lilycove Department Store 3F -- $5,500\n属性：超能力\n分类：变化\n威力： —\n命中： —\nPP： 20
+精确匹配	查询污泥攻击|查询SLUDGE|查询sludge|查询Sludge|查询Sludge	名称：污泥攻击|Sludge\n属性：毒\n分类：特殊\n威力： 65\n命中： 100\nPP： 20
+精确匹配	查询骨棒|查询BONE CLUB|查询bone club|查询Bone club|查询Bone Club	名称：骨棒|Bone Club\n属性：地面\n分类：物理\n威力： 65\n命中： 85\nPP： 20
+精确匹配	查询一般Ｚ|查询BREAKNECK BLITZ|查询breakneck blitz|查询Breakneck blitz|查询Breakneck Blitz	名称：一般Ｚ|Breakneck Blitz\n属性：一般\n分类：特殊\n威力： —\n命中： —\nPP： 1
+精确匹配	查询根源波动|查询ORIGIN PULSE|查询origin pulse|查询Origin pulse|查询Origin Pulse	名称：根源波动|Origin Pulse\n属性：水\n分类：特殊\n威力： 110\n命中： 85\nPP： 10
+精确匹配	查询断崖之剑|查询PRECIPICE BLADES|查询precipice blades|查询Precipice blades|查询Precipice Blades	名称：断崖之剑|Precipice Blades\n属性：地面\n分类：物理\n威力： 120\n命中： 85\nPP： 10
+精确匹配	查询异次元猛攻|查询HYPERSPACE FURY|查询hyperspace fury|查询Hyperspace fury|查询Hyperspace Fury	名称：异次元猛攻|Hyperspace Fury\n属性：惡\n分类：物理\n威力： 100\n命中： —\nPP： 5
+精确匹配	查询飞行Ｚ|查询SUPERSONIC SKYSTRIKE|查询supersonic skystrike|查询Supersonic skystrike|查询Supersonic Skystrike	名称：飞行Ｚ|Supersonic Skystrike\n属性：飞行\n分类：特殊\n威力： —\n命中： —\nPP： 1
+精确匹配	查询画龙点睛|查询DRAGON ASCENT|查询dragon ascent|查询Dragon ascent|查询Dragon Ascent	名称：画龙点睛|Dragon Ascent\n属性：飞行\n分类：物理\n威力： 120\n命中： 100\nPP： 5
+精确匹配	查询岩石Ｚ|查询CONTINENTAL CRUSH|查询continental crush|查询Continental crush|查询Continental Crush	名称：岩石Ｚ|Continental Crush\n属性：岩石\n分类：物理\n威力： —\n命中： —\nPP： 1
+精确匹配	查询幽灵Ｚ|查询NEVER-ENDING NIGHTMARE|查询never-ending nightmare|查询Never-ending nightmare|查询Never-Ending Nightmare	名称：幽灵Ｚ|Never-Ending Nightmare\n属性：幽灵\n分类：物理\n威力： —\n命中： —\nPP： 1
+精确匹配	查询虫Ｚ|查询SAVAGE SPIN-OUT|查询savage spin-out|查询Savage spin-out|查询Savage Spin-Out	名称：虫Ｚ|Savage Spin-Out\n属性：虫\n分类：特殊\n威力： —\n命中： —\nPP： 1
+精确匹配	查询虫Ｚ|查询SAVAGE SPIN-OUT|查询savage spin-out|查询Savage spin-out|查询Savage Spin-Out	名称：虫Ｚ|Savage Spin-Out\n属性：虫\n分类：物理\n威力： —\n命中： —\nPP： 1
+精确匹配	查询岩石Ｚ|查询CONTINENTAL CRUSH|查询continental crush|查询Continental crush|查询Continental Crush	名称：岩石Ｚ|Continental Crush\n属性：岩石\n分类：特殊\n威力： —\n命中： —\nPP： 1
+精确匹配	查询幽灵Ｚ|查询NEVER-ENDING NIGHTMARE|查询never-ending nightmare|查询Never-ending nightmare|查询Never-Ending Nightmare	名称：幽灵Ｚ|Never-Ending Nightmare\n属性：幽灵\n分类：特殊\n威力： —\n命中： —\nPP： 1
+精确匹配	查询地面Ｚ|查询TECTONIC RAGE|查询tectonic rage|查询Tectonic rage|查询Tectonic Rage	名称：地面Ｚ|Tectonic Rage\n属性：地面\n分类：特殊\n威力： —\n命中： —\nPP： 1
+精确匹配	查询地面Ｚ|查询TECTONIC RAGE|查询tectonic rage|查询Tectonic rage|查询Tectonic Rage	名称：地面Ｚ|Tectonic Rage\n属性：地面\n分类：物理\n威力： —\n命中： —\nPP： 1
+精确匹配	查询毒Ｚ|查询ACID DOWNPOUR|查询acid downpour|查询Acid downpour|查询Acid Downpour	名称：毒Ｚ|Acid Downpour\n属性：毒\n分类：物理\n威力： —\n命中： —\nPP： 1
+精确匹配	查询毒Ｚ|查询ACID DOWNPOUR|查询acid downpour|查询Acid downpour|查询Acid Downpour	名称：毒Ｚ|Acid Downpour\n属性：毒\n分类：特殊\n威力： —\n命中： —\nPP： 1
+精确匹配	查询火Ｚ|查询INFERNO OVERDRIVE|查询inferno overdrive|查询Inferno overdrive|查询Inferno Overdrive	名称：火Ｚ|Inferno Overdrive\n属性：火\n分类：物理\n威力： —\n命中： —\nPP： 1
+精确匹配	查询电Ｚ|查询GIGAVOLT HAVOC|查询gigavolt havoc|查询Gigavolt havoc|查询Gigavolt Havoc	名称：电Ｚ|Gigavolt Havoc\n属性：电\n分类：物理\n威力： —\n命中： —\nPP： 1
+精确匹配	查询草Ｚ|查询BLOOM DOOM|查询bloom doom|查询Bloom doom|查询Bloom Doom	名称：草Ｚ|Bloom Doom\n属性：草\n分类：特殊\n威力： —\n命中： —\nPP： 1
+精确匹配	查询草Ｚ|查询BLOOM DOOM|查询bloom doom|查询Bloom doom|查询Bloom Doom	名称：草Ｚ|Bloom Doom\n属性：草\n分类：物理\n威力： —\n命中： —\nPP： 1
+精确匹配	查询水Ｚ|查询HYDRO VORTEX|查询hydro vortex|查询Hydro vortex|查询Hydro Vortex	名称：水Ｚ|Hydro Vortex\n属性：水\n分类：特殊\n威力： —\n命中： —\nPP： 1
+精确匹配	查询水Ｚ|查询HYDRO VORTEX|查询hydro vortex|查询Hydro vortex|查询Hydro Vortex	名称：水Ｚ|Hydro Vortex\n属性：水\n分类：物理\n威力： —\n命中： —\nPP： 1
+精确匹配	查询电Ｚ|查询GIGAVOLT HAVOC|查询gigavolt havoc|查询Gigavolt havoc|查询Gigavolt Havoc	名称：电Ｚ|Gigavolt Havoc\n属性：电\n分类：特殊\n威力： —\n命中： —\nPP： 1
+精确匹配	查询火Ｚ|查询INFERNO OVERDRIVE|查询inferno overdrive|查询Inferno overdrive|查询Inferno Overdrive	名称：火Ｚ|Inferno Overdrive\n属性：火\n分类：特殊\n威力： —\n命中： —\nPP： 1
+精确匹配	查询钢Ｚ|查询CORKSCREW CRASH|查询corkscrew crash|查询Corkscrew crash|查询Corkscrew Crash	名称：钢Ｚ|Corkscrew Crash\n属性：钢\n分类：特殊\n威力： —\n命中： —\nPP： 1
+精确匹配	查询钢Ｚ|查询CORKSCREW CRASH|查询corkscrew crash|查询Corkscrew crash|查询Corkscrew Crash	名称：钢Ｚ|Corkscrew Crash\n属性：钢\n分类：物理\n威力： —\n命中： —\nPP： 1
+精确匹配	查询毒尾|查询POISON TAIL|查询poison tail|查询Poison tail|查询Poison Tail	名称：毒尾|Poison Tail\n属性：毒\n分类：物理\n威力： 50\n命中： 100\nPP： 25
+精确匹配	查询植物硬化|硬化植物|疯狂植物|查询FRENZY PLANT|查询frenzy plant|查询Frenzy plant|查询Frenzy Plant	名称：植物硬化|硬化植物|疯狂植物|Frenzy Plant\n属性：草\n分类：特殊\n威力： 150\n命中： 90\nPP： 5
+精确匹配	健美|TM58|tm58|Tm58|Tm58	名称：TM58|健美|Bulk Up\n(TM技能机)地点价格：\n Dewford Town Gym -- $2,500 -- Special Offer: 5 for $10,000 \n Veilstone Dept Store -- $3,500\n属性：格斗\n分类：变化\n威力： —\n命中： —\nPP： 20
+精确匹配	查询泥浆喷射|泥巴射击|查询MUD SHOT|查询mud shot|查询Mud shot|查询Mud Shot	名称：泥浆喷射|泥巴射击|Mud Shot\n属性：地面\n分类：特殊\n威力： 55\n命中： 95\nPP： 15
+精确匹配	查询玩水|查询WATER SPORT|查询water sport|查询Water sport|查询Water Sport	名称：玩水|Water Sport\n属性：水\n分类：变化\n威力： —\n命中： —\nPP： 15
+精确匹配	查询魔叶斩|魔法叶片|魔法叶|查询MAGICAL LEAF|查询magical leaf|查询Magical leaf|查询Magical Leaf	名称：魔叶斩|魔法叶片|魔法叶|Magical Leaf\n属性：草\n分类：特殊\n威力： 60\n命中： —\nPP： 20
+精确匹配	飞跃|弹跳|BOUNCE|bounce|Bounce|Bounce	名称：飞跃|弹跳|Bounce\n(教学NPC)地点价格：\n Lake of Rage -- $4,000\n属性：飞行\n分类：物理\n威力： 85\n命中： 85\nPP： 5
+精确匹配	查询高压电击|雷神|伏特攻击|查询VOLT TACKLE|查询volt tackle|查询Volt tackle|查询Volt Tackle	名称：高压电击|雷神|伏特攻击|Volt Tackle\n属性：电\n分类：物理\n威力： 120\n命中： 100\nPP： 15
+精确匹配	索要|渴望|COVET|covet|Covet|Covet	名称：索要|渴望|Covet\n(教学NPC)地点价格：\n Goldenrod City Gym -- $10,000\n属性：一般\n分类：物理\n威力： 60\n命中： 100\nPP： 40
+精确匹配	冥想|TM54|tm54|Tm54|Tm54	名称：TM54|冥想|Calm Mind\n(TM技能机)地点价格：\n Trainers Valley -- $5,000 \n Mossdeep City Gym -- $2,000 -- Special Offer: 5 for $10,000\n属性：超能力\n分类：变化\n威力： —\n命中： —\nPP： 20
+精确匹配	查询龙之舞|查询DRAGON DANCE|查询dragon dance|查询Dragon dance|查询Dragon Dance	名称：龙之舞|Dragon Dance\n属性：龙\n分类：变化\n威力： —\n命中： —\nPP： 20
+精确匹配	查询精神突进|查询PSYCHO BOOST|查询psycho boost|查询Psycho boost|查询Psycho Boost	名称：精神突进|Psycho Boost\n属性：超能力\n分类：特殊\n威力： 140\n命中： 90\nPP： 5
+精确匹配	查询奇迹之眼|查询MIRACLE EYE|查询miracle eye|查询Miracle eye|查询Miracle Eye	名称：奇迹之眼|Miracle Eye\n属性：超能力\n分类：变化\n威力： —\n命中： —\nPP： 40
+精确匹配	查询破灭之愿|查询DOOM DESIRE|查询doom desire|查询Doom desire|查询Doom Desire	名称：破灭之愿|Doom Desire\n属性：钢\n分类：特殊\n威力： 140\n命中： 100\nPP： 5
+精确匹配	查询刃葉斬|叶刃|查询LEAF BLADE|查询leaf blade|查询Leaf blade|查询Leaf Blade	名称：刃葉斬|叶刃|Leaf Blade\n属性：草\n分类：物理\n威力： 90\n命中： 100\nPP： 15
+精确匹配	查询岩石爆击|查询ROCK BLAST|查询rock blast|查询Rock blast|查询Rock Blast	名称：岩石爆击|Rock Blast\n属性：岩石\n分类：物理\n威力： 25\n命中： 90\nPP： 10
+精确匹配	查询重力|查询GRAVITY|查询gravity|查询Gravity|查询Gravity	名称：重力|Gravity\n属性：超能力\n分类：变化\n威力： —\n命中： —\nPP： 5
+精确匹配	电流炮|电击波|SHOCK WAVE|shock wave|Shock wave|Shock Wave	名称：电流炮|电击波|Shock Wave\n(教学NPC)地点价格：\n Power Plant Kanto -- $6,000\n属性：电\n分类：特殊\n威力： 60\n命中： —\nPP： 20
+精确匹配	鳥羽棲息|鸟栖|羽休|羽栖|TM69|tm69|Tm69|Tm69	名称：TM69|鳥羽棲息|鸟栖|羽休|羽栖|Roost\n(TM技能机)地点价格：\n Trainers Valley -- $6,000\n属性：飞行\n分类：变化\n威力： —\n命中： —\nPP： 10
+精确匹配	水之波动|WATER PULSE|water pulse|Water pulse|Water Pulse	名称：水之波动|Water Pulse\n(教学NPC)地点价格：\n Cianwood City -- $5,000\n属性：水\n分类：特殊\n威力： 60\n命中： 100\nPP： 20
+精确匹配	查询唤醒巴掌|查询WAKE-UP SLAP|查询wake-up slap|查询Wake-up slap|查询Wake-Up Slap	名称：唤醒巴掌|Wake-Up Slap\n属性：格斗\n分类：物理\n威力： 70\n命中： 100\nPP： 10
+精确匹配	查询点穴|查询ACUPRESSURE|查询acupressure|查询Acupressure|查询Acupressure	名称：点穴|Acupressure\n属性：一般\n分类：变化\n威力： —\n命中： —\nPP： 30
+精确匹配	查询啄食|查询PLUCK|查询pluck|查询Pluck|查询Pluck	名称：啄食|Pluck\n属性：飞行\n分类：物理\n威力： 60\n命中： 100\nPP： 20
+精确匹配	顺风|TAILWIND|tailwind|Tailwind|Tailwind	名称：顺风|Tailwind\n(教学NPC)地点价格：\n Violet City Gym -- $10,000\n属性：飞行\n分类：变化\n威力： —\n命中： —\nPP： 30
+精确匹配	查询佯攻|查询FEINT|查询feint|查询Feint|查询Feint	名称：佯攻|Feint\n属性：一般\n分类：物理\n威力： 50\n命中： 100\nPP： 10
+精确匹配	查询重臂锤|臂錘|查询HAMMER ARM|查询hammer arm|查询Hammer arm|查询Hammer Arm	名称：重臂锤|臂錘|Hammer Arm\n属性：格斗\n分类：物理\n威力： 100\n命中： 90\nPP： 10
+精确匹配	螺旋球|陀螺球|GYRO BALL|gyro ball|Gyro ball|Gyro Ball	名称：螺旋球|陀螺球|Gyro Ball\n(技能机教学NPC)地点价格：\n Cinnabar Lab Room 3 -- $15,000\n属性：钢\n分类：物理\n威力： 变化\n命中： 100\nPP： 5
+精确匹配	查询治愈之愿|查询HEALING WISH|查询healing wish|查询Healing wish|查询Healing Wish	名称：治愈之愿|Healing Wish\n属性：超能力\n分类：变化\n威力： —\n命中： —\nPP： 10
+精确匹配	查询潮水|盐水|查询BRINE|查询brine|查询Brine|查询Brine	名称：潮水|盐水|Brine\n属性：水\n分类：特殊\n威力： 65\n命中： 100\nPP： 10
+精确匹配	查询自然之恩|查询NATURAL GIFT|查询natural gift|查询Natural gift|查询Natural Gift	名称：自然之恩|Natural Gift\n属性：一般\n分类：物理\n威力： 变化\n命中： 100\nPP： 15
+精确匹配	查询精神转移|查询PSYCHO SHIFT|查询psycho shift|查询Psycho shift|查询Psycho Shift	名称：精神转移|Psycho Shift\n属性：超能力\n分类：变化\n威力： —\n命中： 100\nPP： 10
+精确匹配	查询回复封印|回复封锁|查询HEAL BLOCK|查询heal block|查询Heal block|查询Heal Block	名称：回复封印|回复封锁|Heal Block\n属性：超能力\n分类：变化\n威力： —\n命中： 100\nPP： 15
+精确匹配	查询王牌|查询TRUMP CARD|查询trump card|查询Trump card|查询Trump Card	名称：王牌|Trump Card\n属性：一般\n分类：特殊\n威力： 变化\n命中： —\nPP： 5
+精确匹配	查询金属爆炸|查询METAL BURST|查询metal burst|查询Metal burst|查询Metal Burst	名称：金属爆炸|Metal Burst\n属性：钢\n分类：物理\n威力： 变化\n命中： 100\nPP： 10
+精确匹配	急速折返|TM139|tm139|Tm139|Tm139	名称：TM139|急速折返|U-Turn\n(TM技能机)地点价格：\n Azalea Town Gym -- $2,500 -- Special Offer: 5 for $10,000 \n Bugsy Boss Battle Reward\n属性：虫\n分类：物理\n威力： 70\n命中： 100\nPP： 20
+精确匹配	查询扣押|查封|查询EMBARGO|查询embargo|查询Embargo|查询Embargo	名称：扣押|查封|Embargo\n属性：恶\n分类：变化\n威力： —\n命中： 100\nPP： 15
+精确匹配	查询连打|追打|保险得分|再度欺压|恶意追击|查询ASSURANCE|查询assurance|查询Assurance|查询Assurance	名称：连打|追打|保险得分|再度欺压|恶意追击|Assurance\n属性：恶\n分类：物理\n威力： 60\n命中： 100\nPP： 10
+精确匹配	查询近身战|查询CLOSE COMBAT|查询close combat|查询Close combat|查询Close Combat	名称：近身战|Close Combat\n属性：格斗\n分类：物理\n威力： 120\n命中： 100\nPP： 5
+精确匹配	查询以牙還牙|查询PAYBACK|查询payback|查询Payback|查询Payback	名称：以牙還牙|Payback\n属性：恶\n分类：物理\n威力： 50\n命中： 100\nPP： 10
+精确匹配	查询掷物|投擲|查询FLING|查询fling|查询Fling|查询Fling	名称：掷物|投擲|Fling\n属性：恶\n分类：物理\n威力： 变化\n命中： 100\nPP： 10
+精确匹配	查询浊雾|查询SMOG|查询smog|查询Smog|查询Smog	名称：浊雾|Smog\n属性：毒\n分类：特殊\n威力： 30\n命中： 70\nPP： 20
+精确匹配	查询自爆|查询SELF-DESTRUCT|查询self-destruct|查询Self-destruct|查询Self-Destruct	名称：自爆|Self-Destruct\n属性：一般\n分类：物理\n威力： 200\n命中： 100\nPP： 5
+精确匹配	蛋蛋爆弹|炸蛋|TM37|tm37|Tm37|Tm37	名称：TM37|蛋蛋爆弹|炸蛋|Egg Bomb\n(TM技能机)地点价格：\n Lilycove Department Store 3F -- $3,000\n属性：一般\n分类：物理\n威力： 100\n命中： 75\nPP： 10
+精确匹配	查询鹦鹉学舌|查询MIRROR MOVE|查询mirror move|查询Mirror move|查询Mirror Move	名称：鹦鹉学舌|Mirror Move\n属性：飞行\n分类：变化\n威力： —\n命中： —\nPP： 20
+精确匹配	查询舌舔|查询LICK|查询lick|查询Lick|查询Lick	名称：舌舔|Lick\n属性：幽灵\n分类：物理\n威力： 30\n命中： 100\nPP： 30
+精确匹配	查询挥指|查询METRONOME|查询metronome|查询Metronome|查询Metronome	名称：挥指|Metronome\n属性：一般\n分类：变化\n威力： —\n命中： —\nPP： 10
+精确匹配	登瀑|攀瀑|HM07|hm07|Hm07|Hm07	名称：HM07|登瀑|攀瀑|Waterfall\n(TM技能机)地点价格：\n FOUND at Cave of Origin B3F \n FOUND at Sinnoh Safari Area Zone 4 (only if you had not found it previously)\n属性：水\n分类：物理\n威力： 80\n命中： 100\nPP： 15
+精确匹配	大字火|大文字|大字爆炎|TM38|tm38|Tm38|Tm38	名称：TM38|大字火|大文字|大字爆炎|Fire Blast\n(TM技能机)地点价格：\n Goldenrod Mart -- $5,500 \n Lilycove Department Store 3F -- $5,000 \n Slateport Outdoor Market -- $5,000\n属性：火\n分类：特殊\n威力： 110\n命中： 85\nPP： 5
+精确匹配	查询大蛇瞪眼|查询GLARE|查询glare|查询Glare|查询Glare	名称：大蛇瞪眼|Glare\n属性：一般\n分类：变化\n威力： —\n命中： 100\nPP： 30
+精确匹配	查询飞膝踢|查询HIGH JUMP KICK|查询high jump kick|查询High jump kick|查询High Jump Kick	名称：飞膝踢|High Jump Kick\n属性：格斗\n分类：物理\n威力： 130\n命中： 90\nPP： 10
+精确匹配	查询缠绕|缠绕|查询CONSTRICT|查询constrict|查询Constrict|查询Constrict	名称：缠绕|缠绕|Constrict\n属性：一般\n分类：物理\n威力： 10\n命中： 100\nPP： 35
+精确匹配	查询尖刺加农炮|查询SPIKE CANNON|查询spike cannon|查询Spike cannon|查询Spike Cannon	名称：尖刺加农炮|Spike Cannon\n属性：一般\n分类：物理\n威力： 20\n命中： 100\nPP： 15
+精确匹配	查询折弯汤匙|查询KINESIS|查询kinesis|查询Kinesis|查询Kinesis	名称：折弯汤匙|Kinesis\n属性：超能力\n分类：变化\n威力： —\n命中： 80\nPP： 15
+精确匹配	查询贝壳夹|贝壳夹击|查询CLAMP|查询clamp|查询Clamp|查询Clamp	名称：贝壳夹|贝壳夹击|Clamp\n属性：水\n分类：物理\n威力： 35\n命中： 85\nPP： 15
+精确匹配	查询瞬间失忆|查询AMNESIA|查询amnesia|查询Amnesia|查询Amnesia	名称：瞬间失忆|Amnesia\n属性：超能力\n分类：变化\n威力： —\n命中： —\nPP： 20
+精确匹配	生蛋|TM41|tm41|Tm41|Tm41	名称：TM41|生蛋|Soft-Boiled\n(教学NPC)地点价格：\n Celadon City -- $15,000\n(TM技能机)地点价格：\n Goldenrod Mart -- $3,000\n属性：一般\n分类：变化\n威力： —\n命中： —\nPP： 10
+精确匹配	火箭头锤|TM40|tm40|Tm40|Tm40	名称：TM40|火箭头锤|Skull Bash\n(TM技能机)地点价格：\n Lilycove Department Store 3F -- $4,000\n属性：一般\n分类：物理\n威力： 130\n命中： 100\nPP： 10
+精确匹配	高速星星|TM39|tm39|Tm39|Tm39	名称：TM39|高速星星|Swift\n(教学NPC)地点价格：\n Saffron City -- $2,000\n(TM技能机)地点价格：\n Celadon Mart -- $3,500\n属性：一般\n分类：特殊\n威力： 60\n命中： —\nPP： 20
+精确匹配	查询蘑菇孢子|查询SPORE|查询spore|查询Spore|查询Spore	名称：蘑菇孢子|Spore\n属性：草\n分类：变化\n威力： —\n命中： 100\nPP： 15
+精确匹配	查询飘飘拳|迷昏拳|查询DIZZY PUNCH|查询dizzy punch|查询Dizzy punch|查询Dizzy Punch	名称：飘飘拳|迷昏拳|Dizzy Punch\n属性：一般\n分类：物理\n威力： 70\n命中： 100\nPP： 10
+精确匹配	查询变身|查询TRANSFORM|查询transform|查询Transform|查询Transform	名称：变身|Transform\n属性：一般\n分类：变化\n威力： —\n命中： —\nPP： 10
+精确匹配	查询毒瓦斯|查询POISON GAS|查询poison gas|查询Poison gas|查询Poison Gas	名称：毒瓦斯|Poison Gas\n属性：毒\n分类：变化\n威力： —\n命中： 90\nPP： 40
+精确匹配	查询恶魔之吻|查询LOVELY KISS|查询lovely kiss|查询Lovely kiss|查询Lovely Kiss	名称：恶魔之吻|Lovely Kiss\n属性：一般\n分类：变化\n威力： —\n命中： 75\nPP： 10
+精确匹配	查询吸血|查询LEECH LIFE|查询leech life|查询Leech life|查询Leech Life	名称：吸血|Leech Life\n属性：虫\n分类：物理\n威力： 20\n命中： 100\nPP： 15
+精确匹配	查询丢蛋|投蛋|扔蛋|投球|查询BARRAGE|查询barrage|查询Barrage|查询Barrage	名称：丢蛋|投蛋|扔蛋|投球|Barrage\n属性：一般\n分类：物理\n威力： 15\n命中： 85\nPP： 20
+精确匹配	查询泡沫|查询BUBBLE|查询bubble|查询Bubble|查询Bubble	名称：泡沫|Bubble\n属性：水\n分类：特殊\n威力： 40\n命中： 100\nPP： 30
+精确匹配	神鸟猛击|SKY ATTACK|sky attack|Sky attack|Sky Attack	名称：神鸟猛击|Sky Attack\n(教学NPC)地点价格：\n Love Island -- $10,000\n(技能机教学NPC)地点价格：\n Mt. Summer Summit -- $15,000\n属性：飞行\n分类：物理\n威力： 140\n命中： 90\nPP： 5
+精确匹配	食梦|TM42|tm42|Tm42|Tm42	名称：TM42|食梦|Dream Eater\n(教学NPC)地点价格：\n Viridian City -- $4,000\n(TM技能机)地点价格：\n Celadon Daily Quest Reward\n属性：超能力\n分类：特殊\n威力： 100\n命中： 100\nPP： 15
+精确匹配	查询蟹钳锤|查询CRABHAMMER|查询crabhammer|查询Crabhammer|查询Crabhammer	名称：蟹钳锤|Crabhammer\n属性：水\n分类：物理\n威力： 100\n命中： 90\nPP： 10
+精确匹配	查询溶化|查询ACID ARMOR|查询acid armor|查询Acid armor|查询Acid Armor	名称：溶化|Acid Armor\n属性：毒\n分类：变化\n威力： —\n命中： —\nPP： 20
+精确匹配	查询弹跳|飞撞|跃起|查询SPLASH|查询splash|查询Splash|查询Splash	名称：弹跳|飞撞|跃起|Splash\n属性：一般\n分类：变化\n威力： —\n命中： —\nPP： 40
+精确匹配	查询骨头回力镖|查询BONEMERANG|查询bonemerang|查询Bonemerang|查询Bonemerang	名称：骨头回力镖|Bonemerang\n属性：地面\n分类：物理\n威力： 50\n命中： 90\nPP： 10
+精确匹配	精神波动|精神波|TM46|tm46|Tm46|Tm46	名称：TM46|精神波动|精神波|Psywave\n(TM技能机)地点价格：\n FOUND in Goldenrod City Underground \n Slateport Outdoor Market -- $3,000\n属性：超能力\n分类：特殊\n威力： 变化\n命中： 100\nPP： 15
+精确匹配	爱睡|睡觉|TM44|tm44|Tm44|Tm44	名称：TM44|爱睡|睡觉|Rest\n(TM技能机)地点价格：\n Lilycove Department Store 3F -- $6,000 \n Vermilion City (Elder Maulana) -- $6,000 -- Special Offer: 5 for $24,000\n属性：超能力\n分类：变化\n威力： —\n命中： —\nPP： 10
+精确匹配	闪光|HM05|hm05|Hm05|Hm05	名称：HM05|闪光|Flash\n(TM技能机)地点价格：\n FREE Route 2 Stop 3 after obtaining 10 caught Pokemon\n属性：一般\n分类：变化\n威力： —\n命中： 100\nPP： 20
+精确匹配	查询乱抓|查询FURY SWIPES|查询fury swipes|查询Fury swipes|查询Fury Swipes	名称：乱抓|Fury Swipes\n属性：一般\n分类：物理\n威力： 18\n命中： 80\nPP： 15
+精确匹配	查询破壳而出|破壳|查询SHELL SMASH|查询shell smash|查询Shell smash|查询Shell Smash	名称：破壳而出|破壳|Shell Smash\n属性：一般\n分类：变化\n威力： —\n命中： —\nPP： 15
+精确匹配	查询位置交换|幻象位移|交换场地|查询ALLY SWITCH|查询ally switch|查询Ally switch|查询Ally Switch	名称：位置交换|幻象位移|交换场地|Ally Switch\n属性：超能力\n分类：变化\n威力： —\n命中： —\nPP： 15
+精确匹配	开水|沸水|熱湯|热水|TM105|tm105|Tm105|Tm105	名称：TM105|开水|沸水|熱湯|热水|Scald\n(TM技能机)地点价格：\n Lilycove Department Store 3F -- $8,000 \n Veilstone Dept Store -- $8,000\n属性：水\n分类：特殊\n威力： 80\n命中： 100\nPP： 15
+精确匹配	查询自由落体|查询SKY DROP|查询sky drop|查询Sky drop|查询Sky Drop	名称：自由落体|Sky Drop\n属性：飞行\n分类：物理\n威力： 60\n命中： 100\nPP： 10
+精确匹配	查询仰投|巴投|查询CIRCLE THROW|查询circle throw|查询Circle throw|查询Circle Throw	名称：仰投|巴投|Circle Throw\n属性：格斗\n分类：物理\n威力： 60\n命中： 90\nPP： 10
+精确匹配	查询礼物传递|传递礼物|查询BESTOW|查询bestow|查询Bestow|查询Bestow	名称：礼物传递|传递礼物|Bestow\n属性：一般\n分类：变化\n威力： —\n命中： —\nPP： 15
+精确匹配	查询换挡|查询SHIFT GEAR|查询shift gear|查询Shift gear|查询Shift Gear	名称：换挡|Shift Gear\n属性：钢\n分类：变化\n威力： —\n命中： —\nPP： 10
+精确匹配	查询炼狱|查询INFERNO|查询inferno|查询Inferno|查询Inferno	名称：炼狱|Inferno\n属性：火\n分类：特殊\n威力： 100\n命中： 50\nPP： 5
+精确匹配	查询搏命|查询FINAL GAMBIT|查询final gambit|查询Final gambit|查询Final Gambit	名称：搏命|Final Gambit\n属性：格斗\n分类：特殊\n威力： 变化\n命中： 100\nPP： 5
+精确匹配	查询镜面属性|查询REFLECT TYPE|查询reflect type|查询Reflect type|查询Reflect Type	名称：镜面属性|Reflect Type\n属性：一般\n分类：变化\n威力： —\n命中： —\nPP： 15
+精确匹配	查询烧尽|查询INCINERATE|查询incinerate|查询Incinerate|查询Incinerate	名称：烧尽|Incinerate\n属性：火\n分类：特殊\n威力： 60\n命中： 100\nPP： 15
+精确匹配	查询复仇|報仇|查询RETALIATE|查询retaliate|查询Retaliate|查询Retaliate	名称：复仇|報仇|Retaliate\n属性：一般\n分类：物理\n威力： 70\n命中： 100\nPP： 5
+精确匹配	花式飞行|杂耍|杂技|ACROBATICS|acrobatics|Acrobatics|Acrobatics	名称：花式飞行|杂耍|杂技|Acrobatics\n(技能机教学NPC)地点价格：\n Fortree City -- $15,000\n属性：飞行\n分类：物理\n威力： 55\n命中： 100\nPP： 15
+精确匹配	查询押后|延後|查询QUASH|查询quash|查询Quash|查询Quash	名称：押后|延後|Quash\n属性：恶\n分类：变化\n威力： —\n命中： 100\nPP： 15
+精确匹配	查询水之誓约|查询WATER PLEDGE|查询water pledge|查询Water pledge|查询Water Pledge	名称：水之誓约|Water Pledge\n属性：水\n分类：特殊\n威力： 80\n命中： 100\nPP： 10
+精确匹配	查询草之誓约|查询GRASS PLEDGE|查询grass pledge|查询Grass pledge|查询Grass Pledge	名称：草之誓约|Grass Pledge\n属性：草\n分类：特殊\n威力： 80\n命中： 100\nPP： 10
+精确匹配	查询火之誓約|查询FIRE PLEDGE|查询fire pledge|查询Fire pledge|查询Fire Pledge	名称：火之誓約|Fire Pledge\n属性：火\n分类：特殊\n威力： 80\n命中： 100\nPP： 10
+精确匹配	伏特交换|交替闪电|VS|电返|伏特替换|TM122|tm122|Tm122|Tm122	名称：TM122|伏特交换|交替闪电|VS|电返|伏特替换|Volt Switch\n(教学NPC)地点价格：\n New Mauville -- $5,000\n(TM技能机)地点价格：\n Mauville City Game Corner -- $2,500\n属性：电\n分类：特殊\n威力： 70\n命中： 100\nPP： 20
+精确匹配	查询电网|查询ELECTROWEB|查询electroweb|查询Electroweb|查询Electroweb	名称：电网|Electroweb\n属性：电\n分类：特殊\n威力： 55\n命中： 95\nPP： 15
+精确匹配	查询冰之吐息|冰息|查询FROST BREATH|查询frost breath|查询Frost breath|查询Frost Breath	名称：冰之吐息|冰息|Frost Breath\n属性：冰\n分类：特殊\n威力： 60\n命中： 90\nPP： 10
+精确匹配	龙尾|DRAGON TAIL|dragon tail|Dragon tail|Dragon Tail	名称：龙尾|Dragon Tail\n(技能机教学NPC)地点价格：\n Dragons Den -- $15,000\n属性：龙\n分类：物理\n威力： 60\n命中： 90\nPP： 10
+精确匹配	查询虫之抵抗|查询STRUGGLE BUG|查询struggle bug|查询Struggle bug|查询Struggle Bug	名称：虫之抵抗|Struggle Bug\n属性：虫\n分类：特殊\n威力： 50\n命中： 100\nPP： 20
+精确匹配	重踏|BULLDOZE|bulldoze|Bulldoze|Bulldoze	名称：重踏|Bulldoze\n(教学NPC)地点价格：\n Mt. Coronet Center -- $15,000\n属性：地面\n分类：物理\n威力： 60\n命中： 100\nPP： 20
+精确匹配	振奋|鼓舞士气|自我激励|WORK UP|work up|Work up|Work Up	名称：振奋|鼓舞士气|自我激励|Work Up\n(技能机教学NPC)地点价格：\n Golds Gym -- $15,000\n属性：一般\n分类：变化\n威力： —\n命中： —\nPP： 30
+精确匹配	查询圣剑|查询SACRED SWORD|查询sacred sword|查询Sacred sword|查询Sacred Sword	名称：圣剑|Sacred Sword\n属性：格斗\n分类：物理\n威力： 90\n命中： 100\nPP： 20
+精确匹配	查询贝壳刃|查询RAZOR SHELL|查询razor shell|查询Razor shell|查询Razor Shell	名称：贝壳刃|Razor Shell\n属性：水\n分类：物理\n威力： 75\n命中： 95\nPP： 10
+精确匹配	木角|HORN LEECH|horn leech|Horn leech|Horn Leech	名称：木角|Horn Leech\n(教学NPC)地点价格：\n Eterna Forest (through the secret cave) -- $15,000\n属性：草\n分类：物理\n威力： 75\n命中： 100\nPP： 10
+精确匹配	查询心之印章|愛心印章|查询HEART STAMP|查询heart stamp|查询Heart stamp|查询Heart Stamp	名称：心之印章|愛心印章|Heart Stamp\n属性：超能力\n分类：物理\n威力： 60\n命中： 100\nPP： 25
+精确匹配	查询草旋风|青草搅拌器|查询LEAF TORNADO|查询leaf tornado|查询Leaf tornado|查询Leaf Tornado	名称：草旋风|青草搅拌器|Leaf Tornado\n属性：草\n分类：特殊\n威力： 65\n命中： 90\nPP： 10
+精确匹配	查询高溫重压|查询HEAT CRASH|查询heat crash|查询Heat crash|查询Heat Crash	名称：高溫重压|Heat Crash\n属性：火\n分类：物理\n威力： 变化\n命中： 100\nPP： 10
+精确匹配	查询坚硬滚动|疯狂滚压|查询STEAMROLLER|查询steamroller|查询Steamroller|查询Steamroller	名称：坚硬滚动|疯狂滚压|Steamroller\n属性：虫\n分类：物理\n威力： 65\n命中： 100\nPP： 20
+精确匹配	瘋狂伏特|WILD CHARGE|wild charge|Wild charge|Wild Charge	名称：瘋狂伏特|Wild Charge\n(技能机教学NPC)地点价格：\n Kanto Power Plant -- $15,000\n属性：电\n分类：物理\n威力： 90\n命中： 100\nPP： 15
+精确匹配	直冲钻|DRILL RUN|drill run|Drill run|Drill Run	名称：直冲钻|Drill Run\n(教学NPC)地点价格：\n Granite Cave B1F -- $6,000\n属性：地面\n分类：物理\n威力： 80\n命中： 95\nPP： 10
+精确匹配	查询二连劈|查询DUAL CHOP|查询dual chop|查询Dual chop|查询Dual Chop	名称：二连劈|Dual Chop\n属性：龙\n分类：物理\n威力： 40\n命中： 90\nPP： 15
+精确匹配	查询火焰弹|查询SEARING SHOT|查询searing shot|查询Searing shot|查询Searing Shot	名称：火焰弹|Searing Shot\n属性：火\n分类：特殊\n威力： 100\n命中： 100\nPP： 5
+精确匹配	查询高科技光炮|查询TECHNO BLAST|查询techno blast|查询Techno blast|查询Techno Blast	名称：高科技光炮|Techno Blast\n属性：一般\n分类：特殊\n威力： 120\n命中： 100\nPP： 5
+精确匹配	查询古老之歌|查询RELIC SONG|查询relic song|查询Relic song|查询Relic Song	名称：古老之歌|Relic Song\n属性：一般\n分类：特殊\n威力： 75\n命中： 100\nPP： 10
+精确匹配	查询念力暴击|精神震荡|精神击破|查询PSYSTRIKE|查询psystrike|查询Psystrike|查询Psystrike	名称：念力暴击|精神震荡|精神击破|Psystrike\n属性：超能力\n分类：特殊\n威力： 100\n命中： 100\nPP： 10
+精确匹配	查询暗黑爆破|查询NIGHT DAZE|查询night daze|查询Night daze|查询Night Daze	名称：暗黑爆破|Night Daze\n属性：恶\n分类：特殊\n威力： 85\n命中： 95\nPP： 10
+精确匹配	查询齿轮飞盘|查询GEAR GRIND|查询gear grind|查询Gear grind|查询Gear Grind	名称：齿轮飞盘|Gear Grind\n属性：钢\n分类：物理\n威力： 50\n命中： 85\nPP： 15
+精确匹配	查询爆炸头突击|查询HEAD CHARGE|查询head charge|查询Head charge|查询Head Charge	名称：爆炸头突击|Head Charge\n属性：一般\n分类：物理\n威力： 120\n命中： 100\nPP： 15
+精确匹配	查询棉花守护|棉花防守|查询COTTON GUARD|查询cotton guard|查询Cotton guard|查询Cotton Guard	名称：棉花守护|棉花防守|Cotton Guard\n属性：草\n分类：变化\n威力： —\n命中： —\nPP： 10
+精确匹配	查询暴风|查询HURRICANE|查询hurricane|查询Hurricane|查询Hurricane	名称：暴风|Hurricane\n属性：飞行\n分类：特殊\n威力： 110\n命中： 70\nPP： 10
+精确匹配	查询扫荡拍打|扫尾拍打|查询TAIL SLAP|查询tail slap|查询Tail slap|查询Tail Slap	名称：扫荡拍打|扫尾拍打|Tail Slap\n属性：一般\n分类：物理\n威力： 25\n命中： 85\nPP： 10
+精确匹配	查询冰封世界|查询GLACIATE|查询glaciate|查询Glaciate|查询Glaciate	名称：冰封世界|Glaciate\n属性：冰\n分类：特殊\n威力： 65\n命中： 95\nPP： 10
+精确匹配	冰柱坠落|冰柱坠击|ICICLE CRASH|icicle crash|Icicle crash|Icicle Crash	名称：冰柱坠落|冰柱坠击|Icicle Crash\n(教学NPC)地点价格：\n  Snowpoint Gym\n属性：冰\n分类：物理\n威力： 85\n命中： 90\nPP： 10
+精确匹配	查询极寒冷焰|查询ICE BURN|查询ice burn|查询Ice burn|查询Ice Burn	名称：极寒冷焰|Ice Burn\n属性：冰\n分类：特殊\n威力： 140\n命中： 90\nPP： 5
+精确匹配	查询火之舞|查询FIERY DANCE|查询fiery dance|查询Fiery dance|查询Fiery Dance	名称：火之舞|Fiery Dance\n属性：火\n分类：特殊\n威力： 80\n命中： 100\nPP： 10
+精确匹配	查询创造胜利|胜利火|创胜|VC|Ｖ熱焰|查询V-CREATE|查询v-create|查询V-create|查询V-Create	名称：创造胜利|胜利火|创胜|VC|Ｖ熱焰|V-Create\n属性：火\n分类：物理\n威力： 180\n命中： 95\nPP： 5
+精确匹配	查询青焰|查询BLUE FLARE|查询blue flare|查询Blue flare|查询Blue Flare	名称：青焰|Blue Flare\n属性：火\n分类：特殊\n威力： 130\n命中： 85\nPP： 5
+精确匹配	查询雷击|查询BOLT STRIKE|查询bolt strike|查询Bolt strike|查询Bolt Strike	名称：雷击|Bolt Strike\n属性：电\n分类：物理\n威力： 130\n命中： 85\nPP： 5
+精确匹配	查询神秘之剑|查询SECRET SWORD|查询secret sword|查询Secret sword|查询Secret Sword	名称：神秘之剑|Secret Sword\n属性：格斗\n分类：特殊\n威力： 85\n命中： 100\nPP： 10
+精确匹配	查询大喊|大声咆哮|查询SNARL|查询snarl|查询Snarl|查询Snarl	名称：大喊|大声咆哮|Snarl\n属性：恶\n分类：特殊\n威力： 55\n命中： 95\nPP： 15
+精确匹配	查询冰冻伏特|查询FREEZE SHOCK|查询freeze shock|查询Freeze shock|查询Freeze Shock	名称：冰冻伏特|Freeze Shock\n属性：冰\n分类：物理\n威力： 140\n命中： 90\nPP： 5
+精确匹配	查询交错火焰|查询FUSION FLARE|查询fusion flare|查询Fusion flare|查询Fusion Flare	名称：交错火焰|Fusion Flare\n属性：火\n分类：特殊\n威力： 100\n命中： 100\nPP： 5
+精确匹配	查询幽灵俯冲|潜灵奇袭|查询PHANTOM FORCE|查询phantom force|查询Phantom force|查询Phantom Force	名称：幽灵俯冲|潜灵奇袭|Phantom Force\n属性：幽灵\n分类：物理\n威力： 90\n命中： 100\nPP： 10
+精确匹配	查询交错闪电|查询FUSION BOLT|查询fusion bolt|查询Fusion bolt|查询Fusion Bolt	名称：交错闪电|Fusion Bolt\n属性：电\n分类：物理\n威力： 100\n命中： 100\nPP： 5
+精确匹配	查询致命针刺|查询FELL STINGER|查询fell stinger|查询Fell stinger|查询Fell Stinger	名称：致命针刺|Fell Stinger\n属性：虫\n分类：物理\n威力： 30\n命中： 100\nPP： 25
+精确匹配	查询耕地|查询ROTOTILLER|查询rototiller|查询Rototiller|查询Rototiller	名称：耕地|Rototiller\n属性：地面\n分类：变化\n威力： —\n命中： —\nPP： 10
+精确匹配	查询黏黏网|查询STICKY WEB|查询sticky web|查询Sticky web|查询Sticky Web	名称：黏黏网|Sticky Web\n属性：虫\n分类：变化\n威力： —\n命中： —\nPP： 20
+精确匹配	查询打嗝|查询BELCH|查询belch|查询Belch|查询Belch	名称：打嗝|Belch\n属性：毒\n分类：特殊\n威力： 120\n命中： 90\nPP： 10
+精确匹配	查询掀榻榻米|查询MAT BLOCK|查询mat block|查询Mat block|查询Mat Block	名称：掀榻榻米|Mat Block\n属性：格斗\n分类：变化\n威力： —\n命中： —\nPP： 15
+精确匹配	查询万圣夜狂欢|万圣夜|查询TRICK-OR-TREAT|查询trick-or-treat|查询Trick-or-treat|查询Trick-Or-Treat	名称：万圣夜狂欢|万圣夜|Trick-Or-Treat\n属性：幽灵\n分类：变化\n威力： —\n命中： 100\nPP： 20
+精确匹配	大爆炸|EXPLOSION|explosion|Explosion|Explosion	名称：大爆炸|Explosion\n(教学NPC)地点价格：\n Mineral Site -- $20,000 (need 5,000 points)\n(技能机教学NPC)地点价格：\n Route 47 -- $15,000\n属性：一般\n分类：物理\n威力： 250\n命中： 100\nPP： 5
+精确匹配	岩崩|TM48|tm48|Tm48|Tm48	名称：TM48|岩崩|Rock Slide\n(教学NPC)地点价格：\n Rock Tunnel -- $5,000\n(TM技能机)地点价格：\n Goldenrod Mart -- $3,000\n属性：岩石\n分类：物理\n威力： 75\n命中： 90\nPP： 10
+精确匹配	查询三连踢|查询TRIPLE KICK|查询triple kick|查询Triple kick|查询Triple Kick	名称：三连踢|Triple Kick\n属性：格斗\n分类：物理\n威力： 10\n命中： 90\nPP： 10
+精确匹配	查询必杀门牙|查询HYPER FANG|查询hyper fang|查询Hyper fang|查询Hyper Fang	名称：必杀门牙|Hyper Fang\n属性：一般\n分类：物理\n威力： 80\n命中： 90\nPP： 15
+精确匹配	查询素描|写生|查询SKETCH|查询sketch|查询Sketch|查询Sketch	名称：素描|写生|Sketch\n属性：一般\n分类：变化\n威力： —\n命中： —\nPP： 1
+精确匹配	查询拼命|绝地反击|挣扎|查询STRUGGLE|查询struggle|查询Struggle|查询Struggle	名称：拼命|绝地反击|挣扎|Struggle\n属性：一般\n分类：物理\n威力： 50\n命中： —\nPP： —
+精确匹配	查询棱角化|查询SHARPEN|查询sharpen|查询Sharpen|查询Sharpen	名称：棱角化|Sharpen\n属性：一般\n分类：变化\n威力： —\n命中： —\nPP： 30
+精确匹配	查询属性切换|纹理|查询CONVERSION|查询conversion|查询Conversion|查询Conversion	名称：属性切换|纹理|Conversion\n属性：一般\n分类：变化\n威力： —\n命中： —\nPP： 30
+精确匹配	愤怒门牙|SUPER FANG|super fang|Super fang|Super Fang	名称：愤怒门牙|Super Fang\n(教学NPC)地点价格：\n Natural Site -- $20,000 (need 5,000 points)\n属性：一般\n分类：物理\n威力： 变化\n命中： 90\nPP： 10
+精确匹配	三重攻击|TRI ATTACK|tri attack|Tri attack|Tri Attack	名称：三重攻击|Tri Attack\n(技能机教学NPC)地点价格：\n Wayward Cave Secret Area -- $15,000\n属性：一般\n分类：特殊\n威力： 80\n命中： 100\nPP： 10
+精确匹配	查询劈开|查询SLASH|查询slash|查询Slash|查询Slash	名称：劈开|Slash\n属性：一般\n分类：物理\n威力： 70\n命中： 100\nPP： 20
+精确匹配	查询替身|查询SUBSTITUTE|查询substitute|查询Substitute|查询Substitute	名称：替身|Substitute\n属性：一般\n分类：变化\n威力： —\n命中： —\nPP： 10
+精确匹配	查询气旋攻击|查询AEROBLAST|查询aeroblast|查询Aeroblast|查询Aeroblast	名称：气旋攻击|Aeroblast\n属性：飞行\n分类：特殊\n威力： 100\n命中： 95\nPP： 5
+精确匹配	查询心眼|心之眼|查询MIND READER|查询mind reader|查询Mind reader|查询Mind Reader	名称：心眼|心之眼|Mind Reader\n属性：一般\n分类：变化\n威力： —\n命中： —\nPP： 5
+精确匹配	查询纹理２|查询CONVERSION 2|查询conversion 2|查询Conversion 2|查询Conversion 2	名称：纹理２|Conversion 2\n属性：一般\n分类：变化\n威力： —\n命中： —\nPP： 30
+精确匹配	查询蛛网|查询SPIDER WEB|查询spider web|查询Spider web|查询Spider Web	名称：蛛网|Spider Web\n属性：虫\n分类：变化\n威力： —\n命中： —\nPP： 10
+精确匹配	查询恶梦|查询NIGHTMARE|查询nightmare|查询Nightmare|查询Nightmare	名称：恶梦|Nightmare\n属性：幽灵\n分类：变化\n威力： —\n命中： 100\nPP： 15
+精确匹配	查询抓狂|查询FLAIL|查询flail|查询Flail|查询Flail	名称：抓狂|Flail\n属性：一般\n分类：物理\n威力： 变化\n命中： 100\nPP： 15
+精确匹配	查询火焰车|火焰轮|查询FLAME WHEEL|查询flame wheel|查询Flame wheel|查询Flame Wheel	名称：火焰车|火焰轮|Flame Wheel\n属性：火\n分类：物理\n威力： 60\n命中： 100\nPP： 25
+精确匹配	查询诅咒|查询CURSE|查询curse|查询Curse|查询Curse	名称：诅咒|Curse\n属性：幽灵\n分类：变化\n威力： —\n命中： —\nPP： 10
+精确匹配	偷窃|小偷|TM96|tm96|Tm96|Tm96	名称：TM96|偷窃|小偷|Thief\n(TM技能机)地点价格：\n Celadon Mart Roof -- $7,500 (Must complete Thief Quest)\n属性：恶\n分类：物理\n威力： 60\n命中： 100\nPP： 25
+精确匹配	查询打鼾|查询SNORE|查询snore|查询Snore|查询Snore	名称：打鼾|Snore\n属性：一般\n分类：特殊\n威力： 50\n命中： 100\nPP： 15
+精确匹配	查询肚大鼓|腹鼓|查询BELLY DRUM|查询belly drum|查询Belly drum|查询Belly Drum	名称：肚大鼓|腹鼓|Belly Drum\n属性：一般\n分类：变化\n威力： —\n命中： —\nPP： 10
+精确匹配	查询天使之吻|查询SWEET KISS|查询sweet kiss|查询Sweet kiss|查询Sweet Kiss	名称：天使之吻|Sweet Kiss\n属性：妖精\n分类：变化\n威力： —\n命中： 75\nPP： 10
+精确匹配	查询音速拳|查询MACH PUNCH|查询mach punch|查询Mach punch|查询Mach Punch	名称：音速拳|Mach Punch\n属性：格斗\n分类：物理\n威力： 40\n命中： 100\nPP： 30
+精确匹配	查询细雪|查询POWDER SNOW|查询powder snow|查询Powder snow|查询Powder Snow	名称：细雪|Powder Snow\n属性：冰\n分类：特殊\n威力： 40\n命中： 100\nPP： 25
+精确匹配	查询棉孢子|查询COTTON SPORE|查询cotton spore|查询Cotton spore|查询Cotton Spore	名称：棉孢子|Cotton Spore\n属性：草\n分类：变化\n威力： —\n命中： 100\nPP： 40
+精确匹配	查询恨|怨恨|查询SPITE|查询spite|查询Spite|查询Spite	名称：恨|怨恨|Spite\n属性：幽灵\n分类：变化\n威力： —\n命中： 100\nPP： 10
+精确匹配	守住|TM67|tm67|Tm67|Tm67	名称：TM67|守住|Protect\n(TM技能机)地点价格：\n Trainers Valley -- $5,500 \n Veilstone Dept Store -- $6,000\n属性：一般\n分类：变化\n威力： —\n命中： —\nPP： 10
+精确匹配	查询暗算|偷袭|虛擊|出奇一击|查询FEINT ATTACK|查询feint attack|查询Feint attack|查询Feint Attack	名称：暗算|偷袭|虛擊|出奇一击|Feint Attack\n属性：恶\n分类：物理\n威力： 60\n命中： —\nPP： 20
+精确匹配	查询起死回生|查询REVERSAL|查询reversal|查询Reversal|查询Reversal	名称：起死回生|Reversal\n属性：格斗\n分类：物理\n威力： 变化\n命中： 100\nPP： 15
+精确匹配	查询鬼面|查询SCARY FACE|查询scary face|查询Scary face|查询Scary Face	名称：鬼面|Scary Face\n属性：一般\n分类：变化\n威力： —\n命中： 100\nPP： 10
+精确匹配	查询墨汁炮|章鱼桶炮|查询OCTAZOOKA|查询octazooka|查询Octazooka|查询Octazooka	名称：墨汁炮|章鱼桶炮|Octazooka\n属性：水\n分类：特殊\n威力： 65\n命中： 85\nPP： 10
+精确匹配	查询灭亡歌|灭歌|灭亡之歌|查询PERISH SONG|查询perish song|查询Perish song|查询Perish Song	名称：灭亡歌|灭歌|灭亡之歌|Perish Song\n属性：一般\n分类：变化\n威力： —\n命中： —\nPP： 5
+精确匹配	查询撒菱|查询SPIKES|查询spikes|查询Spikes|查询Spikes	名称：撒菱|Spikes\n属性：地面\n分类：变化\n威力： —\n命中： —\nPP： 20
+精确匹配	查询看穿|查询DETECT|查询detect|查询Detect|查询Detect	名称：看穿|Detect\n属性：格斗\n分类：变化\n威力： —\n命中： —\nPP： 5
+精确匹配	电磁炮|ZAP CANNON|zap cannon|Zap cannon|Zap Cannon	名称：电磁炮|Zap Cannon\n(技能机教学NPC)地点价格：\n Iron Island B1F L -- $15,000\n属性：电\n分类：特殊\n威力： 120\n命中： 50\nPP： 5
+精确匹配	查询同命|查询DESTINY BOND|查询destiny bond|查询Destiny bond|查询Destiny Bond	名称：同命|Destiny Bond\n属性：幽灵\n分类：变化\n威力： —\n命中： —\nPP： 5
+精确匹配	查询识破|查询FORESIGHT|查询foresight|查询Foresight|查询Foresight	名称：识破|Foresight\n属性：一般\n分类：变化\n威力： —\n命中： —\nPP： 40
+精确匹配	冰风|冰冻之风|ICY WIND|icy wind|Icy wind|Icy Wind	名称：冰风|冰冻之风|Icy Wind\n(教学NPC)地点价格：\n Mahogany Town Shop -- $12,000 \n Seafoam B4F -- $5,000\n属性：冰\n分类：特殊\n威力： 55\n命中： 95\nPP： 15
+精确匹配	毒爆弹|污泥炸弹|TM86|tm86|Tm86|Tm86	名称：TM86|毒爆弹|污泥炸弹|Sludge Bomb\n(TM技能机)地点价格：\n Dewford Town -- $5,000 -- Special Offer: 5 for $20,000 (pre--req 5 Hoenn badges)\n属性：毒\n分类：特殊\n威力： 90\n命中： 100\nPP： 10
+精确匹配	查询掷泥|查询MUD-SLAP|查询mud-slap|查询Mud-slap|查询Mud-Slap	名称：掷泥|Mud-Slap\n属性：地面\n分类：特殊\n威力： 20\n命中： 100\nPP： 10
+精确匹配	查询骨头冲锋|骨棒乱打|查询BONE RUSH|查询bone rush|查询Bone rush|查询Bone Rush	名称：骨头冲锋|骨棒乱打|Bone Rush\n属性：地面\n分类：物理\n威力： 25\n命中： 80\nPP： 10
+精确匹配	查询锁定|查询LOCK-ON|查询lock-on|查询Lock-on|查询Lock-On	名称：锁定|Lock-On\n属性：一般\n分类：变化\n威力： —\n命中： —\nPP： 5
+精确匹配	查询撒娇|查询CHARM|查询charm|查询Charm|查询Charm	名称：撒娇|Charm\n属性：妖精\n分类：变化\n威力： —\n命中： 100\nPP： 20
+精确匹配	逆鳞|OUTRAGE|outrage|Outrage|Outrage	名称：逆鳞|Outrage\n(教学NPC)地点价格：\n Abandoned Ship (After defeating Boss: Toothless) -- $15,000 \n Tutor Heaven -- $15,000\n属性：龙\n分类：物理\n威力： 120\n命中： 100\nPP： 15
+精确匹配	刀背打|点到为止|TM104|tm104|Tm104|Tm104	名称：TM104|刀背打|点到为止|False Swipe\n(TM技能机)地点价格：\n FREE trainer in Rustboro Mart \n Route 48 -- $4,000 -- Special Offer: 5 for $16,000 \n Lilycove Department Store 3F -- $4,000 \n Veilstone Dept Store -- $4,000\n属性：一般\n分类：物理\n威力： 40\n命中： 100\nPP： 40
+精确匹配	滚动|ROLLOUT|rollout|Rollout|Rollout	名称：滚动|Rollout\n(教学NPC)地点价格：\n Route 39 -- $10,000\n属性：岩石\n分类：物理\n威力： 30\n命中： 90\nPP： 20
+精确匹配	沙暴|TM87|tm87|Tm87|Tm87	名称：TM87|沙暴|Sandstorm\n(TM技能机)地点价格：\n Celadon Mart -- $2,000 \n Goldenrod Mart $2,000 \n Slateport Outdoor Market -- $3,500\n属性：岩石\n分类：变化\n威力： —\n命中： —\nPP： 10
+精确匹配	自吹自擂|虚张声势|SWAGGER|swagger|Swagger|Swagger	名称：自吹自擂|虚张声势|Swagger\n(教学NPC)地点价格：\n Victory Road 3F -- $10,000\n属性：一般\n分类：变化\n威力： —\n命中： 90\nPP： 15
+精确匹配	查询挺住|查询ENDURE|查询endure|查询Endure|查询Endure	名称：挺住|Endure\n属性：一般\n分类：变化\n威力： —\n命中： —\nPP： 10
+精确匹配	终极吸取|GIGA DRAIN|giga drain|Giga drain|Giga Drain	名称：终极吸取|Giga Drain\n(教学NPC)地点价格：\n Viridian Maze -- $7,500 (After defeating Boss: Erika) \n Tutor Heaven -- $7,500\n属性：草\n分类：特殊\n威力： 75\n命中： 100\nPP： 10
+精确匹配	查询喝牛奶|查询MILK DRINK|查询milk drink|查询Milk drink|查询Milk Drink	名称：喝牛奶|Milk Drink\n属性：一般\n分类：变化\n威力： —\n命中： —\nPP： 10
+精确匹配	查询礼物|查询PRESENT|查询present|查询Present|查询Present	名称：礼物|Present\n属性：一般\n分类：物理\n威力： 变化\n命中： 90\nPP： 15
+精确匹配	治愈之铃|治愈铃声|HEAL BELL|heal bell|Heal bell|Heal Bell	名称：治愈之铃|治愈铃声|Heal Bell\n(教学NPC)地点价格：\n Bell Tower Floor 7 -- $16,000 \n Tutor Heaven -- $16,000\n属性：一般\n分类：变化\n威力： —\n命中： —\nPP： 5
+精确匹配	查询黑色目光|查询MEAN LOOK|查询mean look|查询Mean look|查询Mean Look	名称：黑色目光|Mean Look\n属性：一般\n分类：变化\n威力： —\n命中： —\nPP： 5
+精确匹配	查询着迷|迷人|查询ATTRACT|查询attract|查询Attract|查询Attract	名称：着迷|迷人|Attract\n属性：一般\n分类：变化\n威力： —\n命中： 100\nPP： 15
+精确匹配	连续切|连斩|FURY CUTTER|fury cutter|Fury cutter|Fury Cutter	名称：连续切|连斩|Fury Cutter\n(教学NPC)地点价格：\n Verdanturf Pokecenter (Upstairs) -- 3 times a week $2,000 or 3 Red 2 Blue Shards(?)\n属性：虫\n分类：物理\n威力： 40\n命中： 95\nPP： 20
+精确匹配	查询电火花|电光|查询SPARK|查询spark|查询Spark|查询Spark	名称：电火花|电光|Spark\n属性：电\n分类：物理\n威力： 65\n命中： 100\nPP： 20
+精确匹配	查询报恩|查询RETURN|查询return|查询Return|查询Return	名称：报恩|Return\n属性：一般\n分类：物理\n威力： 变化\n命中： 100\nPP： 20
+精确匹配	钢翼|STEEL WING|steel wing|Steel wing|Steel Wing	名称：钢翼|Steel Wing\n(技能机教学NPC)地点价格：\n Celadon Gamecorner Stairs -- $15,000\n属性：钢\n分类：物理\n威力： 70\n命中： 90\nPP： 25
+精确匹配	梦话|TM138|tm138|Tm138|Tm138	名称：TM138|梦话|Sleep Talk\n(TM技能机)地点价格：\n Lilycove Department Store 3F -- $7,000\n属性：一般\n分类：变化\n威力： —\n命中： —\nPP： 10
+精确匹配	查询震级变化|震级|查询MAGNITUDE|查询magnitude|查询Magnitude|查询Magnitude	名称：震级变化|震级|Magnitude\n属性：地面\n分类：物理\n威力： 变化\n命中： 100\nPP： 30
+精确匹配	查询百万大角|百万角击|超级角击|查询MEGAHORN|查询megahorn|查询Megahorn|查询Megahorn	名称：百万大角|百万角击|超级角击|Megahorn\n属性：虫\n分类：物理\n威力： 120\n命中： 85\nPP： 10
+精确匹配	查询神圣之火|查询SACRED FIRE|查询sacred fire|查询Sacred fire|查询Sacred Fire	名称：神圣之火|Sacred Fire\n属性：火\n分类：物理\n威力： 100\n命中： 95\nPP： 5
+精确匹配	查询龙息|查询DRAGON BREATH|查询dragon breath|查询Dragon breath|查询Dragon Breath	名称：龙息|Dragon Breath\n属性：龙\n分类：特殊\n威力： 60\n命中： 100\nPP： 20
+精确匹配	迁怒|FRUSTRATION|frustration|Frustration|Frustration	名称：迁怒|Frustration\n(技能机教学NPC)地点价格：\n Sunyshore City -- $15,000\n属性：一般\n分类：物理\n威力： 变化\n命中： 100\nPP： 20
+精确匹配	爆裂拳|DYNAMIC PUNCH|dynamic punch|Dynamic punch|Dynamic Punch	名称：爆裂拳|Dynamic Punch\n(教学NPC)地点价格：\n Rustboro City Building 1 3F -- $7,500 (quest required)\n属性：格斗\n分类：物理\n威力： 100\n命中： 50\nPP： 5
+精确匹配	查询神秘守护|查询SAFEGUARD|查询safeguard|查询Safeguard|查询Safeguard	名称：神秘守护|Safeguard\n属性：一般\n分类：变化\n威力： —\n命中： —\nPP： 25
+精确匹配	查询接力棒|接棒|查询BATON PASS|查询baton pass|查询Baton pass|查询Baton Pass	名称：接力棒|接棒|Baton Pass\n属性：一般\n分类：变化\n威力： —\n命中： —\nPP： 40
+精确匹配	查询再来一次|查询ENCORE|查询encore|查询Encore|查询Encore	名称：再来一次|Encore\n属性：一般\n分类：变化\n威力： —\n命中： 100\nPP： 5
+精确匹配	痛平分|痛苦平分|分担痛楚|PAIN SPLIT|pain split|Pain split|Pain Split	名称：痛平分|痛苦平分|分担痛楚|Pain Split\n(教学NPC)地点价格：\n Pokemon Tower 6F -- $4,500 \n Tutor Heaven -- $4,500\n属性：一般\n分类：变化\n威力： —\n命中： —\nPP： 20
+精确匹配	查询当身投|对掷|借力摔|查询VITAL THROW|查询vital throw|查询Vital throw|查询Vital Throw	名称：当身投|对掷|借力摔|Vital Throw\n属性：格斗\n分类：物理\n威力： 70\n命中： —\nPP： 10
+精确匹配	查询朝阳|朝之阳|晨光|查询MORNING SUN|查询morning sun|查询Morning sun|查询Morning Sun	名称：朝阳|朝之阳|晨光|Morning Sun\n属性：一般\n分类：变化\n威力： —\n命中： —\nPP： 5
+精确匹配	查询月之光|月光|查询MOONLIGHT|查询moonlight|查询Moonlight|查询Moonlight	名称：月之光|月光|Moonlight\n属性：妖精\n分类：变化\n威力： —\n命中： —\nPP： 5
+精确匹配	觉醒力量|TM60|tm60|Tm60|Tm60	名称：TM60|觉醒力量|Hidden Power\n(TM技能机)地点价格：\n Slateport Outdoor Market -- $4,000\n属性：一般\n分类：特殊\n威力： 60\n命中： 100\nPP： 15
+精确匹配	查询金属爪|查询METAL CLAW|查询metal claw|查询Metal claw|查询Metal Claw	名称：金属爪|Metal Claw\n属性：钢\n分类：物理\n威力： 50\n命中： 95\nPP： 35
+精确匹配	铁尾|IRON TAIL|iron tail|Iron tail|Iron Tail	名称：铁尾|Iron Tail\n(教学NPC)地点价格：\n Olivine City -- $13,000\n(技能机教学NPC)地点价格：\n Olivine Cafe -- $15,000\n属性：钢\n分类：物理\n威力： 100\n命中： 75\nPP： 15
+精确匹配	查询香甜气息|甜甜香气|查询SWEET SCENT|查询sweet scent|查询Sweet scent|查询Sweet Scent	名称：香甜气息|甜甜香气|Sweet Scent\n属性：一般\n分类：变化\n威力： —\n命中： 100\nPP： 20
+精确匹配	光合作用|SYNTHESIS|synthesis|Synthesis|Synthesis	名称：光合作用|Synthesis\n(教学NPC)地点价格：\n Route 218 -- $12,000\n属性：草\n分类：变化\n威力： —\n命中： —\nPP： 5
+精确匹配	查询高速旋转|查询RAPID SPIN|查询rapid spin|查询Rapid spin|查询Rapid Spin	名称：高速旋转|Rapid Spin\n属性：一般\n分类：物理\n威力： 20\n命中： 100\nPP： 40
+精确匹配	查询追击|追打|查询PURSUIT|查询pursuit|查询Pursuit|查询Pursuit	名称：追击|追打|Pursuit\n属性：恶\n分类：物理\n威力： 40\n命中： 100\nPP： 20
+精确匹配	查询神速|查询EXTREME SPEED|查询extreme speed|查询Extreme speed|查询Extreme Speed	名称：神速|Extreme Speed\n属性：一般\n分类：物理\n威力： 80\n命中： 100\nPP： 5
+精确匹配	查询十字劈|查询CROSS CHOP|查询cross chop|查询Cross chop|查询Cross Chop	名称：十字劈|Cross Chop\n属性：格斗\n分类：物理\n威力： 100\n命中： 80\nPP： 5
+精确匹配	查询龙卷风|查询TWISTER|查询twister|查询Twister|查询Twister	名称：龙卷风|Twister\n属性：龙\n分类：特殊\n威力： 40\n命中： 100\nPP： 20
+精确匹配	原始力量|原始之力|ANCIENT POWER|ancient power|Ancient power|Ancient Power	名称：原始力量|原始之力|Ancient Power\n(教学NPC)地点价格：\n Ruins of Alph -- $3,500 (after finishing Pewter Museum questline)\n属性：岩石\n分类：特殊\n威力： 60\n命中： 100\nPP： 5
+精确匹配	查询镜返|镜面反射|查询MIRROR COAT|查询mirror coat|查询Mirror coat|查询Mirror Coat	名称：镜返|镜面反射|Mirror Coat\n属性：超能力\n分类：特殊\n威力： 变化\n命中： 100\nPP： 20
+精确匹配	阴影球|影球|暗影球|TM80|tm80|Tm80|Tm80	名称：TM80|阴影球|影球|暗影球|Shadow Ball\n(TM技能机)地点价格：\n Morty Boss Battle Reward \n Celadon Daily Quest Reward \n FOUND in Hall of Fame \n Lilycove Department Store 3F $4,000\n属性：幽灵\n分类：特殊\n威力： 80\n命中： 100\nPP： 15
+精确匹配	查询咬碎|查询CRUNCH|查询crunch|查询Crunch|查询Crunch	名称：咬碎|Crunch\n属性：恶\n分类：物理\n威力： 80\n命中： 100\nPP： 15
+精确匹配	自我暗示|PSYCH UP|psych up|Psych up|Psych Up	名称：自我暗示|Psych Up\n(教学NPC)地点价格：\n Veilstone Department Store -- $7,500 \n Fight Area House 2 -- $15,000\n(技能机教学NPC)地点价格：\n Fight Area House 2 -- 15,000\n属性：一般\n分类：变化\n威力： —\n命中： —\nPP： 10
+精确匹配	大晴天|TM61|tm61|Tm61|Tm61	名称：TM61|大晴天|Sunny Day\n(TM技能机)地点价格：\n Celadon Mart -- $2,000\n属性：火\n分类：变化\n威力： —\n命中： —\nPP： 5
+精确匹配	求雨|TM68|tm68|Tm68|Tm68	名称：TM68|求雨|Rain Dance\n(TM技能机)地点价格：\n Celadon Mart -- $2,000\n属性：水\n分类：变化\n威力： —\n命中： —\nPP： 5
+精确匹配	查询能量储存|蓄力|查询STOCKPILE|查询stockpile|查询Stockpile|查询Stockpile	名称：能量储存|蓄力|Stockpile\n属性：一般\n分类：变化\n威力： —\n命中： —\nPP： 20
+精确匹配	查询能量释放|喷出|查询SPIT UP|查询spit up|查询Spit up|查询Spit Up	名称：能量释放|喷出|Spit Up\n属性：一般\n分类：特殊\n威力： 变化\n命中： 100\nPP： 10
+精确匹配	查询能量吸入|吞下|查询SWALLOW|查询swallow|查询Swallow|查询Swallow	名称：能量吸入|吞下|Swallow\n属性：一般\n分类：变化\n威力： —\n命中： —\nPP： 10
+精确匹配	查询漩涡|潮旋|查询WHIRLPOOL|查询whirlpool|查询Whirlpool|查询Whirlpool	名称：漩涡|潮旋|Whirlpool\n属性：水\n分类：特殊\n威力： 35\n命中： 85\nPP： 15
+精确匹配	查询下马威|逗貓|击掌奇袭|查询FAKE OUT|查询fake out|查询Fake out|查询Fake Out	名称：下马威|逗貓|击掌奇袭|Fake Out\n属性：一般\n分类：物理\n威力： 40\n命中： 100\nPP： 10
+精确匹配	热风|HEAT WAVE|heat wave|Heat wave|Heat Wave	名称：热风|Heat Wave\n(教学NPC)地点价格：\n Cinnabar Gym B1F -- $8,000\n(技能机教学NPC)地点价格：\n Tutor Heaven -- $15,000\n属性：火\n分类：特殊\n威力： 95\n命中： 90\nPP： 10
+精确匹配	查询预知未来|查询FUTURE SIGHT|查询future sight|查询Future sight|查询Future Sight	名称：预知未来|Future Sight\n属性：超能力\n分类：特殊\n威力： 120\n命中： 100\nPP： 10
+精确匹配	查询围攻|查询BEAT UP|查询beat up|查询Beat up|查询Beat Up	名称：围攻|Beat Up\n属性：恶\n分类：物理\n威力： 变化\n命中： 100\nPP： 10
+精确匹配	查询吵闹|查询UPROAR|查询uproar|查询Uproar|查询Uproar	名称：吵闹|Uproar\n属性：一般\n分类：特殊\n威力： 90\n命中： 100\nPP： 10
+精确匹配	碎岩|TM114|tm114|Tm114|Tm114	名称：TM114|碎岩|Rock Smash\n(TM技能机)地点价格：\n FREE Route 11 Stop House 1F after obtaining 30 caught Pokemon \n Celadon Mart -- $3,500 \n Route 36 Smuggler -- $5,000 \n Mauville City House 2 -- $5,000 \n Oreburgh City House 2 -- $5,000 \n Veilstone Dept Store -- $3,500\n属性：格斗\n分类：物理\n威力： 40\n命中： 100\nPP： 15
+精确匹配	查询看我嘛|查询FOLLOW ME|查询follow me|查询Follow me|查询Follow Me	名称：看我嘛|Follow Me\n属性：一般\n分类：变化\n威力： —\n命中： —\nPP： 20
+精确匹配	查询煽动|吹捧|查询FLATTER|查询flatter|查询Flatter|查询Flatter	名称：煽动|吹捧|Flatter\n属性：恶\n分类：变化\n威力： —\n命中： 100\nPP： 15
+精确匹配	查询清醒|查询SMELLING SALTS|查询smelling salts|查询Smelling salts|查询Smelling Salts	名称：清醒|Smelling Salts\n属性：一般\n分类：物理\n威力： 70\n命中： 100\nPP： 10
+精确匹配	冰雹|TM57|tm57|Tm57|Tm57	名称：TM57|冰雹|Hail\n(TM技能机)地点价格：\n Celadon Mart -- $2,000\n属性：冰\n分类：变化\n威力： —\n命中： —\nPP： 10
+精确匹配	空元气|硬撑|TM92|tm92|Tm92|Tm92	名称：TM92|空元气|硬撑|Facade\n(TM技能机)地点价格：\n Petalburg Town Gym -- $3,500 -- Special Offer: 5 for $14,000\n属性：一般\n分类：物理\n威力： 70\n命中： 100\nPP： 20
+精确匹配	查询自然力量|自然之力|查询NATURE POWER|查询nature power|查询Nature power|查询Nature Power	名称：自然力量|自然之力|Nature Power\n属性：一般\n分类：变化\n威力： —\n命中： —\nPP： 20
+精确匹配	查询留下麻煩|临别礼物|查询MEMENTO|查询memento|查询Memento|查询Memento	名称：留下麻煩|临别礼物|Memento\n属性：恶\n分类：变化\n威力： —\n命中： 100\nPP： 10
+精确匹配	真气拳|FOCUS PUNCH|focus punch|Focus punch|Focus Punch	名称：真气拳|Focus Punch\n(技能机教学NPC)地点价格：\n Petalburg City -- $15,000\n属性：格斗\n分类：物理\n威力： 150\n命中： 100\nPP： 20
+精确匹配	查询寻衅|折磨|无理取闹|查询TORMENT|查询torment|查询Torment|查询Torment	名称：寻衅|折磨|无理取闹|Torment\n属性：恶\n分类：变化\n威力： —\n命中： 100\nPP： 15
+精确匹配	鬼火|TM111|tm111|Tm111|Tm111	名称：TM111|鬼火|Will-O-Wisp\n(TM技能机)地点价格：\n Celadon Mart -- $5,000\n属性：火\n分类：变化\n威力： —\n命中： 85\nPP： 15
+精确匹配	查询充电|查询CHARGE|查询charge|查询Charge|查询Charge	名称：充电|Charge\n属性：电\n分类：变化\n威力： —\n命中： —\nPP： 20
+精确匹配	查询借助|查询ASSIST|查询assist|查询Assist|查询Assist	名称：借助|Assist\n属性：一般\n分类：变化\n威力： —\n命中： —\nPP： 20
+精确匹配	查询扎根|查询INGRAIN|查询ingrain|查询Ingrain|查询Ingrain	名称：扎根|Ingrain\n属性：草\n分类：变化\n威力： —\n命中： —\nPP： 20
+精确匹配	扮演|ROLE PLAY|role play|Role play|Role Play	名称：扮演|Role Play\n(教学NPC)地点价格：\n Hearthome City House 3 -- $12,000\n属性：超能力\n分类：变化\n威力： —\n命中： —\nPP： 10
+精确匹配	查询祈愿|查询WISH|查询wish|查询Wish|查询Wish	名称：祈愿|Wish\n属性：一般\n分类：变化\n威力： —\n命中： —\nPP： 10
+精确匹配	龙爪|TM52|tm52|Tm52|Tm52	名称：TM52|龙爪|Dragon Claw\n(TM技能机)地点价格：\n Celadon Mart -- $3,500 \n Goldenrod Mart -- $8,000 \n Mauville City Game Corner -- $3,500\n属性：龙\n分类：物理\n威力： 80\n命中： 100\nPP： 15
+精确匹配	查询禁止通行|挡路|查询BLOCK|查询block|查询Block|查询Block	名称：禁止通行|挡路|Block\n属性：一般\n分类：变化\n威力： —\n命中： —\nPP： 5
+精确匹配	铁壁|IRON DEFENSE|iron defense|Iron defense|Iron Defense	名称：铁壁|Iron Defense\n(技能机教学NPC)地点价格：\n Mt Silver 1F -- $15,000\n属性：钢\n分类：变化\n威力： —\n命中： —\nPP： 15
+精确匹配	燕回闪|旋转翼|燕返|AERIAL ACE|aerial ace|Aerial ace|Aerial Ace	名称：燕回闪|旋转翼|燕返|Aerial Ace\n(技能机教学NPC)地点价格：\n Route 16 -- $15,000\n属性：飞行\n分类：物理\n威力： 60\n命中： —\nPP： 20
+精确匹配	查询鲜花防御|鲜花防守|查询FLOWER SHIELD|查询flower shield|查询Flower shield|查询Flower Shield	名称：鲜花防御|鲜花防守|Flower Shield\n属性：妖精\n分类：变化\n威力： —\n命中： —\nPP： 10
+精确匹配	查询薄雾场地|查询MISTY TERRAIN|查询misty terrain|查询Misty terrain|查询Misty Terrain	名称：薄雾场地|Misty Terrain\n属性：妖精\n分类：变化\n威力： —\n命中： —\nPP： 10
+精确匹配	嬉戏|玩脱|嬉闹|PLAY ROUGH|play rough|Play rough|Play Rough	名称：嬉戏|玩脱|嬉闹|Play Rough\n(教学NPC)地点价格：\n Love Island -- $15000\n属性：妖精\n分类：物理\n威力： 90\n命中： 90\nPP： 15
+精确匹配	查询做朋友|和睦相处|查询PLAY NICE|查询play nice|查询Play nice|查询Play Nice	名称：做朋友|和睦相处|Play Nice\n属性：一般\n分类：变化\n威力： —\n命中： —\nPP： 20
+精确匹配	查询棘刺防御 |刺针防御|尖刺防守|查询SPIKY SHIELD|查询spiky shield|查询Spiky shield|查询Spiky Shield	名称：棘刺防御 |刺针防御|尖刺防守|Spiky Shield\n属性：草\n分类：变化\n威力： —\n命中： —\nPP： 10
+精确匹配	查询魔法火焰|查询MYSTICAL FIRE|查询mystical fire|查询Mystical fire|查询Mystical Fire	名称：魔法火焰|Mystical Fire\n属性：火\n分类：特殊\n威力： 65\n命中： 100\nPP： 10
+精确匹配	查询飞水手里剑|查询WATER SHURIKEN|查询water shuriken|查询Water shuriken|查询Water Shuriken	名称：飞水手里剑|Water Shuriken\n属性：水\n分类：特殊\n威力： 15\n命中： 100\nPP： 20
+精确匹配	查询王者之盾|王者盾牌|查询KING’S SHIELD|查询king’s shield|查询King’s shield|查询King’S Shield	名称：王者之盾|王者盾牌|King’S Shield\n属性：钢\n分类：变化\n威力： —\n命中： —\nPP： 10
+精确匹配	查询异次元洞|查询HYPERSPACE HOLE|查询hyperspace hole|查询Hyperspace hole|查询Hyperspace Hole	名称：异次元洞|Hyperspace Hole\n属性：超能力\n分类：特殊\n威力： 80\n命中： —\nPP： 5
+精确匹配	查询蒸汽喷发|蒸汽爆炸|查询STEAM ERUPTION|查询steam eruption|查询Steam eruption|查询Steam Eruption	名称：蒸汽喷发|蒸汽爆炸|Steam Eruption\n属性：水\n分类：特殊\n威力： 110\n命中： 95\nPP： 5
+精确匹配	查询钻石风暴|查询DIAMOND STORM|查询diamond storm|查询Diamond storm|查询Diamond Storm	名称：钻石风暴|Diamond Storm\n属性：岩石\n分类：物理\n威力： 100\n命中： 95\nPP： 5
+精确匹配	查询芳香薄雾|查询AROMATIC MIST|查询aromatic mist|查询Aromatic mist|查询Aromatic Mist	名称：芳香薄雾|Aromatic Mist\n属性：妖精\n分类：变化\n威力： —\n命中： 100\nPP： 20
+精确匹配	查询悄悄话|私密话|密语|查询CONFIDE|查询confide|查询Confide|查询Confide	名称：悄悄话|私密话|密语|Confide\n属性：一般\n分类：变化\n威力： —\n命中： —\nPP： 20
+精确匹配	查询毒液陷阱|查询VENOM DRENCH|查询venom drench|查询Venom drench|查询Venom Drench	名称：毒液陷阱|Venom Drench\n属性：毒\n分类：变化\n威力： —\n命中： 100\nPP： 20
+精确匹配	查询庆祝|查询CELEBRATE|查询celebrate|查询Celebrate|查询Celebrate	名称：庆祝|Celebrate\n属性：一般\n分类：变化\n威力： —\n命中： —\nPP： 40
+精确匹配	查询快乐时光|欢乐时光|查询HAPPY HOUR|查询happy hour|查询Happy hour|查询Happy Hour	名称：快乐时光|欢乐时光|Happy Hour\n属性：一般\n分类：变化\n威力： —\n命中： —\nPP： 30
+精确匹配	查询电气场地|查询ELECTRIC TERRAIN|查询electric terrain|查询Electric terrain|查询Electric Terrain	名称：电气场地|Electric Terrain\n属性：电\n分类：变化\n威力： —\n命中： —\nPP： 10
+精确匹配	查询磁场操控|查询MAGNETIC FLUX|查询magnetic flux|查询Magnetic flux|查询Magnetic Flux	名称：磁场操控|Magnetic Flux\n属性：电\n分类：变化\n威力： —\n命中： —\nPP： 20
+精确匹配	查询大地掌控|查询GEOMANCY|查询geomancy|查询Geomancy|查询Geomancy	名称：大地掌控|Geomancy\n属性：妖精\n分类：变化\n威力： —\n命中： —\nPP： 10
+精确匹配	查询粉尘|查询POWDER|查询powder|查询Powder|查询Powder	名称：粉尘|Powder\n属性：虫\n分类：变化\n威力： —\n命中： 100\nPP： 20
+精确匹配	查询牵手|查询HOLD HANDS|查询hold hands|查询Hold hands|查询Hold Hands	名称：牵手|Hold Hands\n属性：一般\n分类：變化\n威力： —\n命中： —\nPP： 40
+精确匹配	查询怪电波|怪异电波|查询EERIE IMPULSE|查询eerie impulse|查询Eerie impulse|查询Eerie Impulse	名称：怪电波|怪异电波|Eerie Impulse\n属性：電\n分类：变化\n威力： —\n命中： 100\nPP： 15
+精确匹配	魔法闪耀|DAZZLING GLEAM|dazzling gleam|Dazzling gleam|Dazzling Gleam	名称：魔法闪耀|Dazzling Gleam\n(技能机教学NPC)地点价格：\n Sendoff Spring -- $15,000\n属性：妖精\n分类：特殊\n威力： 80\n命中： 100\nPP： 10
+精确匹配	查询蹭蹭臉頰|查询NUZZLE|查询nuzzle|查询Nuzzle|查询Nuzzle	名称：蹭蹭臉頰|Nuzzle\n属性：电\n分类：物理\n威力： 20\n命中： 100\nPP： 20
+精确匹配	查询大地神力|查询LAND’S WRATH|查询land’s wrath|查询Land’s wrath|查询Land’S Wrath	名称：大地神力|Land’S Wrath\n属性：地面\n分类：物理\n威力： 90\n命中： 100\nPP： 10
+精确匹配	查询千箭齊發|查询THOUSAND ARROWS|查询thousand arrows|查询Thousand arrows|查询Thousand Arrows	名称：千箭齊發|Thousand Arrows\n属性：地面\n分类：物理\n威力： 90\n命中： 100\nPP： 10
+精确匹配	查询圆滑目光|可爱目光|圆瞳|查询BABY-DOLL EYES|查询baby-doll eyes|查询Baby-doll eyes|查询Baby-Doll Eyes	名称：圆滑目光|可爱目光|圆瞳|Baby-Doll Eyes\n属性：妖精\n分类：变化\n威力： —\n命中： 100\nPP： 30
+精确匹配	查询千波激盪|查询THOUSAND WAVES|查询thousand waves|查询Thousand waves|查询Thousand Waves	名称：千波激盪|Thousand Waves\n属性：地面\n分类：物理\n威力： 90\n命中： 100\nPP： 10
+精确匹配	查询死亡之翼|查询OBLIVION WING|查询oblivion wing|查询Oblivion wing|查询Oblivion Wing	名称：死亡之翼|Oblivion Wing\n属性：飛行\n分类：特殊\n威力： 80\n命中： 100\nPP： 10
+精确匹配	查询手下留情|查询HOLD BACK|查询hold back|查询Hold back|查询Hold Back	名称：手下留情|Hold Back\n属性：一般\n分类：物理\n威力： 40\n命中： 100\nPP： 40
+精确匹配	查询破灭之光|查询LIGHT OF RUIN|查询light of ruin|查询Light of ruin|查询Light Of Ruin	名称：破灭之光|Light Of Ruin\n属性：妖精\n分类：特殊\n威力： 140\n命中： 90\nPP： 5
+精确匹配	查询虫灾|缠身|虫群缠身|虫的缠身|死缠烂打|查询INFESTATION|查询infestation|查询Infestation|查询Infestation	名称：虫灾|缠身|虫群缠身|虫的缠身|死缠烂打|Infestation\n属性：虫\n分类：特殊\n威力： 20\n命中： 100\nPP： 35
+精确匹配	查询提升拳|增强拳|查询POWER-UP PUNCH|查询power-up punch|查询Power-up punch|查询Power-Up Punch	名称：提升拳|增强拳|Power-Up Punch\n属性：格鬥\n分类：物理\n威力： 40\n命中： 100\nPP： 30
+精确匹配	查询一般Ｚ|查询BREAKNECK BLITZ|查询breakneck blitz|查询Breakneck blitz|查询Breakneck Blitz	名称：一般Ｚ|Breakneck Blitz\n属性：一般\n分类：物理\n威力： —\n命中： —\nPP： 1
+精确匹配	查询飞行Ｚ|查询SUPERSONIC SKYSTRIKE|查询supersonic skystrike|查询Supersonic skystrike|查询Supersonic Skystrike	名称：飞行Ｚ|Supersonic Skystrike\n属性：飞行\n分类：物理\n威力： —\n命中： —\nPP： 1
+精确匹配	查询格斗Ｚ|查询ALL-OUT PUMMELING|查询all-out pummeling|查询All-out pummeling|查询All-Out Pummeling	名称：格斗Ｚ|All-Out Pummeling\n属性：格鬥\n分类：物理\n威力： —\n命中： —\nPP： 1
+精确匹配	查询格斗Ｚ|查询ALL-OUT PUMMELING|查询all-out pummeling|查询All-out pummeling|查询All-Out Pummeling	名称：格斗Ｚ|All-Out Pummeling\n属性：格鬥\n分类：特殊\n威力： —\n命中： —\nPP： 1
+精确匹配	查询祈祷|幸运咒语|查询LUCKY CHANT|查询lucky chant|查询Lucky chant|查询Lucky Chant	名称：祈祷|幸运咒语|Lucky Chant\n属性：一般\n分类：变化\n威力： —\n命中： —\nPP： 30
+精确匹配	查询榨取|绞紧|查询WRING OUT|查询wring out|查询Wring out|查询Wring Out	名称：榨取|绞紧|Wring Out\n属性：一般\n分类：特殊\n威力： 变化\n命中： 100\nPP： 5
+精确匹配	查询懲罰|查询PUNISHMENT|查询punishment|查询Punishment|查询Punishment	名称：懲罰|Punishment\n属性：恶\n分类：物理\n威力： 变化\n命中： 100\nPP： 5
+精确匹配	查询力量戏法|查询POWER TRICK|查询power trick|查询Power trick|查询Power Trick	名称：力量戏法|Power Trick\n属性：超能力\n分类：变化\n威力： —\n命中： —\nPP： 10
+精确匹配	查询仿效|查询COPYCAT|查询copycat|查询Copycat|查询Copycat	名称：仿效|Copycat\n属性：一般\n分类：变化\n威力： —\n命中： —\nPP： 20
+精确匹配	查询防守互换|查询GUARD SWAP|查询guard swap|查询Guard swap|查询Guard Swap	名称：防守互换|Guard Swap\n属性：超能力\n分类：变化\n威力： —\n命中： —\nPP： 10
+精确匹配	查询力量互换|查询POWER SWAP|查询power swap|查询Power swap|查询Power Swap	名称：力量互换|Power Swap\n属性：超能力\n分类：变化\n威力： —\n命中： —\nPP： 10
+精确匹配	查询最终保留|珍藏|查询LAST RESORT|查询last resort|查询Last resort|查询Last Resort	名称：最终保留|珍藏|Last Resort\n属性：一般\n分类：物理\n威力： 140\n命中： 100\nPP： 5
+精确匹配	查询先取|抢先一步|查询ME FIRST|查询me first|查询Me first|查询Me First	名称：先取|抢先一步|Me First\n属性：一般\n分类：变化\n威力： 变化\n命中： —\nPP： 20
+精确匹配	查询胃液|查询GASTRO ACID|查询gastro acid|查询Gastro acid|查询Gastro Acid	名称：胃液|Gastro Acid\n属性：毒\n分类：变化\n威力： —\n命中： 100\nPP： 10
+精确匹配	查询毒菱|查询TOXIC SPIKES|查询toxic spikes|查询Toxic spikes|查询Toxic Spikes	名称：毒菱|Toxic Spikes\n属性：毒\n分类：变化\n威力： —\n命中： —\nPP： 20
+精确匹配	查询发劲|查询FORCE PALM|查询force palm|查询Force palm|查询Force Palm	名称：发劲|Force Palm\n属性：格斗\n分类：物理\n威力： 60\n命中： 100\nPP： 10
+精确匹配	查询心灵互换|查询HEART SWAP|查询heart swap|查询Heart swap|查询Heart Swap	名称：心灵互换|Heart Swap\n属性：超能力\n分类：变化\n威力： —\n命中： —\nPP： 10
+精确匹配	查询波导弹|查询AURA SPHERE|查询aura sphere|查询Aura sphere|查询Aura Sphere	名称：波导弹|Aura Sphere\n属性：格斗\n分类：特殊\n威力： 80\n命中： —\nPP： 20
+精确匹配	不意打|埋伏|突袭|SUCKER PUNCH|sucker punch|Sucker punch|Sucker Punch	名称：不意打|埋伏|突袭|Sucker Punch\n(教学NPC)地点价格：\n Haunted Site -- $20,000 (need 5,000 points)\n属性：恶\n分类：物理\n威力： 80\n命中： 100\nPP： 5
+精确匹配	查询火焰推進|烈焰驅進|火推|闪焰冲锋|查询FLARE BLITZ|查询flare blitz|查询Flare blitz|查询Flare Blitz	名称：火焰推進|烈焰驅進|火推|闪焰冲锋|Flare Blitz\n属性：火\n分类：物理\n威力： 120\n命中： 100\nPP： 15
+精确匹配	电磁飘浮|MAGNET RISE|magnet rise|Magnet rise|Magnet Rise	名称：电磁飘浮|Magnet Rise\n(教学NPC)地点价格：\n Mt. Coronet Summit -- $12,000\n属性：电\n分类：变化\n威力： —\n命中： —\nPP： 10
+精确匹配	查询玛夏多Ｚ|查询SOUL-STEALING 7-STAR STRIKE|查询soul-stealing 7-star strike|查询Soul-stealing 7-star strike|查询Soul-Stealing 7-Star Strike	名称：玛夏多Ｚ|Soul-Stealing 7-Star Strike\n属性：幽灵\n分类：物理\n威力： 195\n命中： —\nPP： 1
+精确匹配	查询冲岩|查询ACCELEROCK|查询accelerock|查询Accelerock|查询Accelerock	名称：冲岩|Accelerock\n属性：岩石\n分类：物理\n威力： 40\n命中： 100\nPP： 20
+精确匹配	查询麻麻刺刺|查询ZING ZAP|查询zing zap|查询Zing zap|查询Zing Zap	名称：麻麻刺刺|Zing Zap\n属性：电\n分类：物理\n威力： 80\n命中： 100\nPP： 10
+精确匹配	查询暗影偷盗|查询SPECTRAL THIEF|查询spectral thief|查询Spectral thief|查询Spectral Thief	名称：暗影偷盗|Spectral Thief\n属性：幽灵\n分类：物理\n威力： 90\n命中： 100\nPP： 10
+精确匹配	查询泪眼汪汪|查询TEARFUL LOOK|查询tearful look|查询Tearful look|查询Tearful Look	名称：泪眼汪汪|Tearful Look\n属性：一般\n分类：变化\n威力： —\n命中： —\nPP： 20
+精确匹配	查询自然之怒|查询NATURE’S MADNESS|查询nature’s madness|查询Nature’s madness|查询Nature’S Madness	名称：自然之怒|Nature’S Madness\n属性：妖精\n分类：特殊\n威力： —\n命中： 90\nPP： 10
+精确匹配	查询暗影之光|查询MOONGEIST BEAM|查询moongeist beam|查询Moongeist beam|查询Moongeist Beam	名称：暗影之光|Moongeist Beam\n属性：幽灵\n分类：特殊\n威力： 100\n命中： 100\nPP： 5
+精确匹配	查询流星闪冲|查询SUNSTEEL STRIKE|查询sunsteel strike|查询Sunsteel strike|查询Sunsteel Strike	名称：流星闪冲|Sunsteel Strike\n属性：钢\n分类：物理\n威力： 100\n命中： 100\nPP： 5
+精确匹配	查询棱镜镭射|查询PRISMATIC LASER|查询prismatic laser|查询Prismatic laser|查询Prismatic Laser	名称：棱镜镭射|Prismatic Laser\n属性：超能力\n分类：特殊\n威力： 160\n命中： 100\nPP： 10
+精确匹配	查询暗影之骨|查询SHADOW BONE|查询shadow bone|查询Shadow bone|查询Shadow Bone	名称：暗影之骨|Shadow Bone\n属性：幽灵\n分类：物理\n威力： 85\n命中： 100\nPP： 10
+精确匹配	水流裂破|LIQUIDATION|liquidation|Liquidation|Liquidation	名称：水流裂破|Liquidation\n(教学NPC)地点价格：\n Amity Square\n属性：水\n分类：物理\n威力： 85\n命中： 100\nPP： 10
+精确匹配	查询多属性攻击|查询MULTI-ATTACK|查询multi-attack|查询Multi-attack|查询Multi-Attack	名称：多属性攻击|Multi-Attack\n属性：一般\n分类：物理\n威力： 90\n命中： 100\nPP： 10
+精确匹配	查询智皮卡Ｚ|查询10,000,000 VOLT THUNDERBOLT|查询10,000,000 volt thunderbolt|查询10,000,000 volt thunderbolt|查询10,000,000 Volt Thunderbolt	名称：智皮卡Ｚ|10,000,000 Volt Thunderbolt\n属性：电\n分类：特殊\n威力： 195\n命中： —\nPP： 1
+精确匹配	查询pc|查询PC|查询变态pc	这个就是你想知道的变态PC[CQ:at,qq=2860016481]
+精确匹配	岩切|岩石打磨|ROCK POLISH|rock polish|Rock polish|Rock Polish	名称：岩切|岩石打磨|Rock Polish\n(技能机教学NPC)地点价格：\n Union Cave -- $15,000\n属性：岩石\n分类：变化\n威力： —\n命中： —\nPP： 20
+精确匹配	查询液体圈|水流环|查询AQUA RING|查询aqua ring|查询Aqua ring|查询Aqua Ring	名称：液体圈|水流环|Aqua Ring\n属性：水\n分类：变化\n威力： —\n命中： —\nPP： 20
+精确匹配	查询烦恼种子|查询WORRY SEED|查询worry seed|查询Worry seed|查询Worry Seed	名称：烦恼种子|Worry Seed\n属性：草\n分类：变化\n威力： —\n命中： 100\nPP： 10
+精确匹配	查询龙之俯冲|查询DRAGON RUSH|查询dragon rush|查询Dragon rush|查询Dragon Rush	名称：龙之俯冲|Dragon Rush\n属性：龙\n分类：物理\n威力： 100\n命中： 75\nPP： 10
+精确匹配	毒突|毒击|POISON JAB|poison jab|Poison jab|Poison Jab	名称：毒突|毒击|Poison Jab\n(技能机教学NPC)地点价格：\n Kanto Safari Area 1 -- $12,000\n属性：毒\n分类：物理\n威力： 80\n命中： 100\nPP： 20
+精确匹配	十字劈|十字剪|X-SCISSOR|x-scissor|X-scissor|X-Scissor	名称：十字劈|十字剪|X-Scissor\n(技能机教学NPC)地点价格：\n National Park -- $15,000\n属性：虫\n分类：物理\n威力： 80\n命中： 100\nPP： 15
+精确匹配	查询空气斩|查询AIR SLASH|查询air slash|查询Air slash|查询Air Slash	名称：空气斩|Air Slash\n属性：飞行\n分类：特殊\n威力： 75\n命中： 95\nPP： 15
+精确匹配	种子炸弹|SEED BOMB|seed bomb|Seed bomb|Seed Bomb	名称：种子炸弹|Seed Bomb\n(教学NPC)地点价格：\n Johto Safari -- $12,000\n属性：草\n分类：物理\n威力： 80\n命中： 100\nPP： 15
+精确匹配	查询试刃|试刀|暗袭要害|查询NIGHT SLASH|查询night slash|查询Night slash|查询Night Slash	名称：试刃|试刀|暗袭要害|Night Slash\n属性：恶\n分类：物理\n威力： 70\n命中： 100\nPP： 15
+精确匹配	龙之波动|DRAGON PULSE|dragon pulse|Dragon pulse|Dragon Pulse	名称：龙之波动|Dragon Pulse\n(教学NPC)地点价格：\n Blackthorn City Gym -- $10,000\n属性：龙\n分类：特殊\n威力： 85\n命中： 100\nPP： 10
+精确匹配	查询虫鸣|查询BUG BUZZ|查询bug buzz|查询Bug buzz|查询Bug Buzz	名称：虫鸣|Bug Buzz\n属性：虫\n分类：特殊\n威力： 90\n命中： 100\nPP： 10
+精确匹配	液態尾巴|水流尾|AQUA TAIL|aqua tail|Aqua tail|Aqua Tail	名称：液態尾巴|水流尾|Aqua Tail\n(教学NPC)地点价格：\n Abandoned Ship Exterior -- $7,000\n属性：水\n分类：物理\n威力： 90\n命中： 90\nPP： 10
+精确匹配	恶之波动|DARK PULSE|dark pulse|Dark pulse|Dark Pulse	名称：恶之波动|Dark Pulse\n(教学NPC)地点价格：\n Lavaridge Mart -- $9,000\n(技能机教学NPC)地点价格：\n Ecruteak City -- $15,000\n属性：恶\n分类：特殊\n威力： 80\n命中： 100\nPP： 15
+精确匹配	查询勇鸟|战鸟|勇鸟猛攻|查询BRAVE BIRD|查询brave bird|查询Brave bird|查询Brave Bird	名称：勇鸟|战鸟|勇鸟猛攻|Brave Bird\n属性：飞行\n分类：物理\n威力： 120\n命中： 100\nPP： 15
+精确匹配	查询力量宝石|查询POWER GEM|查询power gem|查询Power gem|查询Power Gem	名称：力量宝石|Power Gem\n属性：岩石\n分类：特殊\n威力： 80\n命中： 100\nPP： 20
+精确匹配	查询阴谋|诡计|查询NASTY PLOT|查询nasty plot|查询Nasty plot|查询Nasty Plot	名称：阴谋|诡计|Nasty Plot\n属性：恶\n分类：变化\n威力： —\n命中： —\nPP： 20
+精确匹配	查询地下交易|调包|掉包|查询SWITCHEROO|查询switcheroo|查询Switcheroo|查询Switcheroo	名称：地下交易|调包|掉包|Switcheroo\n属性：恶\n分类：变化\n威力： —\n命中： 100\nPP： 10
+精确匹配	吸取拳|DRAIN PUNCH|drain punch|Drain punch|Drain Punch	名称：吸取拳|Drain Punch\n(教学NPC)地点价格：\n Cianwood Gym -- $10,000\n属性：格斗\n分类：物理\n威力： 75\n命中： 100\nPP： 10
+精确匹配	大地之力|EARTH POWER|earth power|Earth power|Earth Power	名称：大地之力|Earth Power\n(教学NPC)地点价格：\n Tohjo Falls -- $10,000\n属性：地面\n分类：特殊\n威力： 90\n命中： 100\nPP： 10
+精确匹配	真空波|VACUUM WAVE|vacuum wave|Vacuum wave|Vacuum Wave	名称：真空波|Vacuum Wave\n(教学NPC)地点价格：\n Cianwood City -- $8,000\n属性：格斗\n分类：特殊\n威力： 40\n命中： 100\nPP： 30
+精确匹配	真气弹|FOCUS BLAST|focus blast|Focus blast|Focus Blast	名称：真气弹|Focus Blast\n(技能机教学NPC)地点价格：\n Tutor Heaven -- $15,000\n属性：格斗\n分类：特殊\n威力： 120\n命中： 70\nPP： 5
+精确匹配	能量球|ENERGY BALL|energy ball|Energy ball|Energy Ball	名称：能量球|Energy Ball\n(技能机教学NPC)地点价格：\n Tutor Heaven -- $15,000\n属性：草\n分类：特殊\n威力： 90\n命中： 100\nPP： 10
+精确匹配	亿万冲击|亿万吨撞击|亿万撞击波|终极冲击|GIGA IMPACT|giga impact|Giga impact|Giga Impact	名称：亿万冲击|亿万吨撞击|亿万撞击波|终极冲击|Giga Impact\n(技能机教学NPC)地点价格：\n Celadon Gamecorner Stairs -- $30,000\n属性：一般\n分类：物理\n威力： 150\n命中： 90\nPP： 5
+精确匹配	查询雷电牙|查询THUNDER FANG|查询thunder fang|查询Thunder fang|查询Thunder Fang	名称：雷电牙|Thunder Fang\n属性：电\n分类：物理\n威力： 65\n命中： 95\nPP： 15
+精确匹配	查询碎冰飛擊|冰飞|冰砾|查询ICE SHARD|查询ice shard|查询Ice shard|查询Ice Shard	名称：碎冰飛擊|冰飞|冰砾|Ice Shard\n属性：冰\n分类：物理\n威力： 40\n命中： 100\nPP： 30
+精确匹配	查询精神切割|念力切割|精神利刃|查询PSYCHO CUT|查询psycho cut|查询Psycho cut|查询Psycho Cut	名称：精神切割|念力切割|精神利刃|Psycho Cut\n属性：超能力\n分类：物理\n威力： 70\n命中： 100\nPP： 20
+精确匹配	查询子弹拳|查询BULLET PUNCH|查询bullet punch|查询Bullet punch|查询Bullet Punch	名称：子弹拳|Bullet Punch\n属性：钢\n分类：物理\n威力： 40\n命中： 100\nPP： 30
+精确匹配	查询冰冻牙|查询ICE FANG|查询ice fang|查询Ice fang|查询Ice Fang	名称：冰冻牙|Ice Fang\n属性：冰\n分类：物理\n威力： 65\n命中： 95\nPP： 15
+精确匹配	查询影击|暗影击|影子偷袭|查询SHADOW SNEAK|查询shadow sneak|查询Shadow sneak|查询Shadow Sneak	名称：影击|暗影击|影子偷袭|Shadow Sneak\n属性：幽灵\n分类：物理\n威力： 40\n命中： 100\nPP： 30
+精确匹配	查询火焰牙|查询FIRE FANG|查询fire fang|查询Fire fang|查询Fire Fang	名称：火焰牙|Fire Fang\n属性：火\n分类：物理\n威力： 65\n命中： 95\nPP： 15
+精确匹配	查询泥爆弹|泥巴炸弹|查询MUD BOMB|查询mud bomb|查询Mud bomb|查询Mud Bomb	名称：泥爆弹|泥巴炸弹|Mud Bomb\n属性：地面\n分类：特殊\n威力： 65\n命中： 85\nPP： 10
+精确匹配	雪崩|AVALANCHE|avalanche|Avalanche|Avalanche	名称：雪崩|Avalanche\n(技能机教学NPC)地点价格：\n Route 216 -- $15,000\n属性：冰\n分类：物理\n威力： 60\n命中： 100\nPP： 10
+精确匹配	阴影爪|暗影爪|TM115|tm115|Tm115|Tm115	名称：TM115|阴影爪|暗影爪|Shadow Claw\n(TM技能机)地点价格：\n Morty Boss Battle Reward \n Celadon Daily Quest Reward \n FOUND in Burned Tower Floor 2 \n Slateport Outdoor Market -- $3,500 \n Lt. Surge Boss Battle Reward\n属性：幽灵\n分类：物理\n威力： 70\n命中： 100\nPP： 15
+精确匹配	查询喷烟|查询LAVA PLUME|查询lava plume|查询Lava plume|查询Lava Plume	名称：喷烟|Lava Plume\n属性：火\n分类：特殊\n威力： 80\n命中： 100\nPP： 15
+精确匹配	查询镜光射击|查询MIRROR SHOT|查询mirror shot|查询Mirror shot|查询Mirror Shot	名称：镜光射击|Mirror Shot\n属性：钢\n分类：特殊\n威力： 65\n命中： 85\nPP： 10
+精确匹配	查询绿叶风暴|飞叶风暴|查询LEAF STORM|查询leaf storm|查询Leaf storm|查询Leaf Storm	名称：绿叶风暴|飞叶风暴|Leaf Storm\n属性：草\n分类：特殊\n威力： 130\n命中： 90\nPP： 5
+精确匹配	清除浓雾|DEFOG|defog|Defog|Defog	名称：清除浓雾|Defog\n(技能机教学NPC)地点价格：\n Tutor Heaven -- $8,000\n属性：飞行\n分类：变化\n威力： —\n命中： —\nPP： 15
+精确匹配	查询放电|查询DISCHARGE|查询discharge|查询Discharge|查询Discharge	名称：放电|Discharge\n属性：电\n分类：特殊\n威力： 80\n命中： 100\nPP： 15
+精确匹配	攀岩|ROCK CLIMB|rock climb|Rock climb|Rock Climb	名称：攀岩|Rock Climb\n(技能机教学NPC)地点价格：\n Route 207 -- $15,000\n属性：一般\n分类：物理\n威力： 90\n命中： 85\nPP： 20
+精确匹配	光栅炮|光泽加农炮|光泽重炮|彩虹加农|光炮|加农光炮|FLASH CANNON|flash cannon|Flash cannon|Flash Cannon	名称：光栅炮|光泽加农炮|光泽重炮|彩虹加农|光炮|加农光炮|Flash Cannon\n(技能机教学NPC)地点价格：\n Tutor Heaven -- $15,000\n属性：钢\n分类：特殊\n威力： 80\n命中： 100\nPP： 10
+精确匹配	查询欺诈空间|戏法空间|查询TRICK ROOM|查询trick room|查询Trick room|查询Trick Room	名称：欺诈空间|戏法空间|Trick Room\n属性：超能力\n分类：变化\n威力： —\n命中： —\nPP： 5
+精确匹配	龍星群|流星群|DRACO METEOR|draco meteor|Draco meteor|Draco Meteor	名称：龍星群|流星群|Draco Meteor\n(教学NPC)地点价格：\n Dragons Shrine (After defeating Boss: Lance) -- $15,000 \n Tutor Heaven -- $15,000\n属性：龙\n分类：特殊\n威力： 130\n命中： 90\nPP： 5
+精确匹配	思念头槌|意念头锤|ZEN HEADBUTT|zen headbutt|Zen headbutt|Zen Headbutt	名称：思念头槌|意念头锤|Zen Headbutt\n(教学NPC)地点价格：\n Slateport Outdoor Market -- $8,000\n属性：超能力\n分类：物理\n威力： 80\n命中： 90\nPP： 15
+精确匹配	查询岩石炮|查询ROCK WRECKER|查询rock wrecker|查询Rock wrecker|查询Rock Wrecker	名称：岩石炮|Rock Wrecker\n属性：岩石\n分类：物理\n威力： 150\n命中： 90\nPP： 5
+精确匹配	查询磁体炸弹|磁力炸弹|磁铁炸弹|查询MAGNET BOMB|查询magnet bomb|查询Magnet bomb|查询Magnet Bomb	名称：磁体炸弹|磁力炸弹|磁铁炸弹|Magnet Bomb\n属性：钢\n分类：物理\n威力： 60\n命中： —\nPP： 20
+精确匹配	查询毒十字|毒十字斩|十字毒刃|查询CROSS POISON|查询cross poison|查询Cross poison|查询Cross Poison	名称：毒十字|毒十字斩|十字毒刃|Cross Poison\n属性：毒\n分类：物理\n威力： 70\n命中： 100\nPP： 20
+精确匹配	查询强力鞭打|查询POWER WHIP|查询power whip|查询Power whip|查询Power Whip	名称：强力鞭打|Power Whip\n属性：草\n分类：物理\n威力： 120\n命中： 85\nPP： 10
+精确匹配	岩石飞刃|岩石利刃|石刃|尖石攻击|STONE EDGE|stone edge|Stone edge|Stone Edge	名称：岩石飞刃|岩石利刃|石刃|尖石攻击|Stone Edge\n(技能机教学NPC)地点价格：\n Tutor Heaven -- $15,000\n属性：岩石\n分类：物理\n威力： 100\n命中： 80\nPP： 5
+精确匹配	铁头|IRON HEAD|iron head|Iron head|Iron Head	名称：铁头|Iron Head\n(教学NPC)地点价格：\n Olivine City Gym -- $10,000 \n Tutor Heaven -- $15,000\n属性：钢\n分类：物理\n威力： 80\n命中： 100\nPP： 15
+精确匹配	查询诱惑|查询CAPTIVATE|查询captivate|查询Captivate|查询Captivate	名称：诱惑|Captivate\n属性：一般\n分类：变化\n威力： —\n命中： 100\nPP： 20
+精确匹配	塵埃噴射|粉塵射擊|垃圾射击|GUNK SHOT|gunk shot|Gunk shot|Gunk Shot	名称：塵埃噴射|粉塵射擊|垃圾射击|Gunk Shot\n(教学NPC)地点价格：\n Petalburg Woods -- $9,000\n属性：毒\n分类：物理\n威力： 120\n命中： 80\nPP： 5
+精确匹配	打草结|GRASS KNOT|grass knot|Grass knot|Grass Knot	名称：打草结|Grass Knot\n(技能机教学NPC)地点价格：\n Love Island (Inside of a House) -- $10,000\n属性：草\n分类：特殊\n威力： 变化\n命中： 100\nPP： 20
+精确匹配	隱蔽砂礫|秘密岩石|岩钉|隐形岩|STEALTH ROCK|stealth rock|Stealth rock|Stealth Rock	名称：隱蔽砂礫|秘密岩石|岩钉|隐形岩|Stealth Rock\n(教学NPC)地点价格：\n Johto Safari Mountain Side -- $15,000 \n Tutor Heaven -- $15,000\n属性：岩石\n分类：变化\n威力： —\n命中： —\nPP： 20
+精确匹配	查询木槌|查询WOOD HAMMER|查询wood hammer|查询Wood hammer|查询Wood Hammer	名称：木槌|Wood Hammer\n属性：草\n分类：物理\n威力： 120\n命中： 100\nPP： 15
+精确匹配	查询制裁光砾|查询JUDGMENT|查询judgment|查询Judgment|查询Judgment	名称：制裁光砾|Judgment\n属性：一般\n分类：特殊\n威力： 100\n命中： 100\nPP： 10
+精确匹配	查询回复指令|查询HEAL ORDER|查询heal order|查询Heal order|查询Heal Order	名称：回复指令|Heal Order\n属性：虫\n分类：变化\n威力： —\n命中： —\nPP： 10
+精确匹配	查询喋喋不休|查询CHATTER|查询chatter|查询Chatter|查询Chatter	名称：喋喋不休|Chatter\n属性：飞行\n分类：特殊\n威力： 65\n命中： 100\nPP： 20
+精确匹配	查询防御指令|查询DEFEND ORDER|查询defend order|查询Defend order|查询Defend Order	名称：防御指令|Defend Order\n属性：虫\n分类：变化\n威力： —\n命中： —\nPP： 10
+精确匹配	查询攻击指令|查询ATTACK ORDER|查询attack order|查询Attack order|查询Attack Order	名称：攻击指令|Attack Order\n属性：虫\n分类：物理\n威力： 90\n命中： 100\nPP： 15
+精确匹配	查询诸刃头锤|双刃头锤|查询HEAD SMASH|查询head smash|查询Head smash|查询Head Smash	名称：诸刃头锤|双刃头锤|Head Smash\n属性：岩石\n分类：物理\n威力： 150\n命中： 80\nPP： 5
+精确匹配	查询水柱喷射|水压喷射|水喷|水流喷射|查询AQUA JET|查询aqua jet|查询Aqua jet|查询Aqua Jet	名称：水柱喷射|水压喷射|水喷|水流喷射|Aqua Jet\n属性：水\n分类：物理\n威力： 40\n命中： 100\nPP： 20
+精确匹配	充电光束|CHARGE BEAM|charge beam|Charge beam|Charge Beam	名称：充电光束|Charge Beam\n(技能机教学NPC)地点价格：\n Celadon Gamecorner Stairs -- $15,000\n属性：电\n分类：特殊\n威力： 50\n命中： 90\nPP： 10
+精确匹配	虫蛀|虫食|虫咬|BUG BITE|bug bite|Bug bite|Bug Bite	名称：虫蛀|虫食|虫咬|Bug Bite\n(教学NPC)地点价格：\n Ilex Forest -- $5,000\n属性：虫\n分类：物理\n威力： 60\n命中： 100\nPP： 20
+精确匹配	查询二连击|查询DOUBLE HIT|查询double hit|查询Double hit|查询Double Hit	名称：二连击|Double Hit\n属性：一般\n分类：物理\n威力： 35\n命中： 90\nPP： 10
+精确匹配	查询亚空切断|空間切割|亚空间切裂|亚空裂斩|查询SPACIAL REND|查询spacial rend|查询Spacial rend|查询Spacial Rend	名称：亚空切断|空間切割|亚空间切裂|亚空裂斩|Spacial Rend\n属性：龙\n分类：特殊\n威力： 100\n命中： 95\nPP： 5
+精确匹配	查询影袭|影遁|潜影|暗影潜袭|查询SHADOW FORCE|查询shadow force|查询Shadow force|查询Shadow Force	名称：影袭|影遁|潜影|暗影潜袭|Shadow Force\n属性：幽灵\n分类：物理\n威力： 120\n命中： 100\nPP： 5
+精确匹配	查询时光咆哮|查询ROAR OF TIME|查询roar of time|查询Roar of time|查询Roar Of Time	名称：时光咆哮|Roar Of Time\n属性：龙\n分类：特殊\n威力： 150\n命中： 90\nPP： 5
+精确匹配	查询种子闪光|查询SEED FLARE|查询seed flare|查询Seed flare|查询Seed Flare	名称：种子闪光|Seed Flare\n属性：草\n分类：特殊\n威力： 120\n命中： 85\nPP： 5
+精确匹配	查询暗黑洞|查询DARK VOID|查询dark void|查询Dark void|查询Dark Void	名称：暗黑洞|Dark Void\n属性：恶\n分类：变化\n威力： —\n命中： 80\nPP： 10
+精确匹配	查询熔岩风暴|查询MAGMA STORM|查询magma storm|查询Magma storm|查询Magma Storm	名称：熔岩风暴|Magma Storm\n属性：火\n分类：特殊\n威力： 100\n命中： 75\nPP： 5
+精确匹配	查询捏碎|查询CRUSH GRIP|查询crush grip|查询Crush grip|查询Crush Grip	名称：捏碎|Crush Grip\n属性：一般\n分类：物理\n威力： 变化\n命中： 100\nPP： 5
+精确匹配	查询新月之舞|新月舞|查询LUNAR DANCE|查询lunar dance|查询Lunar dance|查询Lunar Dance	名称：新月之舞|新月舞|Lunar Dance\n属性：超能力\n分类：变化\n威力： —\n命中： —\nPP： 10
+精确匹配	怪风|妖风|奇异之风|OMINOUS WIND|ominous wind|Ominous wind|Ominous Wind	名称：怪风|妖风|奇异之风|Ominous Wind\n(教学NPC)地点价格：\n Ecruteak City Gym -- $10,000\n属性：幽灵\n分类：特殊\n威力： 60\n命中： 100\nPP： 5
+精确匹配	查询防御平分|防守平分|查询GUARD SPLIT|查询guard split|查询Guard split|查询Guard Split	名称：防御平分|防守平分|Guard Split\n属性：超能力\n分类：变化\n威力： —\n命中： —\nPP： 10
+精确匹配	查询憤怒粉|查询RAGE POWDER|查询rage powder|查询Rage powder|查询Rage Powder	名称：憤怒粉|Rage Powder\n属性：虫\n分类：变化\n威力： —\n命中： —\nPP： 20
+精确匹配	查询身体清理|体重减轻|身体轻量化|查询AUTOTOMIZE|查询autotomize|查询Autotomize|查询Autotomize	名称：身体清理|体重减轻|身体轻量化|Autotomize\n属性：钢\n分类：变化\n威力： —\n命中： —\nPP： 15
+精确匹配	查询力量平分|查询POWER SPLIT|查询power split|查询Power split|查询Power Split	名称：力量平分|Power Split\n属性：超能力\n分类：变化\n威力： —\n命中： —\nPP： 10
+精确匹配	查询广域防守|查询WIDE GUARD|查询wide guard|查询Wide guard|查询Wide Guard	名称：广域防守|Wide Guard\n属性：岩石\n分类：变化\n威力： —\n命中： —\nPP： 10
+精确匹配	查询毒液衝擊|查询VENOSHOCK|查询venoshock|查询Venoshock|查询Venoshock	名称：毒液衝擊|Venoshock\n属性：毒\n分类：特殊\n威力： 65\n命中： 100\nPP： 10
+精确匹配	查询磨爪|查询HONE CLAWS|查询hone claws|查询Hone claws|查询Hone Claws	名称：磨爪|Hone Claws\n属性：恶\n分类：变化\n威力： —\n命中： —\nPP： 15
+精确匹配	精神衝擊|TM53|tm53|Tm53|Tm53	名称：TM53|精神衝擊|Psyshock\n(TM技能机)地点价格：\n Celadon Mart -- $3,500\n属性：超能力\n分类：特殊\n威力： 80\n命中： 100\nPP： 10
+精确匹配	查询神奇空间|奇妙空间|查询WONDER ROOM|查询wonder room|查询Wonder room|查询Wonder Room	名称：神奇空间|奇妙空间|Wonder Room\n属性：超能力\n分类：变化\n威力： —\n命中： —\nPP： 10
+精确匹配	查询意念移物|查询TELEKINESIS|查询telekinesis|查询Telekinesis|查询Telekinesis	名称：意念移物|Telekinesis\n属性：超能力\n分类：变化\n威力： —\n命中： —\nPP： 15
+精确匹配	查询烈焰溅射|查询FLAME BURST|查询flame burst|查询Flame burst|查询Flame Burst	名称：烈焰溅射|Flame Burst\n属性：火\n分类：特殊\n威力： 70\n命中： 100\nPP： 15
+精确匹配	查询电球|查询ELECTRO BALL|查询electro ball|查询Electro ball|查询Electro Ball	名称：电球|Electro Ball\n属性：电\n分类：特殊\n威力： 变化\n命中： 100\nPP： 10
+精确匹配	查询同调噪音|同步干擾|查询SYNCHRONOISE|查询synchronoise|查询Synchronoise|查询Synchronoise	名称：同调噪音|同步干擾|Synchronoise\n属性：超能力\n分类：特殊\n威力： 120\n命中： 100\nPP： 10
+精确匹配	查询山岚摔|查询STORM THROW|查询storm throw|查询Storm throw|查询Storm Throw	名称：山岚摔|Storm Throw\n属性：格斗\n分类：物理\n威力： 60\n命中： 100\nPP： 10
+精确匹配	查询重磅冲撞|查询HEAVY SLAM|查询heavy slam|查询Heavy slam|查询Heavy Slam	名称：重磅冲撞|Heavy Slam\n属性：钢\n分类：物理\n威力： 变化\n命中： 100\nPP： 10
+精确匹配	查询浸水|查询SOAK|查询soak|查询Soak|查询Soak	名称：浸水|Soak\n属性：水\n分类：变化\n威力： —\n命中： 100\nPP： 20
+精确匹配	查询蝶舞|查询QUIVER DANCE|查询quiver dance|查询Quiver dance|查询Quiver Dance	名称：蝶舞|Quiver Dance\n属性：虫\n分类：变化\n威力： —\n命中： —\nPP： 20
+精确匹配	污泥波|SLUDGE WAVE|sludge wave|Sludge wave|Sludge Wave	名称：污泥波|Sludge Wave\n(技能机教学NPC)地点价格：\n Celadon Game Corner Stairs -- $15,000\n属性：毒\n分类：特殊\n威力： 95\n命中： 100\nPP： 10
+精确匹配	查询魔法空间|查询MAGIC ROOM|查询magic room|查询Magic room|查询Magic Room	名称：魔法空间|Magic Room\n属性：超能力\n分类：变化\n威力： —\n命中： —\nPP： 10
+精确匹配	查询击坠|击落|查询SMACK DOWN|查询smack down|查询Smack down|查询Smack Down	名称：击坠|击落|Smack Down\n属性：岩石\n分类：物理\n威力： 50\n命中： 100\nPP： 15
+精确匹配	查询变为同伴|找伙伴|查询ENTRAINMENT|查询entrainment|查询Entrainment|查询Entrainment	名称：变为同伴|找伙伴|Entrainment\n属性：一般\n分类：变化\n威力： —\n命中： 100\nPP： 15
+精确匹配	查询单纯光线|单纯光束|查询SIMPLE BEAM|查询simple beam|查询Simple beam|查询Simple Beam	名称：单纯光线|单纯光束|Simple Beam\n属性：一般\n分类：变化\n威力： —\n命中： 100\nPP： 15
+精确匹配	查询盤蜷|查询COIL|查询coil|查询Coil|查询Coil	名称：盤蜷|Coil\n属性：毒\n分类：变化\n威力： —\n命中： —\nPP： 20
+精确匹配	查询酸性炸弹|酸液炸弹|查询ACID SPRAY|查询acid spray|查询Acid spray|查询Acid Spray	名称：酸性炸弹|酸液炸弹|Acid Spray\n属性：毒\n分类：特殊\n威力： 40\n命中： 100\nPP： 20
+精确匹配	查询您先請|查询AFTER YOU|查询after you|查询After you|查询After You	名称：您先請|After You\n属性：一般\n分类：变化\n威力： —\n命中： —\nPP： 15
+精确匹配	查询轮唱|查询ROUND|查询round|查询Round|查询Round	名称：轮唱|Round\n属性：一般\n分类：特殊\n威力： 60\n命中： 100\nPP： 15
+精确匹配	查询下旋|下盘踢|查询LOW SWEEP|查询low sweep|查询Low sweep|查询Low Sweep	名称：下旋|下盘踢|Low Sweep\n属性：格斗\n分类：物理\n威力： 65\n命中： 100\nPP： 20
+精确匹配	查询迴声|查询ECHOED VOICE|查询echoed voice|查询Echoed voice|查询Echoed Voice	名称：迴声|Echoed Voice\n属性：一般\n分类：特殊\n威力： 40\n命中： 100\nPP： 15
+精确匹配	硝化冲锋|硝煙冲锋|烈焰驱进|蓄能焰襲|FLAME CHARGE|flame charge|Flame charge|Flame Charge	名称：硝化冲锋|硝煙冲锋|烈焰驱进|蓄能焰襲|Flame Charge\n(技能机教学NPC)地点价格：\n Cinnabar Mansion 2 -- $15,000\n属性：火\n分类：物理\n威力： 50\n命中： 100\nPP： 20
+精确匹配	诈骗|欺诈|FOUL PLAY|foul play|Foul play|Foul Play	名称：诈骗|欺诈|Foul Play\n(教学NPC)地点价格：\n Lavender Town -- $15,000\n属性：恶\n分类：物理\n威力： 95\n命中： 100\nPP： 15
+精确匹配	查询协助力量|辅助力量|查询STORED POWER|查询stored power|查询Stored power|查询Stored Power	名称：协助力量|辅助力量|Stored Power\n属性：超能力\n分类：特殊\n威力： 20\n命中： 100\nPP： 10
+精确匹配	查询快速防守|查询QUICK GUARD|查询quick guard|查询Quick guard|查询Quick Guard	名称：快速防守|Quick Guard\n属性：格斗\n分类：变化\n威力： —\n命中： —\nPP： 15
+精确匹配	清除之煙|CLEAR SMOG|clear smog|Clear smog|Clear Smog	名称：清除之煙|Clear Smog\n(教学NPC)地点价格：\n  Amity Square\n属性：毒\n分类：特殊\n威力： 50\n命中： —\nPP： 15
+精确匹配	查询厄运|祸不单行|查询HEX|查询hex|查询Hex|查询Hex	名称：厄运|祸不单行|Hex\n属性：幽灵\n分类：特殊\n威力： 65\n命中： 100\nPP： 10
+精确匹配	查询治愈波动|查询HEAL PULSE|查询heal pulse|查询Heal pulse|查询Heal Pulse	名称：治愈波动|Heal Pulse\n属性：超能力\n分类：变化\n威力： —\n命中： —\nPP： 10
+精确匹配	查询循序渐进|逐步击破|查询CHIP AWAY|查询chip away|查询Chip away|查询Chip Away	名称：循序渐进|逐步击破|Chip Away\n属性：一般\n分类：物理\n威力： 70\n命中： 100\nPP： 20
+精确匹配	查询飛行壓制|飛行重壓|飞身重压|查询FLYING PRESS|查询flying press|查询Flying press|查询Flying Press	名称：飛行壓制|飛行重壓|飞身重压|Flying Press\n属性：格斗\n分类：物理\n威力： 80\n命中： 95\nPP： 10
+精确匹配	查询花瓣暴风雪|花瓣飞雪|花吹雪|落英缤纷|查询PETAL BLIZZARD|查询petal blizzard|查询Petal blizzard|查询Petal Blizzard	名称：花瓣暴风雪|花瓣飞雪|花吹雪|落英缤纷|Petal Blizzard\n属性：草\n分类：物理\n威力： 90\n命中： 100\nPP： 15
+精确匹配	查询颠倒|查询TOPSY-TURVY|查询topsy-turvy|查询Topsy-turvy|查询Topsy-Turvy	名称：颠倒|Topsy-Turvy\n属性：惡\n分类：变化\n威力： —\n命中： 100\nPP： 20
+精确匹配	查询抛下狠话|查询PARTING SHOT|查询parting shot|查询Parting shot|查询Parting Shot	名称：抛下狠话|Parting Shot\n属性：恶\n分类：变化\n威力： —\n命中： 100\nPP： 20
+精确匹配	查询魅惑之声|查询DISARMING VOICE|查询disarming voice|查询Disarming voice|查询Disarming Voice	名称：魅惑之声|Disarming Voice\n属性：妖精\n分类：特殊\n威力： 40\n命中： —\nPP： 15
+精确匹配	查询冰冻干燥|冰干|冷冻干燥|查询FREEZE-DRY|查询freeze-dry|查询Freeze-dry|查询Freeze-Dry	名称：冰冻干燥|冰干|冷冻干燥|Freeze-Dry\n属性：冰\n分类：特殊\n威力： 70\n命中： 100\nPP： 20
+精确匹配	查询森林诅咒|查询FOREST’S CURSE|查询forest’s curse|查询Forest’s curse|查询Forest’S Curse	名称：森林诅咒|Forest’S Curse\n属性：草\n分类：变化\n威力： —\n命中： 100\nPP： 20
+精确匹配	查询抛物面充电|查询PARABOLIC CHARGE|查询parabolic charge|查询Parabolic charge|查询Parabolic Charge	名称：抛物面充电|Parabolic Charge\n属性：电\n分类：特殊\n威力： 50\n命中： 100\nPP： 20
+精确匹配	查询等离子浴|查询ION DELUGE|查询ion deluge|查询Ion deluge|查询Ion Deluge	名称：等离子浴|Ion Deluge\n属性：电\n分类：变化\n威力： —\n命中： —\nPP： 25
+精确匹配	查询咆哮|战吼|查询NOBLE ROAR|查询noble roar|查询Noble roar|查询Noble Roar	名称：咆哮|战吼|Noble Roar\n属性：一般\n分类：变化\n威力： —\n命中： 100\nPP： 30
+精确匹配	查询吸取之吻|查询DRAINING KISS|查询draining kiss|查询Draining kiss|查询Draining Kiss	名称：吸取之吻|Draining Kiss\n属性：妖精\n分类：特殊\n威力： 50\n命中： 100\nPP： 20
+精确匹配	查询青草场地|查询GRASSY TERRAIN|查询grassy terrain|查询Grassy terrain|查询Grassy Terrain	名称：青草场地|Grassy Terrain\n属性：草\n分类：变化\n威力： —\n命中： —\nPP： 10
+精确匹配	查询爆音波|查询BOOMBURST|查询boomburst|查询Boomburst|查询Boomburst	名称：爆音波|Boomburst\n属性：一般\n分类：特殊\n威力： 140\n命中： 100\nPP： 10
+精确匹配	查询月爆|月亮力|月之力量|月亮之力|查询MOONBLAST|查询moonblast|查询Moonblast|查询Moonblast	名称：月爆|月亮力|月之力量|月亮之力|Moonblast\n属性：妖精\n分类：特殊\n威力： 95\n命中： 100\nPP： 15
+精确匹配	查询妖精之风|查询FAIRY WIND|查询fairy wind|查询Fairy wind|查询Fairy Wind	名称：妖精之风|Fairy Wind\n属性：妖精\n分类：特殊\n威力： 40\n命中： 100\nPP： 30
+精确匹配	查询妖精之锁|查询FAIRY LOCK|查询fairy lock|查询Fairy lock|查询Fairy Lock	名称：妖精之锁|Fairy Lock\n属性：妖精\n分类：变化\n威力： —\n命中： —\nPP： 10
+精确匹配	查询狡猾防御|欺诈防御|戏法防守|查询CRAFTY SHIELD|查询crafty shield|查询Crafty shield|查询Crafty Shield	名称：狡猾防御|欺诈防御|戏法防守|Crafty Shield\n属性：妖精\n分类：变化\n威力： —\n命中： —\nPP： 10
+精确匹配	查询送电|输电|查询ELECTRIFY|查询electrify|查询Electrify|查询Electrify	名称：送电|输电|Electrify\n属性：電\n分类：变化\n威力： —\n命中： —\nPP： 20
+精确匹配	查询超能力Ｚ|查询SHATTERED PSYCHE|查询shattered psyche|查询Shattered psyche|查询Shattered Psyche	名称：超能力Ｚ|Shattered Psyche\n属性：超能力\n分类：特殊\n威力： —\n命中： —\nPP： 1
+精确匹配	查询妖精Ｚ|查询TWINKLE TACKLE|查询twinkle tackle|查询Twinkle tackle|查询Twinkle Tackle	名称：妖精Ｚ|Twinkle Tackle\n属性：妖精\n分类：物理\n威力： —\n命中： —\nPP： 1
+精确匹配	查询恶Ｚ|查询BLACK HOLE ECLIPSE|查询black hole eclipse|查询Black hole eclipse|查询Black Hole Eclipse	名称：恶Ｚ|Black Hole Eclipse\n属性：惡\n分类：特殊\n威力： —\n命中： —\nPP： 1
+精确匹配	查询恶Ｚ|查询BLACK HOLE ECLIPSE|查询black hole eclipse|查询Black hole eclipse|查询Black Hole Eclipse	名称：恶Ｚ|Black Hole Eclipse\n属性：惡\n分类：物理\n威力： —\n命中： —\nPP： 1
+精确匹配	查询龙Ｚ|查询DEVASTATING DRAKE|查询devastating drake|查询Devastating drake|查询Devastating Drake	名称：龙Ｚ|Devastating Drake\n属性：龙\n分类：特殊\n威力： —\n命中： —\nPP： 1
+精确匹配	查询龙Ｚ|查询DEVASTATING DRAKE|查询devastating drake|查询Devastating drake|查询Devastating Drake	名称：龙Ｚ|Devastating Drake\n属性：龙\n分类：物理\n威力： —\n命中： —\nPP： 1
+精确匹配	查询冰Ｚ|查询SUBZERO SLAMMER|查询subzero slammer|查询Subzero slammer|查询Subzero Slammer	名称：冰Ｚ|Subzero Slammer\n属性：冰\n分类：特殊\n威力： —\n命中： —\nPP： 1
+精确匹配	查询冰Ｚ|查询SUBZERO SLAMMER|查询subzero slammer|查询Subzero slammer|查询Subzero Slammer	名称：冰Ｚ|Subzero Slammer\n属性：冰\n分类：物理\n威力： —\n命中： —\nPP： 1
+精确匹配	查询妖精Ｚ|查询TWINKLE TACKLE|查询twinkle tackle|查询Twinkle tackle|查询Twinkle Tackle	名称：妖精Ｚ|Twinkle Tackle\n属性：妖精\n分类：特殊\n威力： —\n命中： —\nPP： 1
+精确匹配	查询超能力Ｚ|查询SHATTERED PSYCHE|查询shattered psyche|查询Shattered psyche|查询Shattered Psyche	名称：超能力Ｚ|Shattered Psyche\n属性：超能力\n分类：物理\n威力： —\n命中： —\nPP： 1
+精确匹配	查询花疗|查询FLORAL HEALING|查询floral healing|查询Floral healing|查询Floral Healing	名称：花疗|Floral Healing\n属性：妖精\n分类：变化\n威力： —\n命中： —\nPP： 10
+精确匹配	查询冰锤|查询ICE HAMMER|查询ice hammer|查询Ice hammer|查询Ice Hammer	名称：冰锤|Ice Hammer\n属性：冰\n分类：物理\n威力： 100\n命中： 90\nPP： 10
+精确匹配	查询泡影的咏叹调|查询SPARKLING ARIA|查询sparkling aria|查询Sparkling aria|查询Sparkling Aria	名称：泡影的咏叹调|Sparkling Aria\n属性：水\n分类：特殊\n威力： 90\n命中： 100\nPP： 10
+精确匹配	查询ＤＤ金勾臂|查询DARKEST LARIAT|查询darkest lariat|查询Darkest lariat|查询Darkest Lariat	名称：ＤＤ金勾臂|Darkest Lariat\n属性：惡\n分类：物理\n威力： 85\n命中： 100\nPP： 10
+精确匹配	查询缝影|查询SPIRIT SHACKLE|查询spirit shackle|查询Spirit shackle|查询Spirit Shackle	名称：缝影|Spirit Shackle\n属性：幽灵\n分类：物理\n威力： 80\n命中： 100\nPP： 10
+精确匹配	查询碉堡|查询BANEFUL BUNKER|查询baneful bunker|查询Baneful bunker|查询Baneful Bunker	名称：碉堡|Baneful Bunker\n属性：毒\n分类：变化\n威力： —\n命中： —\nPP： 10
+精确匹配	查询十万马力|查询HIGH HORSEPOWER|查询high horsepower|查询High horsepower|查询High Horsepower	名称：十万马力|High Horsepower\n属性：地面\n分类：物理\n威力： 95\n命中： 95\nPP： 10
+精确匹配	查询迎头一击|查询FIRST IMPRESSION|查询first impression|查询First impression|查询First Impression	名称：迎头一击|First Impression\n属性：虫\n分类：物理\n威力： 90\n命中： 100\nPP： 10
+精确匹配	查询集沙|查询SHORE UP|查询shore up|查询Shore up|查询Shore Up	名称：集沙|Shore Up\n属性：地面\n分类：变化\n威力： —\n命中： —\nPP： 10
+精确匹配	查询皮卡丘Ｚ|查询CASTATROPIKA|查询castatropika|查询Castatropika|查询Castatropika	名称：皮卡丘Ｚ|Castatropika\n属性：电\n分类：物理\n威力： 210\n命中： —\nPP： 1
+精确匹配	查询日光刃|查询SOLAR BLADE|查询solar blade|查询Solar blade|查询Solar Blade	名称：日光刃|Solar Blade\n属性：草\n分类：物理\n威力： 125\n命中： 100\nPP： 10
+精确匹配	查询掷锚|查询ANCHOR SHOT|查询anchor shot|查询Anchor shot|查询Anchor Shot	名称：掷锚|Anchor Shot\n属性：钢\n分类：物理\n威力： 80\n命中： 100\nPP： 20
+精确匹配	查询花粉团|查询POLLEN PUFF|查询pollen puff|查询Pollen puff|查询Pollen Puff	名称：花粉团|Pollen Puff\n属性：虫\n分类：特殊\n威力： 90\n命中： 100\nPP： 15
+精确匹配	查询地狱突刺|查询THROAT CHOP|查询throat chop|查询Throat chop|查询Throat Chop	名称：地狱突刺|Throat Chop\n属性：恶\n分类：物理\n威力： 80\n命中： 100\nPP： 15
+精确匹配	查询磨砺|查询LASER FOCUS|查询laser focus|查询Laser focus|查询Laser Focus	名称：磨砺|Laser Focus\n属性：一般\n分类：变化\n威力： —\n命中： —\nPP： 30
+精确匹配	查询毒丝|查询TOXIC THREAD|查询toxic thread|查询Toxic thread|查询Toxic Thread	名称：毒丝|Toxic Thread\n属性：毒\n分类：变化\n威力： —\n命中： 100\nPP： 20
+精确匹配	查询辅助齿轮|查询GEAR UP|查询gear up|查询Gear up|查询Gear Up	名称：辅助齿轮|Gear Up\n属性：钢\n分类：变化\n威力： —\n命中： —\nPP： 20
+精确匹配	查询聚光灯|查询SPOTLIGHT|查询spotlight|查询Spotlight|查询Spotlight	名称：聚光灯|Spotlight\n属性：一般\n分类：变化\n威力： —\n命中： —\nPP： 15
+精确匹配	查询树叶|查询LEAFAGE|查询leafage|查询Leafage|查询Leafage	名称：树叶|Leafage\n属性：草\n分类：物理\n威力： 40\n命中： 100\nPP： 40
+精确匹配	查询吸取力量|查询STRENGTH SAP|查询strength sap|查询Strength sap|查询Strength Sap	名称：吸取力量|Strength Sap\n属性：草\n分类：变化\n威力： —\n命中： 100\nPP： 10
+精确匹配	查询猛扑|查询LUNGE|查询lunge|查询Lunge|查询Lunge	名称：猛扑|Lunge\n属性：虫\n分类：物理\n威力： 80\n命中： 100\nPP： 15
+精确匹配	查询净化|查询PURIFY|查询purify|查询Purify|查询Purify	名称：净化|Purify\n属性：毒\n分类：变化\n威力： —\n命中： —\nPP： 20
+精确匹配	查询觉醒之舞|查询REVELATION DANCE|查询revelation dance|查询Revelation dance|查询Revelation Dance	名称：觉醒之舞|Revelation Dance\n属性：一般\n分类：特殊\n威力： 90\n命中： 100\nPP： 15
+精确匹配	查询嚣张|查询POWER TRIP|查询power trip|查询Power trip|查询Power Trip	名称：嚣张|Power Trip\n属性：恶\n分类：物理\n威力： 20\n命中： 100\nPP： 10
+精确匹配	修长之角|SMART STRIKE|smart strike|Smart strike|Smart Strike	名称：修长之角|Smart Strike\n(教学NPC)地点价格：\n Iron Island Exit Room\n属性：钢\n分类：物理\n威力： 70\n命中： —\nPP： 10
+精确匹配	查询速度互换|查询SPEED SWAP|查询speed swap|查询Speed swap|查询Speed Swap	名称：速度互换|Speed Swap\n属性：超能力\n分类：变化\n威力： —\n命中： —\nPP： 10
+精确匹配	查询核心惩罚者|查询CORE ENFORCER|查询core enforcer|查询Core enforcer|查询Core Enforcer	名称：核心惩罚者|Core Enforcer\n属性：龙\n分类：特殊\n威力： 100\n命中： 100\nPP： 10
+精确匹配	查询燃尽|查询BURN UP|查询burn up|查询Burn up|查询Burn Up	名称：燃尽|Burn Up\n属性：火\n分类：特殊\n威力： 130\n命中： 100\nPP： 5
+精确匹配	查询火焰鞭|查询FIRE LASH|查询fire lash|查询Fire lash|查询Fire Lash	名称：火焰鞭|Fire Lash\n属性：火\n分类：物理\n威力： 80\n命中： 100\nPP： 15
+精确匹配	查询精神场地|查询PSYCHIC TERRAIN|查询psychic terrain|查询Psychic terrain|查询Psychic Terrain	名称：精神场地|Psychic Terrain\n属性：超能力\n分类：变化\n威力： —\n命中： —\nPP： 10
+精确匹配	查询热带踢|查询TROP KICK|查询trop kick|查询Trop kick|查询Trop Kick	名称：热带踢|Trop Kick\n属性：草\n分类：物理\n威力： 70\n命中： 100\nPP： 15
+精确匹配	查询狙射树枭Ｚ|查询SINISTER ARROW RAID|查询sinister arrow raid|查询Sinister arrow raid|查询Sinister Arrow Raid	名称：狙射树枭Ｚ|Sinister Arrow Raid\n属性：幽灵\n分类：物理\n威力： 180\n命中： —\nPP： 1
+精确匹配	查询炽焰咆哮虎Ｚ|查询MALICIOUS MOONSAULT|查询malicious moonsault|查询Malicious moonsault|查询Malicious Moonsault	名称：炽焰咆哮虎Ｚ|Malicious Moonsault\n属性：惡\n分类：物理\n威力： 180\n命中： —\nPP： 1
+精确匹配	查询龙锤|查询DRAGON HAMMER|查询dragon hammer|查询Dragon hammer|查询Dragon Hammer	名称：龙锤|Dragon Hammer\n属性：龙\n分类：物理\n威力： 90\n命中： 100\nPP： 15
+精确匹配	查询极光幕|查询AURORA VEIL|查询aurora veil|查询Aurora veil|查询Aurora Veil	名称：极光幕|Aurora Veil\n属性：冰\n分类：变化\n威力： —\n命中： —\nPP： 20
+精确匹配	查询鸟嘴加农炮|查询BEAK BLAST|查询beak blast|查询Beak blast|查询Beak Blast	名称：鸟嘴加农炮|Beak Blast\n属性：飞行\n分类：物理\n威力： 100\n命中： 100\nPP： 15
+精确匹配	查询西狮海壬Ｚ|查询OCEANIC OPERETTA|查询oceanic operetta|查询Oceanic operetta|查询Oceanic Operetta	名称：西狮海壬Ｚ|Oceanic Operetta\n属性：水\n分类：特殊\n威力： 195\n命中： —\nPP： 1
+精确匹配	查询号令|查询INSTRUCT|查询instruct|查询Instruct|查询Instruct	名称：号令|Instruct\n属性：超能力\n分类：变化\n威力： —\n命中： —\nPP： 15
+精确匹配	查询鳞片噪音|查询CLANGING SCALES|查询clanging scales|查询Clanging scales|查询Clanging Scales	名称：鳞片噪音|Clanging Scales\n属性：龙\n分类：特殊\n威力： 110\n命中： 100\nPP： 5
+精确匹配	狂舞挥打|BRUTAL SWING|brutal swing|Brutal swing|Brutal Swing	名称：狂舞挥打|Brutal Swing\n(教学NPC)地点价格：\n Old Chateau Dining Room\n属性：恶\n分类：物理\n威力： 60\n命中： 100\nPP： 20
+精确匹配	查询梦幻Ｚ|查询GENESIS SUPERNOVA|查询genesis supernova|查询Genesis supernova|查询Genesis Supernova	名称：梦幻Ｚ|Genesis Supernova\n属性：超能力\n分类：特殊\n威力： 185\n命中： —\nPP： 1
+精确匹配	查询精神之牙|查询PSYCHIC FANGS|查询psychic fangs|查询Psychic fangs|查询Psychic Fangs	名称：精神之牙|Psychic Fangs\n属性：超能力\n分类：物理\n威力： 85\n命中： 100\nPP： 10
+精确匹配	查询花朵加农炮|查询FLEUR CANNON|查询fleur cannon|查询Fleur cannon|查询Fleur Cannon	名称：花朵加农炮|Fleur Cannon\n属性：妖精\n分类：特殊\n威力： 130\n命中： 90\nPP： 5
+精确匹配	查询陷阱甲壳|查询SHELL TRAP|查询shell trap|查询Shell trap|查询Shell Trap	名称：陷阱甲壳|Shell Trap\n属性：火\n分类：特殊\n威力： 150\n命中： 100\nPP： 5
+精确匹配	查询伊布Ｚ|查询EXTREME EVOBOOST|查询extreme evoboost|查询Extreme evoboost|查询Extreme Evoboost	名称：伊布Ｚ|Extreme Evoboost\n属性：一般\n分类：变化\n威力： —\n命中： —\nPP： 1
+精确匹配	查询卡璞Ｚ|查询GUARDIAN OF ALOLA|查询guardian of alola|查询Guardian of alola|查询Guardian Of Alola	名称：卡璞Ｚ|Guardian Of Alola\n属性：妖精\n分类：特殊\n威力： —\n命中： —\nPP： 1
+精确匹配	查询卡比兽Ｚ|查询PULVERIZING PANCAKE|查询pulverizing pancake|查询Pulverizing pancake|查询Pulverizing Pancake	名称：卡比兽Ｚ|Pulverizing Pancake\n属性：一般\n分类：物理\n威力： 210\n命中： —\nPP： 1
+精确匹配	查询阿罗雷Ｚ|查询STOKED SPARKSURFER|查询stoked sparksurfer|查询Stoked sparksurfer|查询Stoked Sparksurfer	名称：阿罗雷Ｚ|Stoked Sparksurfer\n属性：电\n分类：特殊\n威力： 175\n命中： —\nPP： 1
+精确匹配	查询跺脚|查询STOMPING TANTRUM|查询stomping tantrum|查询Stomping tantrum|查询Stomping Tantrum	名称：跺脚|Stomping Tantrum\n属性：地面\n分类：物理\n威力： 75\n命中： 100\nPP： 10
+精确匹配	机器人出来	我出来了，大傻逼
